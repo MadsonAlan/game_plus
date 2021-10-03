@@ -1,0 +1,1706 @@
+[
+  {
+    "valueId": "19",
+    "titleIndex": "Ação"
+  },
+  {
+    "valueId": "4182",
+    "titleIndex": "Um Jogador"
+  },
+  {
+    "valueId": "492",
+    "titleIndex": "Indie"
+  },
+  {
+    "valueId": "21",
+    "titleIndex": "Aventura"
+  },
+  {
+    "valueId": "599",
+    "titleIndex": "Simulação"
+  },
+  {
+    "valueId": "3859",
+    "titleIndex": "Multijogador"
+  },
+  {
+    "valueId": "122",
+    "titleIndex": "RPG"
+  },
+  {
+    "valueId": "9",
+    "titleIndex": "Estratégia"
+  },
+  {
+    "valueId": "597",
+    "titleIndex": "Casual"
+  },
+  {
+    "valueId": "4166",
+    "titleIndex": "Atmosférico"
+  },
+  {
+    "valueId": "3871",
+    "titleIndex": "2D "
+  },
+  {
+    "valueId": "1756",
+    "titleIndex": "Trilha Sonora Boa"
+  },
+  {
+    "valueId": "1742",
+    "titleIndex": "Boa Trama"
+  },
+  {
+    "valueId": "1695",
+    "titleIndex": "Mundo Aberto"
+  },
+  {
+    "valueId": "1685",
+    "titleIndex": "Cooperativo"
+  },
+  {
+    "valueId": "3839",
+    "titleIndex": "Primeira Pessoa"
+  },
+  {
+    "valueId": "4136",
+    "titleIndex": "Engraçado"
+  },
+  {
+    "valueId": "4667",
+    "titleIndex": "Violento"
+  },
+  {
+    "valueId": "1667",
+    "titleIndex": "Terror"
+  },
+  {
+    "valueId": "1664",
+    "titleIndex": "Quebra-cabeça"
+  },
+  {
+    "valueId": "4085",
+    "titleIndex": "Anime"
+  },
+  {
+    "valueId": "4345",
+    "titleIndex": "Violência Detalhada"
+  },
+  {
+    "valueId": "4026",
+    "titleIndex": "Difícil"
+  },
+  {
+    "valueId": "1774",
+    "titleIndex": "Tiro"
+  },
+  {
+    "valueId": "1684",
+    "titleIndex": "Fantasia"
+  },
+  {
+    "valueId": "84",
+    "titleIndex": "Design e Ilustração"
+  },
+  {
+    "valueId": "87",
+    "titleIndex": "Utilitários"
+  },
+  {
+    "valueId": "113",
+    "titleIndex": "Gratuito para Jogar"
+  },
+  {
+    "valueId": "128",
+    "titleIndex": "Multijogador Massivo"
+  },
+  {
+    "valueId": "493",
+    "titleIndex": "Acesso Antecipado"
+  },
+  {
+    "valueId": "699",
+    "titleIndex": "Corrida"
+  },
+  {
+    "valueId": "701",
+    "titleIndex": "Esportes"
+  },
+  {
+    "valueId": "784",
+    "titleIndex": "Produção de Vídeo"
+  },
+  {
+    "valueId": "809",
+    "titleIndex": "Edição de Fotos"
+  },
+  {
+    "valueId": "872",
+    "titleIndex": "Animação e Modelagem"
+  },
+  {
+    "valueId": "1027",
+    "titleIndex": "Produção de Áudio"
+  },
+  {
+    "valueId": "1036",
+    "titleIndex": "Educativo"
+  },
+  {
+    "valueId": "1038",
+    "titleIndex": "Publicação na Web"
+  },
+  {
+    "valueId": "1445",
+    "titleIndex": "Software de Treinamento"
+  },
+  {
+    "valueId": "1616",
+    "titleIndex": "Trens"
+  },
+  {
+    "valueId": "1621",
+    "titleIndex": "Música"
+  },
+  {
+    "valueId": "1625",
+    "titleIndex": "Plataforma"
+  },
+  {
+    "valueId": "1628",
+    "titleIndex": "Metroidvania"
+  },
+  {
+    "valueId": "1638",
+    "titleIndex": "Cachorro"
+  },
+  {
+    "valueId": "1643",
+    "titleIndex": "Construção"
+  },
+  {
+    "valueId": "1644",
+    "titleIndex": "Direção"
+  },
+  {
+    "valueId": "1645",
+    "titleIndex": "Tower Defense"
+  },
+  {
+    "valueId": "1646",
+    "titleIndex": "Hack and Slash"
+  },
+  {
+    "valueId": "1647",
+    "titleIndex": "Velho Oeste"
+  },
+  {
+    "valueId": "1649",
+    "titleIndex": "Game Maker"
+  },
+  {
+    "valueId": "1651",
+    "titleIndex": "Sátira"
+  },
+  {
+    "valueId": "1654",
+    "titleIndex": "Relaxante"
+  },
+  {
+    "valueId": "1659",
+    "titleIndex": "Zumbi"
+  },
+  {
+    "valueId": "1662",
+    "titleIndex": "Sobrevivência "
+  },
+  {
+    "valueId": "1663",
+    "titleIndex": "Tiro em Primeira Pessoa (FPS)"
+  },
+  {
+    "valueId": "1665",
+    "titleIndex": "Combinar 3"
+  },
+  {
+    "valueId": "1666",
+    "titleIndex": "Cartas"
+  },
+  {
+    "valueId": "1669",
+    "titleIndex": "Suporte a Mods"
+  },
+  {
+    "valueId": "1670",
+    "titleIndex": "4X"
+  },
+  {
+    "valueId": "1671",
+    "titleIndex": "Super-heróis"
+  },
+  {
+    "valueId": "1673",
+    "titleIndex": "Alienígena"
+  },
+  {
+    "valueId": "1674",
+    "titleIndex": "Digitação"
+  },
+  {
+    "valueId": "1676",
+    "titleIndex": "Estratégia em Tempo Real (RTS)"
+  },
+  {
+    "valueId": "1677",
+    "titleIndex": "Em Turnos"
+  },
+  {
+    "valueId": "1678",
+    "titleIndex": "Guerra"
+  },
+  {
+    "valueId": "1679",
+    "titleIndex": "Futebol"
+  },
+  {
+    "valueId": "1680",
+    "titleIndex": "Assaltos"
+  },
+  {
+    "valueId": "1681",
+    "titleIndex": "Piratas"
+  },
+  {
+    "valueId": "1687",
+    "titleIndex": "Furtivo"
+  },
+  {
+    "valueId": "1688",
+    "titleIndex": "Ninja"
+  },
+  {
+    "valueId": "1693",
+    "titleIndex": "Clássico"
+  },
+  {
+    "valueId": "1697",
+    "titleIndex": "Terceira Pessoa"
+  },
+  {
+    "valueId": "1698",
+    "titleIndex": "Apontar e Clicar"
+  },
+  {
+    "valueId": "1702",
+    "titleIndex": "Fabricação"
+  },
+  {
+    "valueId": "1708",
+    "titleIndex": "Tático"
+  },
+  {
+    "valueId": "1710",
+    "titleIndex": "Surrealista"
+  },
+  {
+    "valueId": "1714",
+    "titleIndex": "Psicodélico"
+  },
+  {
+    "valueId": "1716",
+    "titleIndex": "Roguelike"
+  },
+  {
+    "valueId": "1717",
+    "titleIndex": "Grade Hexagonal"
+  },
+  {
+    "valueId": "1718",
+    "titleIndex": "MOBA"
+  },
+  {
+    "valueId": "1719",
+    "titleIndex": "Comedy"
+  },
+  {
+    "valueId": "1720",
+    "titleIndex": "Explorador de Calabouços"
+  },
+  {
+    "valueId": "1721",
+    "titleIndex": "Terror Psicológico"
+  },
+  {
+    "valueId": "1723",
+    "titleIndex": "Estratégia em Tempo Real com Ação"
+  },
+  {
+    "valueId": "1730",
+    "titleIndex": "Sokoban"
+  },
+  {
+    "valueId": "1732",
+    "titleIndex": "Voxel"
+  },
+  {
+    "valueId": "1733",
+    "titleIndex": "Imperdoável"
+  },
+  {
+    "valueId": "1734",
+    "titleIndex": "Ritmo Rápido"
+  },
+  {
+    "valueId": "1736",
+    "titleIndex": "Lego"
+  },
+  {
+    "valueId": "1738",
+    "titleIndex": "Objetos Ocultos"
+  },
+  {
+    "valueId": "1741",
+    "titleIndex": "Estratégia em turnos"
+  },
+  {
+    "valueId": "1743",
+    "titleIndex": "Luta"
+  },
+  {
+    "valueId": "1746",
+    "titleIndex": "Basquete"
+  },
+  {
+    "valueId": "1751",
+    "titleIndex": "História em Quadrinhos"
+  },
+  {
+    "valueId": "1752",
+    "titleIndex": "Ritmo"
+  },
+  {
+    "valueId": "1753",
+    "titleIndex": "Skate"
+  },
+  {
+    "valueId": "1754",
+    "titleIndex": "MMORPG"
+  },
+  {
+    "valueId": "1755",
+    "titleIndex": "Espacial"
+  },
+  {
+    "valueId": "1759",
+    "titleIndex": "Morte Permanente"
+  },
+  {
+    "valueId": "1770",
+    "titleIndex": "Jogo de Tabuleiro"
+  },
+  {
+    "valueId": "1773",
+    "titleIndex": "Arcade"
+  },
+  {
+    "valueId": "1775",
+    "titleIndex": "Jogador x Jogador (PvP)"
+  },
+  {
+    "valueId": "1777",
+    "titleIndex": "Steampunk"
+  },
+  {
+    "valueId": "3796",
+    "titleIndex": "Baseado em um Romance"
+  },
+  {
+    "valueId": "3798",
+    "titleIndex": "Câmera Lateral"
+  },
+  {
+    "valueId": "3799",
+    "titleIndex": "Romance Visual"
+  },
+  {
+    "valueId": "3810",
+    "titleIndex": "Faça o que Quiser"
+  },
+  {
+    "valueId": "3813",
+    "titleIndex": "Tática em Tempo Real"
+  },
+  {
+    "valueId": "3814",
+    "titleIndex": "Tiro em Terceira Pessoa"
+  },
+  {
+    "valueId": "3834",
+    "titleIndex": "Exploração"
+  },
+  {
+    "valueId": "3835",
+    "titleIndex": "Pós-apocalíptico"
+  },
+  {
+    "valueId": "3841",
+    "titleIndex": "Cooperativo Local"
+  },
+  {
+    "valueId": "3843",
+    "titleIndex": "Cooperativo Online"
+  },
+  {
+    "valueId": "3854",
+    "titleIndex": "Enredo Rico"
+  },
+  {
+    "valueId": "3877",
+    "titleIndex": "Plataforma de Precisão"
+  },
+  {
+    "valueId": "3878",
+    "titleIndex": "Competitivo"
+  },
+  {
+    "valueId": "3916",
+    "titleIndex": "Velha-guarda"
+  },
+  {
+    "valueId": "3920",
+    "titleIndex": "Culinária"
+  },
+  {
+    "valueId": "3934",
+    "titleIndex": "Imersivo"
+  },
+  {
+    "valueId": "3942",
+    "titleIndex": "Ficção Científica"
+  },
+  {
+    "valueId": "3952",
+    "titleIndex": "Gótico"
+  },
+  {
+    "valueId": "3955",
+    "titleIndex": "Jogo de Ação Focado em Personagem"
+  },
+  {
+    "valueId": "3959",
+    "titleIndex": "Rogue-lite"
+  },
+  {
+    "valueId": "3964",
+    "titleIndex": "Gráficos Pixelados"
+  },
+  {
+    "valueId": "3965",
+    "titleIndex": "Épico"
+  },
+  {
+    "valueId": "3968",
+    "titleIndex": "Física"
+  },
+  {
+    "valueId": "3978",
+    "titleIndex": "Terror de Sobrevivência"
+  },
+  {
+    "valueId": "3987",
+    "titleIndex": "Histórico"
+  },
+  {
+    "valueId": "3993",
+    "titleIndex": "Combate"
+  },
+  {
+    "valueId": "4004",
+    "titleIndex": "Retrô"
+  },
+  {
+    "valueId": "4018",
+    "titleIndex": "Vampiro"
+  },
+  {
+    "valueId": "4036",
+    "titleIndex": "Parkour"
+  },
+  {
+    "valueId": "4046",
+    "titleIndex": "Dragão"
+  },
+  {
+    "valueId": "4057",
+    "titleIndex": "Mágica"
+  },
+  {
+    "valueId": "4064",
+    "titleIndex": "Thriller"
+  },
+  {
+    "valueId": "4094",
+    "titleIndex": "Minimalista"
+  },
+  {
+    "valueId": "4102",
+    "titleIndex": "Corrida com Combate"
+  },
+  {
+    "valueId": "4106",
+    "titleIndex": "Ação / Aventura"
+  },
+  {
+    "valueId": "4115",
+    "titleIndex": "Cyberpunk"
+  },
+  {
+    "valueId": "4137",
+    "titleIndex": "Transumanismo"
+  },
+  {
+    "valueId": "4145",
+    "titleIndex": "Cinemático"
+  },
+  {
+    "valueId": "4150",
+    "titleIndex": "Segunda Guerra Mundial"
+  },
+  {
+    "valueId": "4155",
+    "titleIndex": "Baseado em Classes"
+  },
+  {
+    "valueId": "4158",
+    "titleIndex": "Porradaria"
+  },
+  {
+    "valueId": "4161",
+    "titleIndex": "Tempo Real"
+  },
+  {
+    "valueId": "4168",
+    "titleIndex": "Militar"
+  },
+  {
+    "valueId": "4172",
+    "titleIndex": "Medieval"
+  },
+  {
+    "valueId": "4175",
+    "titleIndex": "Realístico"
+  },
+  {
+    "valueId": "4184",
+    "titleIndex": "Xadrez"
+  },
+  {
+    "valueId": "4190",
+    "titleIndex": "Viciante"
+  },
+  {
+    "valueId": "4191",
+    "titleIndex": "3D"
+  },
+  {
+    "valueId": "4195",
+    "titleIndex": "Cartunizado"
+  },
+  {
+    "valueId": "4202",
+    "titleIndex": "Troca"
+  },
+  {
+    "valueId": "4231",
+    "titleIndex": "RPG de Ação"
+  },
+  {
+    "valueId": "4234",
+    "titleIndex": "Curta-metragem"
+  },
+  {
+    "valueId": "4236",
+    "titleIndex": "Saques"
+  },
+  {
+    "valueId": "4242",
+    "titleIndex": "Episódico"
+  },
+  {
+    "valueId": "4252",
+    "titleIndex": "Estilizado"
+  },
+  {
+    "valueId": "4255",
+    "titleIndex": "Mandando Bala"
+  },
+  {
+    "valueId": "4291",
+    "titleIndex": "Nave Espacial"
+  },
+  {
+    "valueId": "4295",
+    "titleIndex": "Futurista"
+  },
+  {
+    "valueId": "4305",
+    "titleIndex": "Colorido"
+  },
+  {
+    "valueId": "4325",
+    "titleIndex": "Combate em Turnos"
+  },
+  {
+    "valueId": "4328",
+    "titleIndex": "Construção de Cidades"
+  },
+  {
+    "valueId": "4342",
+    "titleIndex": "Sombrio"
+  },
+  {
+    "valueId": "4364",
+    "titleIndex": "Grande Estratégia"
+  },
+  {
+    "valueId": "4376",
+    "titleIndex": "Assassino"
+  },
+  {
+    "valueId": "4400",
+    "titleIndex": "Abstrato"
+  },
+  {
+    "valueId": "4434",
+    "titleIndex": "JRPG"
+  },
+  {
+    "valueId": "4474",
+    "titleIndex": "CRPG"
+  },
+  {
+    "valueId": "4486",
+    "titleIndex": "Escolha a sua Aventura"
+  },
+  {
+    "valueId": "4508",
+    "titleIndex": "Campanha Cooperativa"
+  },
+  {
+    "valueId": "4520",
+    "titleIndex": "Rural"
+  },
+  {
+    "valueId": "4559",
+    "titleIndex": "Eventos Rápidos"
+  },
+  {
+    "valueId": "4562",
+    "titleIndex": "Desenho Animado"
+  },
+  {
+    "valueId": "4598",
+    "titleIndex": "História Alternativa"
+  },
+  {
+    "valueId": "4604",
+    "titleIndex": "Fantasia Sombria"
+  },
+  {
+    "valueId": "4608",
+    "titleIndex": "Esgrima"
+  },
+  {
+    "valueId": "4637",
+    "titleIndex": "SHMUP com visão de cima"
+  },
+  {
+    "valueId": "4684",
+    "titleIndex": "Jogo de Guerra"
+  },
+  {
+    "valueId": "4695",
+    "titleIndex": "Economia"
+  },
+  {
+    "valueId": "4700",
+    "titleIndex": "Filme"
+  },
+  {
+    "valueId": "4711",
+    "titleIndex": "Alta Rejogabilidade"
+  },
+  {
+    "valueId": "4726",
+    "titleIndex": "Fofo"
+  },
+  {
+    "valueId": "4736",
+    "titleIndex": "Luta 2D"
+  },
+  {
+    "valueId": "4747",
+    "titleIndex": "Personalização de Personagens"
+  },
+  {
+    "valueId": "4754",
+    "titleIndex": "Política"
+  },
+  {
+    "valueId": "4758",
+    "titleIndex": "Controle Duplo"
+  },
+  {
+    "valueId": "4777",
+    "titleIndex": "Luta + Espetáculo"
+  },
+  {
+    "valueId": "4791",
+    "titleIndex": "Visão Superior"
+  },
+  {
+    "valueId": "4821",
+    "titleIndex": "Mecânicas"
+  },
+  {
+    "valueId": "4835",
+    "titleIndex": "Seis Graus de Liberdade"
+  },
+  {
+    "valueId": "4840",
+    "titleIndex": "Local para 4 Jogadores"
+  },
+  {
+    "valueId": "4845",
+    "titleIndex": "Capitalismo"
+  },
+  {
+    "valueId": "4853",
+    "titleIndex": "Político"
+  },
+  {
+    "valueId": "4878",
+    "titleIndex": "Paródia"
+  },
+  {
+    "valueId": "4885",
+    "titleIndex": "Chuva de Balas"
+  },
+  {
+    "valueId": "4947",
+    "titleIndex": "Romance"
+  },
+  {
+    "valueId": "4975",
+    "titleIndex": "2,5D"
+  },
+  {
+    "valueId": "4994",
+    "titleIndex": "Combate Naval"
+  },
+  {
+    "valueId": "5030",
+    "titleIndex": "Distópico"
+  },
+  {
+    "valueId": "5055",
+    "titleIndex": "eSports"
+  },
+  {
+    "valueId": "5094",
+    "titleIndex": "Narração"
+  },
+  {
+    "valueId": "5125",
+    "titleIndex": "Geração Procedural"
+  },
+  {
+    "valueId": "5153",
+    "titleIndex": "Kickstarter"
+  },
+  {
+    "valueId": "5154",
+    "titleIndex": "Pontos, Pontos, Pontos!"
+  },
+  {
+    "valueId": "5160",
+    "titleIndex": "Dinossauros"
+  },
+  {
+    "valueId": "5179",
+    "titleIndex": "Guerra Fria"
+  },
+  {
+    "valueId": "5186",
+    "titleIndex": "Psicológico"
+  },
+  {
+    "valueId": "5228",
+    "titleIndex": "Sangue"
+  },
+  {
+    "valueId": "5230",
+    "titleIndex": "Sequência"
+  },
+  {
+    "valueId": "5300",
+    "titleIndex": "Jogador Deus"
+  },
+  {
+    "valueId": "5310",
+    "titleIndex": "Oficina de Jogos"
+  },
+  {
+    "valueId": "5348",
+    "titleIndex": "Mod "
+  },
+  {
+    "valueId": "5350",
+    "titleIndex": "Infantil"
+  },
+  {
+    "valueId": "5363",
+    "titleIndex": "Destruição"
+  },
+  {
+    "valueId": "5372",
+    "titleIndex": "Conspiração"
+  },
+  {
+    "valueId": "5379",
+    "titleIndex": "Plataformas 2D"
+  },
+  {
+    "valueId": "5382",
+    "titleIndex": "Primeira Guerra Mundial"
+  },
+  {
+    "valueId": "5390",
+    "titleIndex": "Corrida Contra o Tempo"
+  },
+  {
+    "valueId": "5395",
+    "titleIndex": "Plataforma 3D"
+  },
+  {
+    "valueId": "5407",
+    "titleIndex": "Teste de Desempenho"
+  },
+  {
+    "valueId": "5411",
+    "titleIndex": "Bonito"
+  },
+  {
+    "valueId": "5432",
+    "titleIndex": "Programação"
+  },
+  {
+    "valueId": "5502",
+    "titleIndex": "Hackear"
+  },
+  {
+    "valueId": "5537",
+    "titleIndex": "Plataforma com Quebra-cabeça"
+  },
+  {
+    "valueId": "5547",
+    "titleIndex": "Tiro em Arena"
+  },
+  {
+    "valueId": "5577",
+    "titleIndex": "RPG Maker"
+  },
+  {
+    "valueId": "5608",
+    "titleIndex": "Comovente"
+  },
+  {
+    "valueId": "5611",
+    "titleIndex": "Para Adultos"
+  },
+  {
+    "valueId": "5613",
+    "titleIndex": "Detetive"
+  },
+  {
+    "valueId": "5652",
+    "titleIndex": "Coletador"
+  },
+  {
+    "valueId": "5673",
+    "titleIndex": "Moderno"
+  },
+  {
+    "valueId": "5708",
+    "titleIndex": "Remake"
+  },
+  {
+    "valueId": "5711",
+    "titleIndex": "Baseado em Equipes"
+  },
+  {
+    "valueId": "5716",
+    "titleIndex": "Mistério"
+  },
+  {
+    "valueId": "5727",
+    "titleIndex": "Beisebol"
+  },
+  {
+    "valueId": "5752",
+    "titleIndex": "Robôs"
+  },
+  {
+    "valueId": "5765",
+    "titleIndex": "Personalização de Armas"
+  },
+  {
+    "valueId": "5794",
+    "titleIndex": "Ciência"
+  },
+  {
+    "valueId": "5796",
+    "titleIndex": "Parar o Tempo"
+  },
+  {
+    "valueId": "5851",
+    "titleIndex": "Isométrico"
+  },
+  {
+    "valueId": "5900",
+    "titleIndex": "Simulador de Andar"
+  },
+  {
+    "valueId": "5914",
+    "titleIndex": "Tênis"
+  },
+  {
+    "valueId": "5923",
+    "titleIndex": "Humor Ácido"
+  },
+  {
+    "valueId": "5941",
+    "titleIndex": "Remontagem"
+  },
+  {
+    "valueId": "5981",
+    "titleIndex": "Mineração"
+  },
+  {
+    "valueId": "5984",
+    "titleIndex": "Drama"
+  },
+  {
+    "valueId": "6041",
+    "titleIndex": "Cavalos"
+  },
+  {
+    "valueId": "6052",
+    "titleIndex": "Noir"
+  },
+  {
+    "valueId": "6129",
+    "titleIndex": "Lógica"
+  },
+  {
+    "valueId": "6276",
+    "titleIndex": "Gestão do Inventário"
+  },
+  {
+    "valueId": "6310",
+    "titleIndex": "Diplomacia"
+  },
+  {
+    "valueId": "6378",
+    "titleIndex": "Crime"
+  },
+  {
+    "valueId": "6426",
+    "titleIndex": "Você decide"
+  },
+  {
+    "valueId": "6506",
+    "titleIndex": "Luta 3D"
+  },
+  {
+    "valueId": "6621",
+    "titleIndex": "Pinball"
+  },
+  {
+    "valueId": "6625",
+    "titleIndex": "Manipulação de Tempo"
+  },
+  {
+    "valueId": "6650",
+    "titleIndex": "Nudez"
+  },
+  {
+    "valueId": "6691",
+    "titleIndex": "Anos 90"
+  },
+  {
+    "valueId": "6702",
+    "titleIndex": "Marte"
+  },
+  {
+    "valueId": "6730",
+    "titleIndex": "Jogador x Inimigo (PvE)"
+  },
+  {
+    "valueId": "6815",
+    "titleIndex": "Desenhado à mão"
+  },
+  {
+    "valueId": "6869",
+    "titleIndex": "Não Linear"
+  },
+  {
+    "valueId": "6910",
+    "titleIndex": "Naval"
+  },
+  {
+    "valueId": "6915",
+    "titleIndex": "Artes Marciais"
+  },
+  {
+    "valueId": "6948",
+    "titleIndex": "Roma"
+  },
+  {
+    "valueId": "6971",
+    "titleIndex": "Vários Finais"
+  },
+  {
+    "valueId": "7038",
+    "titleIndex": "Golfe"
+  },
+  {
+    "valueId": "7107",
+    "titleIndex": "Tempo Real com Pausa"
+  },
+  {
+    "valueId": "7108",
+    "titleIndex": "Em Grupos"
+  },
+  {
+    "valueId": "7113",
+    "titleIndex": "Financiado Colaborativamente"
+  },
+  {
+    "valueId": "7178",
+    "titleIndex": "Jogo em Grupos"
+  },
+  {
+    "valueId": "7208",
+    "titleIndex": "Protagonista Mulher"
+  },
+  {
+    "valueId": "7226",
+    "titleIndex": "Futebol Americano"
+  },
+  {
+    "valueId": "7250",
+    "titleIndex": "Linear"
+  },
+  {
+    "valueId": "7309",
+    "titleIndex": "Esqui"
+  },
+  {
+    "valueId": "7328",
+    "titleIndex": "Boliche"
+  },
+  {
+    "valueId": "7332",
+    "titleIndex": "Construção de Bases"
+  },
+  {
+    "valueId": "7368",
+    "titleIndex": "Multijogador Local"
+  },
+  {
+    "valueId": "7423",
+    "titleIndex": "Franco-Atirador"
+  },
+  {
+    "valueId": "7432",
+    "titleIndex": "Lovecraftiano"
+  },
+  {
+    "valueId": "7478",
+    "titleIndex": "Illuminati"
+  },
+  {
+    "valueId": "7481",
+    "titleIndex": "Controle"
+  },
+  {
+    "valueId": "7569",
+    "titleIndex": "Movimento em Grade"
+  },
+  {
+    "valueId": "7622",
+    "titleIndex": "Estrada de Terra"
+  },
+  {
+    "valueId": "7702",
+    "titleIndex": "Narrativa"
+  },
+  {
+    "valueId": "7743",
+    "titleIndex": "Anos 80"
+  },
+  {
+    "valueId": "7782",
+    "titleIndex": "Clássico Cult"
+  },
+  {
+    "valueId": "7926",
+    "titleIndex": "Inteligência Artificial"
+  },
+  {
+    "valueId": "7948",
+    "titleIndex": "Trilha Sonora"
+  },
+  {
+    "valueId": "8013",
+    "titleIndex": "Software"
+  },
+  {
+    "valueId": "8075",
+    "titleIndex": "TrackIR"
+  },
+  {
+    "valueId": "8093",
+    "titleIndex": "Minijogos"
+  },
+  {
+    "valueId": "8122",
+    "titleIndex": "Editor de Níveis"
+  },
+  {
+    "valueId": "8253",
+    "titleIndex": "Musical Procedural"
+  },
+  {
+    "valueId": "8369",
+    "titleIndex": "Investigação"
+  },
+  {
+    "valueId": "8461",
+    "titleIndex": "Bom Enredo"
+  },
+  {
+    "valueId": "8666",
+    "titleIndex": "Runner"
+  },
+  {
+    "valueId": "8945",
+    "titleIndex": "Gerenciamento de Recursos"
+  },
+  {
+    "valueId": "9130",
+    "titleIndex": "Hentai"
+  },
+  {
+    "valueId": "9157",
+    "titleIndex": "Subaquático"
+  },
+  {
+    "valueId": "9204",
+    "titleIndex": "Simulador Imersivo"
+  },
+  {
+    "valueId": "9271",
+    "titleIndex": "Jogo de Cartas"
+  },
+  {
+    "valueId": "9541",
+    "titleIndex": "Demônios"
+  },
+  {
+    "valueId": "9551",
+    "titleIndex": "Simulador de Encontros"
+  },
+  {
+    "valueId": "9564",
+    "titleIndex": "Caça"
+  },
+  {
+    "valueId": "9592",
+    "titleIndex": "Narração Dinâmica"
+  },
+  {
+    "valueId": "9803",
+    "titleIndex": "Neve"
+  },
+  {
+    "valueId": "9994",
+    "titleIndex": "Experiência"
+  },
+  {
+    "valueId": "10235",
+    "titleIndex": "Simuladores de Vida Real"
+  },
+  {
+    "valueId": "10383",
+    "titleIndex": "Transporte"
+  },
+  {
+    "valueId": "10397",
+    "titleIndex": "Memes"
+  },
+  {
+    "valueId": "10437",
+    "titleIndex": "Perguntas e Respostas"
+  },
+  {
+    "valueId": "10679",
+    "titleIndex": "Viagem no Tempo"
+  },
+  {
+    "valueId": "10695",
+    "titleIndex": "RPG de Grupos"
+  },
+  {
+    "valueId": "10808",
+    "titleIndex": "Sobrenatural"
+  },
+  {
+    "valueId": "10816",
+    "titleIndex": "Tela Dividida"
+  },
+  {
+    "valueId": "11014",
+    "titleIndex": "Ficção Interativa"
+  },
+  {
+    "valueId": "11095",
+    "titleIndex": "Duelo contra Chefões"
+  },
+  {
+    "valueId": "11104",
+    "titleIndex": "Veículos de Combate"
+  },
+  {
+    "valueId": "11123",
+    "titleIndex": "Só Mouse"
+  },
+  {
+    "valueId": "11333",
+    "titleIndex": "Protagonista Vilão"
+  },
+  {
+    "valueId": "11634",
+    "titleIndex": "Vikings"
+  },
+  {
+    "valueId": "12057",
+    "titleIndex": "Tutorial"
+  },
+  {
+    "valueId": "12095",
+    "titleIndex": "Conteúdo Sexual"
+  },
+  {
+    "valueId": "12190",
+    "titleIndex": "Boxe"
+  },
+  {
+    "valueId": "12286",
+    "titleIndex": "Warhammer 40K"
+  },
+  {
+    "valueId": "12472",
+    "titleIndex": "Gerenciamento"
+  },
+  {
+    "valueId": "13070",
+    "titleIndex": "Solitário"
+  },
+  {
+    "valueId": "13190",
+    "titleIndex": "América"
+  },
+  {
+    "valueId": "13276",
+    "titleIndex": "Tanques"
+  },
+  {
+    "valueId": "13382",
+    "titleIndex": "Tiro ao Alvo"
+  },
+  {
+    "valueId": "13577",
+    "titleIndex": "Navegação"
+  },
+  {
+    "valueId": "13782",
+    "titleIndex": "Experimental"
+  },
+  {
+    "valueId": "13906",
+    "titleIndex": "Desenvolvimento de Jogos"
+  },
+  {
+    "valueId": "14139",
+    "titleIndex": "Tática por Turnos"
+  },
+  {
+    "valueId": "14153",
+    "titleIndex": "Dungeons & Dragons"
+  },
+  {
+    "valueId": "14720",
+    "titleIndex": "Nostalgia"
+  },
+  {
+    "valueId": "14906",
+    "titleIndex": "Jogos com Controles Intencionais"
+  },
+  {
+    "valueId": "15045",
+    "titleIndex": "Voo"
+  },
+  {
+    "valueId": "15172",
+    "titleIndex": "Conversas"
+  },
+  {
+    "valueId": "15277",
+    "titleIndex": "Filosófico"
+  },
+  {
+    "valueId": "15339",
+    "titleIndex": "Documentário"
+  },
+  {
+    "valueId": "15564",
+    "titleIndex": "Pesca"
+  },
+  {
+    "valueId": "15868",
+    "titleIndex": "Motocross"
+  },
+  {
+    "valueId": "15954",
+    "titleIndex": "Protagonista Mudo"
+  },
+  {
+    "valueId": "16094",
+    "titleIndex": "Mitologia"
+  },
+  {
+    "valueId": "16250",
+    "titleIndex": "Apostas"
+  },
+  {
+    "valueId": "16598",
+    "titleIndex": "Simulador Espacial"
+  },
+  {
+    "valueId": "16689",
+    "titleIndex": "Gerenciamento de Tempo"
+  },
+  {
+    "valueId": "17015",
+    "titleIndex": "Lobisomens"
+  },
+  {
+    "valueId": "17305",
+    "titleIndex": "RPG de Estratégia"
+  },
+  {
+    "valueId": "17337",
+    "titleIndex": "Lemmings"
+  },
+  {
+    "valueId": "17389",
+    "titleIndex": "Jogos de Mesa"
+  },
+  {
+    "valueId": "17770",
+    "titleIndex": "Multijogador Assíncrono"
+  },
+  {
+    "valueId": "17894",
+    "titleIndex": "Gatos"
+  },
+  {
+    "valueId": "17927",
+    "titleIndex": "Bilhar"
+  },
+  {
+    "valueId": "18594",
+    "titleIndex": "FMV"
+  },
+  {
+    "valueId": "19568",
+    "titleIndex": "Ciclismo"
+  },
+  {
+    "valueId": "19780",
+    "titleIndex": "Submarino"
+  },
+  {
+    "valueId": "19995",
+    "titleIndex": "Comédia Mórbida"
+  },
+  {
+    "valueId": "21006",
+    "titleIndex": "Submundo"
+  },
+  {
+    "valueId": "21725",
+    "titleIndex": "RPG Tático"
+  },
+  {
+    "valueId": "21978",
+    "titleIndex": "RV"
+  },
+  {
+    "valueId": "22602",
+    "titleIndex": "Agricultura"
+  },
+  {
+    "valueId": "22955",
+    "titleIndex": "Minigolfe"
+  },
+  {
+    "valueId": "24003",
+    "titleIndex": "Jogo de Palavras"
+  },
+  {
+    "valueId": "24904",
+    "titleIndex": "Impróprio para o Local de Trabalho"
+  },
+  {
+    "valueId": "25085",
+    "titleIndex": "Controle por Toque"
+  },
+  {
+    "valueId": "26921",
+    "titleIndex": "Simulador Político"
+  },
+  {
+    "valueId": "27758",
+    "titleIndex": "Controle de Voz"
+  },
+  {
+    "valueId": "28444",
+    "titleIndex": "Snowboard"
+  },
+  {
+    "valueId": "29363",
+    "titleIndex": "Visão 3D"
+  },
+  {
+    "valueId": "29482",
+    "titleIndex": "Similar a "
+  },
+  {
+    "valueId": "29855",
+    "titleIndex": "Ambiente"
+  },
+  {
+    "valueId": "30358",
+    "titleIndex": "Natureza"
+  },
+  {
+    "valueId": "31275",
+    "titleIndex": "Baseado em Texto"
+  },
+  {
+    "valueId": "31579",
+    "titleIndex": "Otome"
+  },
+  {
+    "valueId": "32322",
+    "titleIndex": "Construção de Baralhos"
+  },
+  {
+    "valueId": "42804",
+    "titleIndex": "Roguelike de Ação"
+  },
+  {
+    "valueId": "44868",
+    "titleIndex": "LGBTQIA+"
+  },
+  {
+    "valueId": "47827",
+    "titleIndex": "Wrestling"
+  },
+  {
+    "valueId": "51306",
+    "titleIndex": "Estrangeiro"
+  },
+  {
+    "valueId": "56690",
+    "titleIndex": "Tiro sobre Trilhos"
+  },
+  {
+    "valueId": "61357",
+    "titleIndex": "Música Eletrônica"
+  },
+  {
+    "valueId": "71389",
+    "titleIndex": "Soletração"
+  },
+  {
+    "valueId": "87918",
+    "titleIndex": "Simulador Rural"
+  },
+  {
+    "valueId": "92092",
+    "titleIndex": "Jatos"
+  },
+  {
+    "valueId": "96359",
+    "titleIndex": "Skate e Patinação"
+  },
+  {
+    "valueId": "117648",
+    "titleIndex": "Música de 8 Bit"
+  },
+  {
+    "valueId": "123332",
+    "titleIndex": "Motos/Bicicletas"
+  },
+  {
+    "valueId": "129761",
+    "titleIndex": "ATV"
+  },
+  {
+    "valueId": "143739",
+    "titleIndex": "Eletrônico"
+  },
+  {
+    "valueId": "150626",
+    "titleIndex": "Videogame"
+  },
+  {
+    "valueId": "176981",
+    "titleIndex": "Battle Royale"
+  },
+  {
+    "valueId": "180368",
+    "titleIndex": "Fé"
+  },
+  {
+    "valueId": "189941",
+    "titleIndex": "Música Instrumental"
+  },
+  {
+    "valueId": "198631",
+    "titleIndex": "Calabouço Misterioso"
+  },
+  {
+    "valueId": "198913",
+    "titleIndex": "Moto"
+  },
+  {
+    "valueId": "220585",
+    "titleIndex": "Simulador de Colônias"
+  },
+  {
+    "valueId": "233824",
+    "titleIndex": "Longa-metragem"
+  },
+  {
+    "valueId": "252854",
+    "titleIndex": "BMX"
+  },
+  {
+    "valueId": "255534",
+    "titleIndex": "Automação"
+  },
+  {
+    "valueId": "324176",
+    "titleIndex": "Hóquei"
+  },
+  {
+    "valueId": "337964",
+    "titleIndex": "Rock"
+  },
+  {
+    "valueId": "348922",
+    "titleIndex": "Máquina Steam"
+  },
+  {
+    "valueId": "353880",
+    "titleIndex": "Tiro com Saques"
+  },
+  {
+    "valueId": "379975",
+    "titleIndex": "Cliques"
+  },
+  {
+    "valueId": "454187",
+    "titleIndex": "Roguelike Tradicional"
+  },
+  {
+    "valueId": "603297",
+    "titleIndex": "Hardware"
+  },
+  {
+    "valueId": "615955",
+    "titleIndex": "Inatividade"
+  },
+  {
+    "valueId": "620519",
+    "titleIndex": "Tiro Fantasioso"
+  },
+  {
+    "valueId": "745697",
+    "titleIndex": "Dedução"
+  },
+  {
+    "valueId": "769306",
+    "titleIndex": "Escape Room"
+  },
+  {
+    "valueId": "776177",
+    "titleIndex": "Vídeo em 360º"
+  },
+  {
+    "valueId": "791774",
+    "titleIndex": "Batalha de Cartas"
+  },
+  {
+    "valueId": "856791",
+    "titleIndex": "RV Assimétrico"
+  },
+  {
+    "valueId": "916648",
+    "titleIndex": "Coletor de Criaturas"
+  },
+  {
+    "valueId": "922563",
+    "titleIndex": "Roguevania"
+  },
+  {
+    "valueId": "1084988",
+    "titleIndex": "Batalha Automática"
+  },
+  {
+    "valueId": "1091588",
+    "titleIndex": "Construtor de Baralhos Roguelike"
+  },
+  {
+    "valueId": "1100686",
+    "titleIndex": "Simulador de Epidemias"
+  },
+  {
+    "valueId": "1100687",
+    "titleIndex": "Simulador Automobilístico"
+  },
+  {
+    "valueId": "1100688",
+    "titleIndex": "Simulador Médico"
+  },
+  {
+    "valueId": "1100689",
+    "titleIndex": "Sobrevivência em Mundo Aberto"
+  }
+]

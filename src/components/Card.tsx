@@ -1,19 +1,18 @@
 import React, { memo } from 'react'
 import { PropsCard } from '../types/types'
-import styles from '../styles/components/Card.module.css'
+import styles from '../../styles/components/Card.module.css'
 
 
-function CardComponent({ options, cardInformation }: PropsCard) {
+function CardComponent({cardInformation }: PropsCard) {
 
 
     
     return (
-        <div className={styles.containerCardAplication}  style={{ backgroundImage: `linear-gradient( to top, rgba(var(--primary-purple), 1), transparent), url('/screenshots/${cardInformation.title}.jpeg')` }}>
+        <div className={styles.containerCardAplication}  style={{ backgroundImage: `linear-gradient( to top, rgba(var(--primary-purple), 1), transparent), url('${cardInformation.gameImgURL}')` }}>
         <div className={styles.cardAplication} >
-            {/* <a href={cardInformation.url} target="_blank"> */}
-                <span>{cardInformation.title}</span>
-            {/* </a> */}
-            {options}
+            <a href={cardInformation.urlGameSteam} target="_blank" rel="noreferrer">
+                <span>{cardInformation.gameName}</span>
+            </a>
         </div>
         </div>
     )

@@ -1,11 +1,14 @@
-import { ReactNode } from "react"
 
-export type CardData = {
-    title:string,
-    url:string
-}
+export type CardData = { 
+    gameId: string,
+    urlGameSteam: string,
+    gameImgURL: string,
+    gameName: string,
+    dataCriacao: string,
+    desconto: string,
+    precAnterior: string,
+    precAtual?: string }
 
 export type PropsCard = {
-    options: ReactNode,
     cardInformation: CardData,
 }
