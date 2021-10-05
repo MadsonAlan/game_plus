@@ -9,20 +9,18 @@ export default function TopSellers() {
     const [scrollX, setScrollX] = useState(0)
 
     const handleClick = (direction: string) =>{
-        let x = scrollX + 18 
-        let x2 = scrollX - 18
+        let x = (scrollX + 27) < 0 ? (scrollX + 27) : 0
+        let x2 = (scrollX - 27) < ((defaltCardsData.length * 18) - 18)* -1 ? ((defaltCardsData.length * 18) - 18)* -1 : (scrollX - 27) 
+           
         
         if (direction === "left") {
-            if (scrollX > 0) {
+            if (scrollX < 0) {
                 setScrollX(x)
             }
         }
         if (direction === "right") {
-            if (scrollX >= 0) {
                 setScrollX(x2)
-            }
         }
-        console.log(scrollX);
         
     }
     return (
