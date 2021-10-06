@@ -10,7 +10,7 @@ export default function TopSellers() {
 
     const handleClick = (direction: string) =>{
         let x = (scrollX + 27) < 0 ? (scrollX + 27) : 0
-        let x2 = (scrollX - 27) < ((defaltCardsData.length * 18) - 18)* -1 ? ((defaltCardsData.length * 18) - 18)* -1 : (scrollX - 27) 
+        let x2 = ((scrollX - 27)* -1) > ((defaltCardsData.length * 18) - 36) ? ((defaltCardsData.length * 18) - 36)* -1 : (scrollX - 27) 
            
         
         if (direction === "left") {
@@ -19,7 +19,11 @@ export default function TopSellers() {
             }
         }
         if (direction === "right") {
+            console.log((scrollX * -1) +' e '+((defaltCardsData.length * 18) - 18));
+            
+            if((scrollX * -1) < ((defaltCardsData.length * 18) - 36)){
                 setScrollX(x2)
+            }    
         }
         
     }

@@ -1,6 +1,7 @@
 .containerCardAplication {
-  width: 100%;
-  height: 6rem;
+  margin-right: 1.5rem;
+  width: 18rem;
+  height: 8rem;
   border-radius: 8px;
   border: 0;
   background-repeat: no-repeat;
@@ -31,16 +32,29 @@
   background-color: rgba(var(--secondary-purple), 0);
 }
 
-.cardAplication div {
-  flex: 1;
+.cardAplication a{
   display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.price {
+  display: flex;
+  flex: 1;
   flex-direction: column;
   align-items: flex-end;
   justify-content: flex-end;
-  padding-right: 2rem;
   font-size: 0.8rem;
 }
-
+.informationGame {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding-right: 2rem;
+  font-size: 1rem;
+}
 .containerCardAplication:hover {
   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
   /* transform: scale(0.97); */

@@ -11,11 +11,13 @@ function CardComponent({ cardInformation }: PropsCard) {
         <div className={styles.containerCardAplication} style={{ backgroundImage: `linear-gradient( to top, rgba(var(--primary-purple), 1), transparent), url('${cardInformation.gameImgURL}')` }}>
             <div className={styles.cardAplication} >
                 <a href={cardInformation.urlGameSteam} target="_blank" rel="noreferrer">
-                    {/* <span>{cardInformation.gameName}</span>
-                    <span>{cardInformation.desconto}</span> */}
-                    <div>
-                        <span>{cardInformation.precAnterior}</span>
-                        <span>{cardInformation.precAtual}</span>
+                    <div className={styles.informationGame}>
+                        <span style={{fontSize: '0.8rem'}}>{cardInformation.gameName}</span>
+                        <span>{cardInformation.desconto}</span>
+                    </div>
+                    <div className={styles.price}>
+                        <span style={{textDecoration: 'line-through', fontSize: '0.7rem'}}>{cardInformation.precAnterior}</span>
+                        <span style={{fontSize: '1rem'}}>{cardInformation.precAtual}</span>
                     </div>
                 </a>
             </div>

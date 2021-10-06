@@ -20,20 +20,20 @@
     "titleIndex": "Simulação"
   },
   {
-    "valueId": "3859",
-    "titleIndex": "Multijogador"
-  },
-  {
-    "valueId": "122",
-    "titleIndex": "RPG"
+    "valueId": "597",
+    "titleIndex": "Casual"
   },
   {
     "valueId": "9",
     "titleIndex": "Estratégia"
   },
   {
-    "valueId": "597",
-    "titleIndex": "Casual"
+    "valueId": "122",
+    "titleIndex": "RPG"
+  },
+  {
+    "valueId": "3859",
+    "titleIndex": "Multijogador"
   },
   {
     "valueId": "4166",
@@ -72,28 +72,28 @@
     "titleIndex": "Violento"
   },
   {
-    "valueId": "1667",
-    "titleIndex": "Terror"
+    "valueId": "4026",
+    "titleIndex": "Difícil"
   },
   {
     "valueId": "1664",
     "titleIndex": "Quebra-cabeça"
   },
   {
-    "valueId": "4085",
-    "titleIndex": "Anime"
-  },
-  {
     "valueId": "4345",
     "titleIndex": "Violência Detalhada"
   },
   {
-    "valueId": "4026",
-    "titleIndex": "Difícil"
+    "valueId": "1667",
+    "titleIndex": "Terror"
   },
   {
-    "valueId": "1774",
-    "titleIndex": "Tiro"
+    "valueId": "3834",
+    "titleIndex": "Exploração"
+  },
+  {
+    "valueId": "3810",
+    "titleIndex": "Faça o que Quiser"
   },
   {
     "valueId": "1684",
@@ -404,6 +404,10 @@
     "titleIndex": "Arcade"
   },
   {
+    "valueId": "1774",
+    "titleIndex": "Tiro"
+  },
+  {
     "valueId": "1775",
     "titleIndex": "Jogador x Jogador (PvP)"
   },
@@ -424,20 +428,12 @@
     "titleIndex": "Romance Visual"
   },
   {
-    "valueId": "3810",
-    "titleIndex": "Faça o que Quiser"
-  },
-  {
     "valueId": "3813",
     "titleIndex": "Tática em Tempo Real"
   },
   {
     "valueId": "3814",
     "titleIndex": "Tiro em Terceira Pessoa"
-  },
-  {
-    "valueId": "3834",
-    "titleIndex": "Exploração"
   },
   {
     "valueId": "3835",
@@ -538,6 +534,10 @@
   {
     "valueId": "4064",
     "titleIndex": "Thriller"
+  },
+  {
+    "valueId": "4085",
+    "titleIndex": "Anime"
   },
   {
     "valueId": "4094",
