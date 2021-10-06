@@ -35,7 +35,7 @@ export default function TopSellers() {
                             <CardComponent
                                 key={indice}
                                 cardInformation={cardData}
-                            />
+                            />                            
                         )
                     })
                 }

@@ -12,7 +12,7 @@
   margin-top: 1rem;
   display: flex;
   width: max-content;
-  transition: all ease cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: all ease 0.8s;
 }
 
 .cardCarroussel div {
