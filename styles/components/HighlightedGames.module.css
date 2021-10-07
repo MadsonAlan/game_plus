@@ -1,0 +1,30 @@
+.featured{
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.featuredVertical{
+    width: inherit;
+    height: inherit;
+    background: linear-gradient(to top, var(--background) 10%, transparent 90%);
+}
+.featuredHorizontal{
+    width: inherit;
+    height: inherit;
+    background: linear-gradient(to right, var(--background) 30%, transparent 70%);
+}
+.featuredName{
+    font-size: 3.75rem;
+    font-weight: 600;
+}
+
+.featuredInfo{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+.discountPercentage{
+    display:inline-block;
+    color: var(--green);
+}

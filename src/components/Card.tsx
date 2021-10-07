@@ -8,7 +8,7 @@ function CardComponent({ cardInformation }: PropsCard) {
 
 
     return (
-        <div className={styles.containerCardAplication} style={{ backgroundImage: `linear-gradient( to top, rgba(var(--primary-purple), 1), transparent), url('${cardInformation.gameImgURL}')` }}>
+        <div className={styles.containerCardAplication} style={{ backgroundImage: `linear-gradient( to top, rgba(var(--primary-purple), 1), transparent), url('${cardInformation.gameImgURL.replace('capsule_sm_120','header')}')` }}>
             <div className={styles.cardAplication} >
                 <a href={cardInformation.urlGameSteam} target="_blank" rel="noreferrer">
                     <div className={styles.informationGame}>

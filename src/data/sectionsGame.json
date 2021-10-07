@@ -20,12 +20,12 @@
     "titleIndex": "Simulação"
   },
   {
-    "valueId": "597",
-    "titleIndex": "Casual"
-  },
-  {
     "valueId": "3859",
     "titleIndex": "Multijogador"
+  },
+  {
+    "valueId": "597",
+    "titleIndex": "Casual"
   },
   {
     "valueId": "9",
@@ -40,16 +40,16 @@
     "titleIndex": "Atmosférico"
   },
   {
+    "valueId": "1742",
+    "titleIndex": "Boa Trama"
+  },
+  {
     "valueId": "1756",
     "titleIndex": "Trilha Sonora Boa"
   },
   {
     "valueId": "3871",
     "titleIndex": "2D "
-  },
-  {
-    "valueId": "1742",
-    "titleIndex": "Boa Trama"
   },
   {
     "valueId": "1695",
@@ -80,20 +80,20 @@
     "titleIndex": "Quebra-cabeça"
   },
   {
-    "valueId": "4026",
-    "titleIndex": "Difícil"
+    "valueId": "1667",
+    "titleIndex": "Terror"
   },
   {
-    "valueId": "3834",
-    "titleIndex": "Exploração"
+    "valueId": "4026",
+    "titleIndex": "Difícil"
   },
   {
     "valueId": "1774",
     "titleIndex": "Tiro"
   },
   {
-    "valueId": "1667",
-    "titleIndex": "Terror"
+    "valueId": "3834",
+    "titleIndex": "Exploração"
   },
   {
     "valueId": "3810",

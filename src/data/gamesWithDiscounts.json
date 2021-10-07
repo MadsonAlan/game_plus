@@ -50,6 +50,26 @@
     "precAtual": "R$ 23,88"
   },
   {
+    "gameId": "524220",
+    "urlGameSteam": "https://store.steampowered.com/app/524220/NieRAutomata/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/capsule_sm_120.jpg?t=1624266255",
+    "gameName": "NieR:Automata™",
+    "dataCriacao": " 17/mar/2017  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 107,00",
+    "precAtual": "R$ 53,50"
+  },
+  {
+    "gameId": "858820",
+    "urlGameSteam": "https://store.steampowered.com/app/858820/Tribes_of_Midgard/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/858820/capsule_sm_120.jpg?t=1633442282",
+    "gameName": "Tribes of Midgard",
+    "dataCriacao": " 27/jul/2021  ",
+    "desconto": "-20%",
+    "precAnterior": " R$ 39,99",
+    "precAtual": "R$ 31,99"
+  },
+  {
     "gameId": "1080110",
     "urlGameSteam": "https://store.steampowered.com/app/1080110/F1_2020/?snr=1_7_7_7000_150_1",
     "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1080110/capsule_sm_120.jpg?t=1625582774",
@@ -70,35 +90,6 @@
     "precAtual": "R$ 75,19"
   },
   {
-    "gameId": "858820",
-    "urlGameSteam": "https://store.steampowered.com/app/858820/Tribes_of_Midgard/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/858820/capsule_sm_120.jpg?t=1633442282",
-    "gameName": "Tribes of Midgard",
-    "dataCriacao": " 27/jul/2021  ",
-    "desconto": "-20%",
-    "precAnterior": " R$ 39,99",
-    "precAtual": "R$ 31,99"
-  },
-  {
-    "gameId": "739630",
-    "urlGameSteam": "https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/capsule_sm_120.jpg?t=1613740031",
-    "gameName": "Phasmophobia",
-    "dataCriacao": "Compatível com RV",
-    "desconto": "",
-    "precAnterior": " 18/set/2020   R$ 27,89"
-  },
-  {
-    "gameId": "466560",
-    "urlGameSteam": "https://store.steampowered.com/app/466560/Northgard/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/466560/capsule_sm_120.jpg?t=1630575354",
-    "gameName": "Northgard",
-    "dataCriacao": " 7/mar/2018  ",
-    "desconto": "-60%",
-    "precAnterior": " R$ 57,99",
-    "precAtual": "R$ 23,19"
-  },
-  {
     "gameId": "813780",
     "urlGameSteam": "https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/?snr=1_7_7_7000_150_1",
     "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/813780/capsule_sm_120.jpg?t=1631209290",
@@ -109,24 +100,13 @@
     "precAtual": "R$ 24,78"
   },
   {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/12024/Northgard_The_Viking_Age_Edition/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/12024/avwhocict2p7zvez/capsule_sm_120.jpg?t=1571840807",
-    "gameName": "Northgard: The Viking Age Edition",
-    "dataCriacao": "   ",
-    "desconto": "-59%",
-    "precAnterior": " R$ 145,11",
-    "precAtual": "R$ 60,07"
-  },
-  {
-    "gameId": "524220",
-    "urlGameSteam": "https://store.steampowered.com/app/524220/NieRAutomata/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/capsule_sm_120.jpg?t=1624266255",
-    "gameName": "NieR:Automata™",
-    "dataCriacao": " 17/mar/2017  ",
-    "desconto": "-50%",
-    "precAnterior": " R$ 107,00",
-    "precAtual": "R$ 53,50"
+    "gameId": "739630",
+    "urlGameSteam": "https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/capsule_sm_120.jpg?t=1613740031",
+    "gameName": "Phasmophobia",
+    "dataCriacao": "Compatível com RV",
+    "desconto": "",
+    "precAnterior": " 18/set/2020   R$ 27,89"
   },
   {
     "gameId": "870780",
@@ -139,24 +119,14 @@
     "precAtual": "R$ 51,60"
   },
   {
-    "gameId": "280160",
-    "urlGameSteam": "https://store.steampowered.com/app/280160/Aragami/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/280160/capsule_sm_120.jpg?t=1627661803",
-    "gameName": "Aragami",
-    "dataCriacao": " 4/out/2016  ",
-    "desconto": "-85%",
-    "precAnterior": " R$ 36,99",
-    "precAtual": "R$ 5,54"
-  },
-  {
-    "gameId": "933110",
-    "urlGameSteam": "https://store.steampowered.com/app/933110/Age_of_Empires_III_Definitive_Edition/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/933110/capsule_sm_120.jpg?t=1633028458",
-    "gameName": "Age of Empires III: Definitive Edition",
-    "dataCriacao": " 15/out/2020  ",
-    "desconto": "-33%",
-    "precAnterior": " R$ 36,99",
-    "precAtual": "R$ 24,78"
+    "gameId": "466560",
+    "urlGameSteam": "https://store.steampowered.com/app/466560/Northgard/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/466560/capsule_sm_120.jpg?t=1630575354",
+    "gameName": "Northgard",
+    "dataCriacao": " 7/mar/2018  ",
+    "desconto": "-60%",
+    "precAnterior": " R$ 57,99",
+    "precAtual": "R$ 23,19"
   },
   {
     "gameId": "527430,938400,939050,939051,945830,945831,945832,995650,995651,995652,995653,995654,995670,1028890,1028891,1028892,1028893,1028894,1028895,1351990,1042800",
@@ -169,6 +139,36 @@
     "precAtual": "R$ 35,99"
   },
   {
+    "gameId": "280160",
+    "urlGameSteam": "https://store.steampowered.com/app/280160/Aragami/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/280160/capsule_sm_120.jpg?t=1627661803",
+    "gameName": "Aragami",
+    "dataCriacao": " 4/out/2016  ",
+    "desconto": "-85%",
+    "precAnterior": " R$ 36,99",
+    "precAtual": "R$ 5,54"
+  },
+  {
+    "gameId": "1113560",
+    "urlGameSteam": "https://store.steampowered.com/app/1113560/NieR_Replicant_ver122474487139/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1113560/capsule_sm_120.jpg?t=1626255600",
+    "gameName": "NieR Replicant™ ver.1.22474487139...",
+    "dataCriacao": " 23/abr/2021  ",
+    "desconto": "-35%",
+    "precAnterior": " R$ 249,90",
+    "precAtual": "R$ 162,43"
+  },
+  {
+    "gameId": "933110",
+    "urlGameSteam": "https://store.steampowered.com/app/933110/Age_of_Empires_III_Definitive_Edition/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/933110/capsule_sm_120.jpg?t=1633028458",
+    "gameName": "Age of Empires III: Definitive Edition",
+    "dataCriacao": " 15/out/2020  ",
+    "desconto": "-33%",
+    "precAnterior": " R$ 36,99",
+    "precAtual": "R$ 24,78"
+  },
+  {
     "gameId": "469600",
     "urlGameSteam": "https://store.steampowered.com/app/469600/Legion_TD_2__Multiplayer_Tower_Defense/?snr=1_7_7_7000_150_1",
     "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/469600/capsule_sm_120.jpg?t=1633549891",
@@ -179,23 +179,23 @@
     "precAtual": "R$ 30,39"
   },
   {
-    "gameId": "306130",
-    "urlGameSteam": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/306130/capsule_sm_120.jpg?t=1633092356",
-    "gameName": "The Elder Scrolls® Online",
-    "dataCriacao": " 22/mai/2017  ",
-    "desconto": "-60%",
-    "precAnterior": " R$ 61,50",
-    "precAtual": "R$ 24,60"
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/6389/Aragami_Shadow_Edition/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/6389/t01kf1ar6fgxjv3q/capsule_sm_120.jpg?t=1523031105",
+    "gameName": "Aragami: Shadow Edition",
+    "dataCriacao": "   ",
+    "desconto": "-88%",
+    "precAnterior": " R$ 57,68",
+    "precAtual": "R$ 7,17"
   },
   {
-    "gameId": "1222670",
-    "urlGameSteam": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_sm_120.jpg?t=1633453378",
-    "gameName": "The Sims™ 4",
-    "dataCriacao": " 18/jun/2020  ",
-    "desconto": "-75%",
-    "precAnterior": " R$ 159,00",
-    "precAtual": "R$ 39,75"
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/12024/Northgard_The_Viking_Age_Edition/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/12024/avwhocict2p7zvez/capsule_sm_120.jpg?t=1571840807",
+    "gameName": "Northgard: The Viking Age Edition",
+    "dataCriacao": "   ",
+    "desconto": "-59%",
+    "precAnterior": " R$ 145,11",
+    "precAtual": "R$ 60,07"
   }
 ]
