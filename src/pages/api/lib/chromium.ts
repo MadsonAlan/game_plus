@@ -1,8 +1,9 @@
-// import puppeteer from 'puppeteer-core'
-// import chrome from 'chrome-aws-lambda'
-const puppeteer = require('puppeteer-core')
-const chrome = require('chrome-aws-lambda')
-const fs = require("fs")
+import puppeteer from 'puppeteer-core'
+import chrome from 'chrome-aws-lambda'
+import fs from 'fs'
+// const puppeteer = require('puppeteer-core')
+// const chrome = require('chrome-aws-lambda')
+// const fs = require("fs")
 /*
 Pra executar...
 Primeiro, entre no diretório com :  cd ./src/pages/api/lib/
@@ -52,10 +53,16 @@ async function getPage() {
 
   return _page
 }
+async function closeBrowser() {
+  
+  const options = await getOptions()
+  const browser = await puppeteer.launch(options)
 
-(async (gameURL = 'https://store.steampowered.com/search/?filter=topsellers') => {
+  await browser.close()
+}
+export async function atualizaPromo(gameURL:string) {
   const page = await getPage()
-  await page.goto(gameURL);
+  await page.goto(gameURL, { waitUntil: 'networkidle2' });
   const dadosDeFiltros = await page.evaluate(() => {
     const nodeList = document.querySelectorAll('#TagFilter_Container .tab_filter_control_include')
 
@@ -71,7 +78,7 @@ async function getPage() {
     return dadosDeFiltros
   })
 
-  fs.writeFile('sectionsGame.json', JSON.stringify(dadosDeFiltros, null, 2), err =>{
+  fs.writeFile('src/data/sectionsGame.json', JSON.stringify(dadosDeFiltros, null, 2), err =>{
     if(err) throw new Error('something went wrong')
     console.log('well done!');
   })
@@ -105,12 +112,13 @@ async function getPage() {
 
   const dadosJogosComDescontos = dadosJogos.filter(gamedata => gamedata!=undefined??gamedata)
 
-  fs.writeFile('gamesWithDiscounts.json', JSON.stringify(dadosJogosComDescontos, null, 2), err =>{
+  fs.writeFile('src/data/gamesWithDiscounts.json', JSON.stringify(dadosJogosComDescontos, null, 2), err =>{
     if(err) throw new Error('something went wrong')
     console.log('well done!');
   })
   await page.close();
-})()
+  closeBrowser()
+}
 
 /*
 https://developer.valvesoftware.com/wiki/Steam_Web_API#GetNewsForApp_.28v0002.29

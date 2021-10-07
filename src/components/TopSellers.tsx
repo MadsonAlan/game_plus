@@ -1,9 +1,9 @@
-import React, { useRef, useState } from 'react'
+import React, { useState } from 'react'
 import styles from '../../styles/components/TopSellers.module.css'
 import CardComponent from './Card'
-import defaltCardsData from '../pages/api/lib/gamesWithDiscounts.json'
+import defaltCardsData from '../../src/data/gamesWithDiscounts.json'
 import { MdOutlineArrowBackIosNew, MdOutlineArrowForwardIos } from "react-icons/md";
-
+//https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Useful_string_methods
 export default function TopSellers() {
 
     const [scrollX, setScrollX] = useState(0)

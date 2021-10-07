@@ -1,12 +1,12 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import { NextApiRequest, NextApiResponse } from 'next'
-import axios from 'axios';
+import { atualizaPromo } from './lib/chromium';
 
-const api = axios.create({
 
-  baseURL: 'https://api.github.com/users',
-
-});
-export default (req: NextApiRequest, res: NextApiResponse) => {
-  res.status(200).json({ name: 'John Doe' })
+export default function UpdateData(req: NextApiRequest, res: NextApiResponse) {
+  return atualizaPromo('https://store.steampowered.com/search/?filter=topsellers').then(
+    ()=>res.status(200).json({ message: 'Update Completo' })
+  ).catch(
+    (e)=>res.status(500).json({ message: 'Falha ao retornar dados: '+e })
+  )
 }
