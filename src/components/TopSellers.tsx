@@ -19,7 +19,6 @@ export default function TopSellers() {
             }
         }
         if (direction === "right") {
-            console.log((scrollX * -1) +' e '+((defaltCardsData.length * 18) - 18));
             
             if((scrollX * -1) < ((defaltCardsData.length * 18) - 36)){
                 setScrollX(x2)

@@ -10,16 +10,6 @@
     "precAtual": "R$ 58,24"
   },
   {
-    "gameId": "460930",
-    "urlGameSteam": "https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/460930/capsule_sm_120.jpg?t=1602605434",
-    "gameName": "Tom Clancy's Ghost Recon® Wildlands",
-    "dataCriacao": " 6/mar/2017  ",
-    "desconto": "-80%",
-    "precAnterior": " R$ 149,99",
-    "precAtual": "R$ 29,99"
-  },
-  {
     "gameId": "1238810",
     "urlGameSteam": "https://store.steampowered.com/app/1238810/Battlefield_V/?snr=1_7_7_7000_150_1",
     "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1238810/capsule_sm_120.jpg?t=1629830833",
@@ -28,6 +18,16 @@
     "desconto": "-90%",
     "precAnterior": " R$ 299,00",
     "precAtual": "R$ 29,90"
+  },
+  {
+    "gameId": "460930",
+    "urlGameSteam": "https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/460930/capsule_sm_120.jpg?t=1602605434",
+    "gameName": "Tom Clancy's Ghost Recon® Wildlands",
+    "dataCriacao": " 6/mar/2017  ",
+    "desconto": "-80%",
+    "precAnterior": " R$ 149,99",
+    "precAtual": "R$ 29,99"
   },
   {
     "gameId": "1238860",
@@ -40,6 +40,26 @@
     "precAtual": "R$ 23,88"
   },
   {
+    "gameId": "264710",
+    "urlGameSteam": "https://store.steampowered.com/app/264710/Subnautica/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/capsule_sm_120.jpg?t=1632886155",
+    "gameName": "Subnautica",
+    "dataCriacao": "Compatível com RV",
+    "desconto": "",
+    "precAnterior": " 23/jan/2018  ",
+    "precAtual": "-50%"
+  },
+  {
+    "gameId": "1190460,1258510",
+    "urlGameSteam": "https://store.steampowered.com/sub/489555/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/subs/489555/capsule_sm_120.jpg?t=1613164521",
+    "gameName": "DEATH STRANDING",
+    "dataCriacao": " 14/jul/2020  ",
+    "desconto": "-60%",
+    "precAnterior": " R$ 239,00",
+    "precAtual": "R$ 95,60"
+  },
+  {
     "gameId": "1238840",
     "urlGameSteam": "https://store.steampowered.com/app/1238840/Battlefield_1/?snr=1_7_7_7000_150_1",
     "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1238840/capsule_sm_120.jpg?t=1633006806",
@@ -50,14 +70,24 @@
     "precAtual": "R$ 23,88"
   },
   {
-    "gameId": "524220",
-    "urlGameSteam": "https://store.steampowered.com/app/524220/NieRAutomata/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/capsule_sm_120.jpg?t=1624266255",
-    "gameName": "NieR:Automata™",
-    "dataCriacao": " 17/mar/2017  ",
-    "desconto": "-50%",
-    "precAnterior": " R$ 107,00",
-    "precAtual": "R$ 53,50"
+    "gameId": "848450",
+    "urlGameSteam": "https://store.steampowered.com/app/848450/Subnautica_Below_Zero/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/848450/capsule_sm_120.jpg?t=1625546902",
+    "gameName": "Subnautica: Below Zero",
+    "dataCriacao": " 13/mai/2021  ",
+    "desconto": "-25%",
+    "precAnterior": " R$ 57,99",
+    "precAtual": "R$ 43,49"
+  },
+  {
+    "gameId": "894020",
+    "urlGameSteam": "https://store.steampowered.com/app/894020/Deaths_Door/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/894020/capsule_sm_120.jpg?t=1629235525",
+    "gameName": "Death's Door",
+    "dataCriacao": " 20/jul/2021  ",
+    "desconto": "-20%",
+    "precAnterior": " R$ 49,95",
+    "precAtual": "R$ 39,96"
   },
   {
     "gameId": "858820",
@@ -70,36 +100,6 @@
     "precAtual": "R$ 31,99"
   },
   {
-    "gameId": "1080110",
-    "urlGameSteam": "https://store.steampowered.com/app/1080110/F1_2020/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1080110/capsule_sm_120.jpg?t=1625582774",
-    "gameName": "F1® 2020",
-    "dataCriacao": " 9/jul/2020  ",
-    "desconto": "-75%",
-    "precAnterior": " R$ 109,99",
-    "precAtual": "R$ 27,49"
-  },
-  {
-    "gameId": "1414850",
-    "urlGameSteam": "https://store.steampowered.com/app/1414850/Nickelodeon_AllStar_Brawl/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1414850/capsule_sm_120.jpg?t=1633406430",
-    "gameName": "Nickelodeon All-Star Brawl",
-    "dataCriacao": " 4/out/2021  ",
-    "desconto": "-20%",
-    "precAnterior": " R$ 93,99",
-    "precAtual": "R$ 75,19"
-  },
-  {
-    "gameId": "813780",
-    "urlGameSteam": "https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/813780/capsule_sm_120.jpg?t=1631209290",
-    "gameName": "Age of Empires II: Definitive Edition",
-    "dataCriacao": " 14/nov/2019  ",
-    "desconto": "-33%",
-    "precAnterior": " R$ 36,99",
-    "precAtual": "R$ 24,78"
-  },
-  {
     "gameId": "739630",
     "urlGameSteam": "https://store.steampowered.com/app/739630/Phasmophobia/?snr=1_7_7_7000_150_1",
     "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/capsule_sm_120.jpg?t=1613740031",
@@ -107,26 +107,6 @@
     "dataCriacao": "Compatível com RV",
     "desconto": "",
     "precAnterior": " 18/set/2020   R$ 27,89"
-  },
-  {
-    "gameId": "870780",
-    "urlGameSteam": "https://store.steampowered.com/app/870780/Control_Ultimate_Edition/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/capsule_sm_120.jpg?t=1629966003",
-    "gameName": "Control Ultimate Edition",
-    "dataCriacao": " 27/ago/2020  ",
-    "desconto": "-60%",
-    "precAnterior": " R$ 129,00",
-    "precAtual": "R$ 51,60"
-  },
-  {
-    "gameId": "466560",
-    "urlGameSteam": "https://store.steampowered.com/app/466560/Northgard/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/466560/capsule_sm_120.jpg?t=1630575354",
-    "gameName": "Northgard",
-    "dataCriacao": " 7/mar/2018  ",
-    "desconto": "-60%",
-    "precAnterior": " R$ 57,99",
-    "precAtual": "R$ 23,19"
   },
   {
     "gameId": "527430,938400,939050,939051,945830,945831,945832,995650,995651,995652,995653,995654,995670,1028890,1028891,1028892,1028893,1028894,1028895,1351990,1042800",
@@ -139,14 +119,34 @@
     "precAtual": "R$ 35,99"
   },
   {
-    "gameId": "280160",
-    "urlGameSteam": "https://store.steampowered.com/app/280160/Aragami/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/280160/capsule_sm_120.jpg?t=1627661803",
-    "gameName": "Aragami",
-    "dataCriacao": " 4/out/2016  ",
-    "desconto": "-85%",
-    "precAnterior": " R$ 36,99",
-    "precAtual": "R$ 5,54"
+    "gameId": "524220",
+    "urlGameSteam": "https://store.steampowered.com/app/524220/NieRAutomata/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/capsule_sm_120.jpg?t=1624266255",
+    "gameName": "NieR:Automata™",
+    "dataCriacao": " 17/mar/2017  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 107,00",
+    "precAtual": "R$ 53,50"
+  },
+  {
+    "gameId": "637650",
+    "urlGameSteam": "https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/637650/capsule_sm_120.jpg?t=1592962568",
+    "gameName": "FINAL FANTASY XV WINDOWS EDITION",
+    "dataCriacao": " 6/mar/2018  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 125,00",
+    "precAtual": "R$ 62,50"
+  },
+  {
+    "gameId": "1080110",
+    "urlGameSteam": "https://store.steampowered.com/app/1080110/F1_2020/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1080110/capsule_sm_120.jpg?t=1625582774",
+    "gameName": "F1® 2020",
+    "dataCriacao": " 9/jul/2020  ",
+    "desconto": "-75%",
+    "precAnterior": " R$ 109,99",
+    "precAtual": "R$ 27,49"
   },
   {
     "gameId": "1113560",
@@ -159,43 +159,103 @@
     "precAtual": "R$ 162,43"
   },
   {
-    "gameId": "933110",
-    "urlGameSteam": "https://store.steampowered.com/app/933110/Age_of_Empires_III_Definitive_Edition/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/933110/capsule_sm_120.jpg?t=1633028458",
-    "gameName": "Age of Empires III: Definitive Edition",
-    "dataCriacao": " 15/out/2020  ",
-    "desconto": "-33%",
-    "precAnterior": " R$ 36,99",
-    "precAtual": "R$ 24,78"
+    "gameId": "578650",
+    "urlGameSteam": "https://store.steampowered.com/app/578650/The_Outer_Worlds/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/578650/capsule_sm_120.jpg?t=1616004214",
+    "gameName": "The Outer Worlds",
+    "dataCriacao": " 23/out/2020  ",
+    "desconto": "-67%",
+    "precAnterior": " R$ 249,90",
+    "precAtual": "R$ 82,46"
   },
   {
-    "gameId": "469600",
-    "urlGameSteam": "https://store.steampowered.com/app/469600/Legion_TD_2__Multiplayer_Tower_Defense/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/469600/capsule_sm_120.jpg?t=1633549891",
-    "gameName": "Legion TD 2 - Multiplayer Tower Defense",
-    "dataCriacao": " 1/out/2021  ",
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/22978/Children_of_Morta_Complete_Edition/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/22978/10t5eju0evmou9k9/capsule_sm_120.jpg?t=1633340902",
+    "gameName": "Children of Morta: Complete Edition",
+    "dataCriacao": "   ",
+    "desconto": "-51%",
+    "precAnterior": " R$ 62,87",
+    "precAtual": "R$ 30,93"
+  },
+  {
+    "gameId": "330020",
+    "urlGameSteam": "https://store.steampowered.com/app/330020/Children_of_Morta/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/330020/capsule_sm_120.jpg?t=1633608112",
+    "gameName": "Children of Morta",
+    "dataCriacao": " 3/set/2019  ",
+    "desconto": "-60%",
+    "precAnterior": " R$ 47,49",
+    "precAtual": "R$ 18,99"
+  },
+  {
+    "gameId": "805550",
+    "urlGameSteam": "https://store.steampowered.com/app/805550/Assetto_Corsa_Competizione/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/805550/capsule_sm_120.jpg?t=1633434028",
+    "gameName": "Assetto Corsa Competizione",
+    "dataCriacao": "Compatível com RV",
+    "desconto": "",
+    "precAnterior": " 29/mai/2019  ",
+    "precAtual": "-60%"
+  },
+  {
+    "gameId": "1426450",
+    "urlGameSteam": "https://store.steampowered.com/app/1426450/Age_of_Darkness_Final_Stand/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426450/capsule_sm_120.jpg?t=1633623626",
+    "gameName": "Age of Darkness: Final Stand",
+    "dataCriacao": " 7/out/2021  ",
+    "desconto": "-10%",
+    "precAnterior": " R$ 65,99",
+    "precAtual": "R$ 59,39"
+  },
+  {
+    "gameId": "1414850",
+    "urlGameSteam": "https://store.steampowered.com/app/1414850/Nickelodeon_AllStar_Brawl/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1414850/capsule_sm_120.jpg?t=1633406430",
+    "gameName": "Nickelodeon All-Star Brawl",
+    "dataCriacao": " 4/out/2021  ",
     "desconto": "-20%",
+    "precAnterior": " R$ 93,99",
+    "precAtual": "R$ 75,19"
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/12261/Frostpunk_Game_of_the_Year_Edition/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/12261/fooxyohgkvdhm2av/capsule_sm_120.jpg?t=1616580824",
+    "gameName": "Frostpunk: Game of the Year Edition",
+    "dataCriacao": "   ",
+    "desconto": "-67%",
+    "precAnterior": " R$ 128,76",
+    "precAtual": "R$ 41,88"
+  },
+  {
+    "gameId": "606150",
+    "urlGameSteam": "https://store.steampowered.com/app/606150/Moonlighter/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/606150/capsule_sm_120.jpg?t=1631285807",
+    "gameName": "Moonlighter",
+    "dataCriacao": " 29/mai/2018  ",
+    "desconto": "-70%",
     "precAnterior": " R$ 37,99",
-    "precAtual": "R$ 30,39"
+    "precAtual": "R$ 11,39"
+  },
+  {
+    "gameId": "1222670",
+    "urlGameSteam": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_sm_120.jpg?t=1633453378",
+    "gameName": "The Sims™ 4",
+    "dataCriacao": " 18/jun/2020  ",
+    "desconto": "-75%",
+    "precAnterior": " R$ 159,00",
+    "precAtual": "R$ 39,75"
   },
   {
     "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/6389/Aragami_Shadow_Edition/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/6389/t01kf1ar6fgxjv3q/capsule_sm_120.jpg?t=1523031105",
-    "gameName": "Aragami: Shadow Edition",
+    "urlGameSteam": "https://store.steampowered.com/bundle/9717/This_War_of_Mine_Complete_Edition/?snr=1_7_7_7000_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/9717/5jagr8hh1w37dvgi/capsule_sm_120.jpg?t=1583506437",
+    "gameName": "This War of Mine: Complete Edition",
     "dataCriacao": "   ",
-    "desconto": "-88%",
-    "precAnterior": " R$ 57,68",
-    "precAtual": "R$ 7,17"
-  },
-  {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/12024/Northgard_The_Viking_Age_Edition/?snr=1_7_7_7000_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/12024/avwhocict2p7zvez/capsule_sm_120.jpg?t=1571840807",
-    "gameName": "Northgard: The Viking Age Edition",
-    "dataCriacao": "   ",
-    "desconto": "-59%",
-    "precAnterior": " R$ 145,11",
-    "precAtual": "R$ 60,07"
+    "desconto": "-84%",
+    "precAnterior": " R$ 61,47",
+    "precAtual": "R$ 9,93"
   }
 ]

@@ -17,6 +17,7 @@
 .featuredName{
     font-size: 3.75rem;
     font-weight: 600;
+    max-width: 40%;
 }
 
 .featuredInfo{

@@ -94,7 +94,6 @@ export async function atualizaPromo(gameURL:string) {
     const dadosJogos = dadosDosJogos.map((a,index) => {
       const validarDesconto = a.innerText.split(`\n`)
       if(validarDesconto.length > 4){
-        console.log(a.innerHTML);
         return {
           gameId: a.getAttribute('data-ds-appid'),
           urlGameSteam: a.getAttribute('href'),

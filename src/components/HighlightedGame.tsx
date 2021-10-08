@@ -1,25 +1,27 @@
 import styles from '../../styles/components/HighlightedGames.module.css'
-import defaltCardsData from '../../src/data/gamesWithDiscounts.json'
-import axios from 'axios'
-export default function HighlightedGames(){
-    const gameRandom = defaltCardsData[Math.floor((Math.random()*defaltCardsData.length))]
+import { GetStaticProps } from 'next'
+import { PropsCard } from '../types/types'
+import axios from 'axios';
+
+function HighlightedGames({cardInformation}:PropsCard){   
+    
     return(
-        <section className={styles.featured} style={{backgroundImage: `linear-gradient( to top, rgba(var(--primary-purple), 1), transparent), url('${gameRandom.gameImgURL.replace('capsule_sm_120','header')}')`}}>
+        <section className={styles.featured} style={{backgroundImage: `linear-gradient( to top, rgba(var(--primary-purple), 1), transparent), url('${cardInformation.gameImgURL.replace('capsule_sm_120','header')}')`}}>
             <div className={styles.featuredVertical}>
                 <div className={styles.featuredHorizontal}>
                 <div className={styles.featuredName}>
 
-                {gameRandom.gameName}
-                <span>{gameRandom.dataCriacao}</span>
+                {cardInformation.gameName}
+                <span>{cardInformation.dataCriacao}</span>
                 </div>
                 <div className={styles.featuredInfo}>
-                    <div className={styles.discountPercentage}>{gameRandom.desconto}</div>
-                    <div>{gameRandom.precAnterior}</div>
-                    <div>{gameRandom.precAtual}</div>
+                    <div className={styles.discountPercentage}>{cardInformation.desconto}</div>
+                    <div>{cardInformation.precAnterior}</div>
+                    <div>{cardInformation.precAtual}</div>
                     
                 </div>
                 <div>
-                    <a href={gameRandom.urlGameSteam}>
+                    <a href={cardInformation.urlGameSteam}>
                         comprar
                     </a>
                 </div>
@@ -33,3 +35,5 @@ export default function HighlightedGames(){
         </section>
     )
 }
+
+export default HighlightedGames

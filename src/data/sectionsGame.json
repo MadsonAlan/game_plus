@@ -20,6 +20,10 @@
     "titleIndex": "Simulação"
   },
   {
+    "valueId": "9",
+    "titleIndex": "Estratégia"
+  },
+  {
     "valueId": "3859",
     "titleIndex": "Multijogador"
   },
@@ -28,36 +32,32 @@
     "titleIndex": "Casual"
   },
   {
-    "valueId": "9",
-    "titleIndex": "Estratégia"
+    "valueId": "4166",
+    "titleIndex": "Atmosférico"
   },
   {
     "valueId": "122",
     "titleIndex": "RPG"
   },
   {
-    "valueId": "4166",
-    "titleIndex": "Atmosférico"
-  },
-  {
-    "valueId": "1742",
-    "titleIndex": "Boa Trama"
+    "valueId": "3871",
+    "titleIndex": "2D "
   },
   {
     "valueId": "1756",
     "titleIndex": "Trilha Sonora Boa"
   },
   {
-    "valueId": "3871",
-    "titleIndex": "2D "
-  },
-  {
-    "valueId": "1695",
-    "titleIndex": "Mundo Aberto"
+    "valueId": "1742",
+    "titleIndex": "Boa Trama"
   },
   {
     "valueId": "1685",
     "titleIndex": "Cooperativo"
+  },
+  {
+    "valueId": "1695",
+    "titleIndex": "Mundo Aberto"
   },
   {
     "valueId": "3839",
@@ -72,10 +72,6 @@
     "titleIndex": "Violento"
   },
   {
-    "valueId": "4345",
-    "titleIndex": "Violência Detalhada"
-  },
-  {
     "valueId": "1664",
     "titleIndex": "Quebra-cabeça"
   },
@@ -84,12 +80,12 @@
     "titleIndex": "Terror"
   },
   {
-    "valueId": "4026",
-    "titleIndex": "Difícil"
+    "valueId": "4345",
+    "titleIndex": "Violência Detalhada"
   },
   {
-    "valueId": "1774",
-    "titleIndex": "Tiro"
+    "valueId": "4026",
+    "titleIndex": "Difícil"
   },
   {
     "valueId": "3834",
@@ -98,6 +94,10 @@
   {
     "valueId": "3810",
     "titleIndex": "Faça o que Quiser"
+  },
+  {
+    "valueId": "1774",
+    "titleIndex": "Tiro"
   },
   {
     "valueId": "84",
