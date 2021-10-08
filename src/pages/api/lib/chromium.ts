@@ -66,7 +66,8 @@ export async function atualizaPromo(gameURL:string) {
   const dadosDeFiltros = await page.evaluate(() => {
     const nodeList = document.querySelectorAll('#TagFilter_Container .tab_filter_control_include')
 
-    const filterArray = [...nodeList]
+    const filterArray = []
+    filterArray.push(nodeList)
 
     const dadosDeFiltros = filterArray.map(d =>{
       return {
@@ -88,8 +89,10 @@ export async function atualizaPromo(gameURL:string) {
     const nodeList = document.querySelectorAll('#search_resultsRows a')
     const nodeListImg = document.querySelectorAll('#search_resultsRows a div img')
 
-    const dadosDosJogos = [...nodeList]
-    const imgDosJogos = [...nodeListImg]
+    const dadosDosJogos =[] 
+    dadosDosJogos.push(nodeList)
+    const imgDosJogos = [] 
+    imgDosJogos.push(nodeListImg)
 
     const dadosJogos = dadosDosJogos.map((a,index) => {
       const validarDesconto = a.innerText.split(`\n`)
