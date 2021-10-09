@@ -1,67 +1,76 @@
-.featured{
+.featured {
     height: 60vh;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
-.featuredVertical{
+
+.featuredVertical {
     width: inherit;
     height: inherit;
     background: linear-gradient(to top, var(--background) 10%, transparent 90%);
 }
-.featuredHorizontal{
+
+.featuredHorizontal {
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: inherit;
     height: inherit;
-    background: linear-gradient(to right, var(--background) 30%, transparent 70%);
+    background: linear-gradient(to right, rgba(16, 18, 21, 0.7) 30%, transparent 70%);
     padding-left: 2rem;
     padding-bottom: 4rem;
 }
-.featuredName{
-    font-size: 3.75rem;
+
+.featuredName {
+    font-size: 2.75rem;
     font-weight: 600;
     max-width: 40%;
 }
 
-.featuredInfo{
+.featuredInfo {
     font-size: 1.5rem;
     font-weight: 600;
 }
-.featuredLauch{
+
+.featuredLauch {
     font-size: 1rem;
 }
-.discountPercentage{
+
+.discountPercentage {
     display: flex;
     flex: 1;
     align-items: center;
     margin: 2rem 0rem;
 }
-.discountPercentage > span{
+
+.discountPercentage>span {
     padding: 0.3rem;
     border-radius: 5px;
     background: var(--green);
     color: var(--white);
     margin-right: 1rem;
 }
-.discountPercentage div{
+
+.discountPercentage div {
     display: flex;
     flex: 1;
     flex-direction: column;
     align-items: flex-start;
 }
-.discountPercentage div p{
+
+.discountPercentage div p {
     font-size: 1rem;
     text-decoration: line-through;
     color: var(--text);
 }
 
-.discountPercentage div span{
+.discountPercentage div span {
     font-size: 2rem;
     color: var(--tittle);
 }
-.featuredBuyButton{
+
+.featuredBuyButton {
     width: max-content;
     font-size: 1.5rem;
     font-weight: 600;
@@ -70,12 +79,10 @@
     text-decoration: none;
     background: var(--red);
     color: var(--white);
-    box-shadow: 0px 10px 30px -10px rgba(151, 163, 184, 0.5);
     transition: all 250ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;
 }
 
-.featuredBuyButton:hover{
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
-    /* transform: scale(0.97); */
+.featuredBuyButton:hover {
+    opacity: 0.9;
     transform: scale(1.02);
 }

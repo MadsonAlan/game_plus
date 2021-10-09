@@ -10,20 +10,20 @@ body {
 
 :root {
   --white: #fff;
-  --background: #f2f3f5;
+  --background: #101215;
   --gray-line: #DCDDE0;
-  --text: #666666;
+  --text: #ffffff;
   --text-highlight: #B3B9FF;
-  --title: #2E384D;
+  --title: #f2f3f5;
   --red: #E83F5B;
   --green: #4CD62B;
   --blue: #5965E0;
   --blue-dark: #4953B8;
   --blue-twitter: #2AA9E0;
   /* --primary-purple:#51284F; */
-  --primary-purple: 81, 40, 79;
+  --primary-purple: 56, 54, 69;
   /* --secondary-purple:#AA0061; */
-  --secondary-purple: 170, 0, 97;
+  --secondary-purple: 88, 89, 91;
 }
 
 @media(max-width: 1080px) {

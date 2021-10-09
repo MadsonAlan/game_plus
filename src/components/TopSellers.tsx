@@ -4,41 +4,90 @@ import CardComponent from './Card'
 import defaltCardsData from '../../src/data/gamesWithDiscounts.json'
 import { MdOutlineArrowBackIosNew, MdOutlineArrowForwardIos } from "react-icons/md";
 import { CardData, SectionsData } from '../types/types';
+import Slider, { Settings } from 'react-slick';
 //https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Useful_string_methods
 
 interface PropsTopSellers {
     filterData: SectionsData,
-    cardsData: CardData[], 
+    cardsData: CardData[],
 }
 export default function TopSellers({
     filterData,
     cardsData
-}:PropsTopSellers) {
-
-    const [scrollX, setScrollX] = useState(0)
-
-    const handleClick = (direction: string) => {
-        let x = (scrollX + 27) < 0 ? (scrollX + 27) : 0
-        let x2 = ((scrollX - 27) * -1) > ((defaltCardsData.length * 18) - 36) ? ((defaltCardsData.length * 18) - 36) * -1 : (scrollX - 27)
-
-
-        if (direction === "left") {
-            if (scrollX < 0) {
-                setScrollX(x)
+}: PropsTopSellers) {
+    const settings: Settings = {
+        dots: false,
+        infinite: true,
+        slidesToShow: 8,
+        slidesToScroll: 1,
+        speed: 600,
+        autoplay: false,
+        nextArrow: <SampleNextArrow/>,
+        prevArrow: <SamplePrevArrow/>,
+        responsive: [
+            {
+                breakpoint: 1450,
+                settings: {
+                    slidesToShow: 4,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    dots: false
+                }
+            },
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    dots: false
+                }
+            },
+            {
+                breakpoint: 800,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    initialSlide: 2,
+                    dots: false
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    dots: false
+                }
             }
+        ]
+    };
+    function SampleNextArrow(props) {
+        const { className, style, onClick } = props;
+        return (
+            <MdOutlineArrowForwardIos className={styles.sliderArrowForward} onClick={onClick} />
+            //   <div
+            //     className={className}
+            //     style={{ ...style, display: "block", background: "red" }}
+            //     onClick={onClick}
+            //   />
+            );
         }
-        if (direction === "right") {
-
-            if ((scrollX * -1) < ((defaltCardsData.length * 18) - 36)) {
-                setScrollX(x2)
-            }
-        }
-
-    }
-
-    function validaCard(cardsData : CardData[]){
-        const cardsFiltereds = cardsData.filter((card, index)=>{
-            if(card.filters.indexOf(parseInt(filterData.valueId))){
+        
+        function SamplePrevArrow(props) {
+            const { className, style, onClick } = props;
+            return (
+            <MdOutlineArrowBackIosNew className={styles.sliderArrowBack} onClick={onClick} />
+        //   <div
+        //     className={className}
+        //     style={{ ...style, display: "block", background: "green" }}
+        //     onClick={onClick}
+        //   />
+        );
+      }
+    function validaCard(cardsData: CardData[]) {
+        const cardsFiltereds = cardsData.filter((card) => {
+            if (card.filters.includes(parseInt(filterData.valueId))) {
                 return card
             }
         })
@@ -47,8 +96,20 @@ export default function TopSellers({
     return (
         <div className={styles.main}>
             <h3>Jogos de {filterData.titleIndex}</h3>
-            <div className={styles.wrapper}>
-                <MdOutlineArrowBackIosNew className={styles.sliderArrowBack} onClick={() => handleClick("left")} />
+            <Slider {...settings}>
+                {
+                    validaCard(cardsData).map((cardData, indice) => {
+                        return (
+                            <CardComponent
+                                key={indice}
+                                cardInformation={cardData}
+                            />
+                        )
+                    })
+                }
+            </Slider>
+            {/* <div className={styles.wrapper}>
+                <MdOutlineArrowBackIosNew className={styles.sliderArrowBack} onClick={() => handleClick("left", validaCard(cardsData))} />
                 <div className={styles.cardCarroussel} style={{ transform: `translateX(${scrollX}rem)` }}>
                     {
                         validaCard(cardsData).map((cardData, indice) => {
@@ -62,8 +123,8 @@ export default function TopSellers({
                     }
 
                 </div>
-                <MdOutlineArrowForwardIos className={styles.sliderArrowForward} onClick={() => handleClick("right")} />
-            </div>
+                <MdOutlineArrowForwardIos className={styles.sliderArrowForward} onClick={() => handleClick("right", validaCard(cardsData))} />
+            </div> */}
         </div>
     )
 }

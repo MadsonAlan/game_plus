@@ -23,7 +23,7 @@ function Home(props : GamePlusInformation) {
       <HighlightedGames cardInformation={props.randomGameToHeader}/>
       {
       props.sectionsGame.map((filter, index)=>{
-        if (index < 6) {
+        if (index < 10) {
           return(
             <TopSellers key={parseInt(filter.valueId)} cardsData={props.gamesData} filterData={filter}/>
           )

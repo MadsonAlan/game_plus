@@ -1,12 +1,13 @@
 import styles from '../../styles/components/HighlightedGames.module.css'
-import { GetStaticProps } from 'next'
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
 import { PropsCard } from '../types/types'
-import axios from 'axios';
 
 function HighlightedGames({ cardInformation }: PropsCard) {
 
     return (
         <section className={styles.featured} style={{ backgroundImage: `linear-gradient( to top, rgba(var(--primary-purple), 1), transparent), url('${cardInformation.gameImgURL.replace('capsule_sm_120', 'header')}')` }}>
+        {/* // <section className={styles.featured} style={{ backgroundImage: `linear-gradient( to top, rgba(var(--primary-purple), 1), transparent), url('https://cdn.akamai.steamstatic.com/steam/apps/${cardInformation.gameId}/page_bg_generated_v6b.jpg')` }}> */}
             <div className={styles.featuredVertical}>
                 <div className={styles.featuredHorizontal}>
                     <div className={styles.featuredName}>
