@@ -31,9 +31,11 @@ function HighlightedGames({ cardInformation }: PropsCard) {
 
 
                     </div>
-                    <a className={styles.featuredBuyButton} href={cardInformation.urlGameSteam} target="_blank" rel="noreferrer">
-                        comprar
-                    </a>
+                    <div className={styles.featuredBuyButton}>
+                        <a href={cardInformation.urlGameSteam} target="_blank" rel="noreferrer">
+                            comprar
+                        </a>
+                    </div>
                     {/* <div>
                         <p>
                             teste de noticias

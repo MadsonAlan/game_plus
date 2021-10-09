@@ -1,35 +1,31 @@
 [
   {
-    "valueId": "19",
-    "titleIndex": "Ação"
+    "valueId": "492",
+    "titleIndex": "Indie"
   },
   {
     "valueId": "4182",
     "titleIndex": "Um Jogador"
   },
   {
-    "valueId": "492",
-    "titleIndex": "Indie"
+    "valueId": "19",
+    "titleIndex": "Ação"
   },
   {
     "valueId": "21",
     "titleIndex": "Aventura"
   },
   {
-    "valueId": "599",
-    "titleIndex": "Simulação"
+    "valueId": "597",
+    "titleIndex": "Casual"
   },
   {
     "valueId": "9",
     "titleIndex": "Estratégia"
   },
   {
-    "valueId": "3859",
-    "titleIndex": "Multijogador"
-  },
-  {
-    "valueId": "597",
-    "titleIndex": "Casual"
+    "valueId": "599",
+    "titleIndex": "Simulação"
   },
   {
     "valueId": "4166",
@@ -48,16 +44,12 @@
     "titleIndex": "Trilha Sonora Boa"
   },
   {
+    "valueId": "3859",
+    "titleIndex": "Multijogador"
+  },
+  {
     "valueId": "1742",
     "titleIndex": "Boa Trama"
-  },
-  {
-    "valueId": "1685",
-    "titleIndex": "Cooperativo"
-  },
-  {
-    "valueId": "1695",
-    "titleIndex": "Mundo Aberto"
   },
   {
     "valueId": "3839",
@@ -68,36 +60,44 @@
     "titleIndex": "Engraçado"
   },
   {
-    "valueId": "4667",
-    "titleIndex": "Violento"
+    "valueId": "1695",
+    "titleIndex": "Mundo Aberto"
   },
   {
     "valueId": "1664",
     "titleIndex": "Quebra-cabeça"
   },
   {
-    "valueId": "1667",
-    "titleIndex": "Terror"
+    "valueId": "1684",
+    "titleIndex": "Fantasia"
   },
   {
-    "valueId": "4345",
-    "titleIndex": "Violência Detalhada"
-  },
-  {
-    "valueId": "4026",
-    "titleIndex": "Difícil"
+    "valueId": "4726",
+    "titleIndex": "Fofo"
   },
   {
     "valueId": "3834",
     "titleIndex": "Exploração"
   },
   {
-    "valueId": "3810",
-    "titleIndex": "Faça o que Quiser"
+    "valueId": "4085",
+    "titleIndex": "Anime"
   },
   {
-    "valueId": "1774",
-    "titleIndex": "Tiro"
+    "valueId": "4026",
+    "titleIndex": "Difícil"
+  },
+  {
+    "valueId": "3964",
+    "titleIndex": "Gráficos Pixelados"
+  },
+  {
+    "valueId": "4305",
+    "titleIndex": "Colorido"
+  },
+  {
+    "valueId": "7208",
+    "titleIndex": "Protagonista Mulher"
   },
   {
     "valueId": "84",
@@ -228,6 +228,10 @@
     "titleIndex": "Cartas"
   },
   {
+    "valueId": "1667",
+    "titleIndex": "Terror"
+  },
+  {
     "valueId": "1669",
     "titleIndex": "Suporte a Mods"
   },
@@ -272,8 +276,8 @@
     "titleIndex": "Piratas"
   },
   {
-    "valueId": "1684",
-    "titleIndex": "Fantasia"
+    "valueId": "1685",
+    "titleIndex": "Cooperativo"
   },
   {
     "valueId": "1687",
@@ -325,7 +329,7 @@
   },
   {
     "valueId": "1719",
-    "titleIndex": "Comedy"
+    "titleIndex": "Comédia"
   },
   {
     "valueId": "1720",
@@ -408,6 +412,10 @@
     "titleIndex": "Arcade"
   },
   {
+    "valueId": "1774",
+    "titleIndex": "Tiro"
+  },
+  {
     "valueId": "1775",
     "titleIndex": "Jogador x Jogador (PvP)"
   },
@@ -426,6 +434,10 @@
   {
     "valueId": "3799",
     "titleIndex": "Romance Visual"
+  },
+  {
+    "valueId": "3810",
+    "titleIndex": "Faça o que Quiser"
   },
   {
     "valueId": "3813",
@@ -488,10 +500,6 @@
     "titleIndex": "Rogue-lite"
   },
   {
-    "valueId": "3964",
-    "titleIndex": "Gráficos Pixelados"
-  },
-  {
     "valueId": "3965",
     "titleIndex": "Épico"
   },
@@ -534,10 +542,6 @@
   {
     "valueId": "4064",
     "titleIndex": "Thriller"
-  },
-  {
-    "valueId": "4085",
-    "titleIndex": "Anime"
   },
   {
     "valueId": "4094",
@@ -644,10 +648,6 @@
     "titleIndex": "Futurista"
   },
   {
-    "valueId": "4305",
-    "titleIndex": "Colorido"
-  },
-  {
     "valueId": "4325",
     "titleIndex": "Combate em Turnos"
   },
@@ -658,6 +658,10 @@
   {
     "valueId": "4342",
     "titleIndex": "Sombrio"
+  },
+  {
+    "valueId": "4345",
+    "titleIndex": "Violência Detalhada"
   },
   {
     "valueId": "4364",
@@ -716,6 +720,10 @@
     "titleIndex": "SHMUP com visão de cima"
   },
   {
+    "valueId": "4667",
+    "titleIndex": "Violento"
+  },
+  {
     "valueId": "4684",
     "titleIndex": "Jogo de Guerra"
   },
@@ -730,10 +738,6 @@
   {
     "valueId": "4711",
     "titleIndex": "Alta Rejogabilidade"
-  },
-  {
-    "valueId": "4726",
-    "titleIndex": "Fofo"
   },
   {
     "valueId": "4736",
@@ -1090,10 +1094,6 @@
   {
     "valueId": "7178",
     "titleIndex": "Jogo em Grupos"
-  },
-  {
-    "valueId": "7208",
-    "titleIndex": "Protagonista Mulher"
   },
   {
     "valueId": "7226",

@@ -10,10 +10,14 @@
     background: linear-gradient(to top, var(--background) 10%, transparent 90%);
 }
 .featuredHorizontal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     width: inherit;
     height: inherit;
     background: linear-gradient(to right, var(--background) 30%, transparent 70%);
     padding-left: 2rem;
+    padding-bottom: 4rem;
 }
 .featuredName{
     font-size: 3.75rem;
@@ -58,6 +62,7 @@
     color: var(--tittle);
 }
 .featuredBuyButton{
+    width: max-content;
     font-size: 1.5rem;
     font-weight: 600;
     padding: 0.8rem 1.5rem;

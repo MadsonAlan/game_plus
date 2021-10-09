@@ -66,7 +66,7 @@ export async function atualizaPromo(gameURL:string) {
   const dadosDeFiltros = await page.evaluate(() => {
     const nodeList = document.querySelectorAll('#TagFilter_Container .tab_filter_control_include')
 
-    const filterArray = []
+    const filterArray = []//[...nodeList]
     filterArray.push(nodeList)
 
     const dadosDeFiltros = filterArray.map(d =>{
@@ -88,10 +88,12 @@ export async function atualizaPromo(gameURL:string) {
   const dadosJogos = await page.evaluate(() => {
     const nodeList = document.querySelectorAll('#search_resultsRows a')
     const nodeListImg = document.querySelectorAll('#search_resultsRows a div img')
+    // const nodeListComent = document.querySelectorAll('#search_resultsRows a div div span')
 
-    const dadosDosJogos =[] 
+    const dadosDosJogos = []//[...nodeList] 
+    
     dadosDosJogos.push(nodeList)
-    const imgDosJogos = [] 
+    const imgDosJogos = []//[...nodeListImg] 
     imgDosJogos.push(nodeListImg)
 
     const dadosJogos = dadosDosJogos.map((a,index) => {
@@ -105,7 +107,8 @@ export async function atualizaPromo(gameURL:string) {
           dataCriacao: validarDesconto[3],
           desconto: validarDesconto[4],
           precAnterior: validarDesconto[5],
-          precAtual: validarDesconto[6]
+          precAtual: validarDesconto[6],
+          filters: JSON.parse(a.getAttribute('data-ds-tagids'))
         }
       }
     })
