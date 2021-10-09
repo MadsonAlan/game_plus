@@ -1,5 +1,5 @@
 
-export type CardData = { 
+export type CardData = {
     gameId: string,
     urlGameSteam: string,
     gameImgURL: string,
@@ -7,8 +7,13 @@ export type CardData = {
     dataCriacao: string,
     desconto: string,
     precAnterior: string,
-    precAtual?: string }
-
+    precAtual?: string,
+    filters: number[]
+}
+export type SectionsData = {
+    valueId: string,
+    titleIndex: string
+}
 export type PropsCard = {
     cardInformation: CardData,
 }

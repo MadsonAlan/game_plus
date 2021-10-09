@@ -4,8 +4,15 @@ import React from 'react'
 import styles from '../../styles/pages/Home.module.css'
 import HighlightedGames from '../components/HighlightedGame'
 import TopSellers from '../components/TopSellers'
+import { CardData, SectionsData } from '../types/types'
 
-function Home(props) {  
+type GamePlusInformation = {
+  randomGameToHeader: CardData,
+  gamesData: CardData[],
+  sectionsGame: SectionsData[]
+}
+
+function Home(props : GamePlusInformation) {  
   
   return (
     <div className={styles.container}>
@@ -14,7 +21,15 @@ function Home(props) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <HighlightedGames cardInformation={props.randomGameToHeader}/>
-      <TopSellers/>
+      {
+      props.sectionsGame.map((filter, index)=>{
+        if (index < 6) {
+          return(
+            <TopSellers key={parseInt(filter.valueId)} cardsData={props.gamesData} filterData={filter}/>
+          )
+        }
+      })
+      }
     </div>
   )
 }
