@@ -1,5 +1,5 @@
 
-export type CardData = {
+export type GameData = {
     gameId: string,
     urlGameSteam: string,
     gameImgURL: string,
@@ -15,5 +15,5 @@ export type SectionsData = {
     titleIndex: string
 }
 export type PropsCard = {
-    cardInformation: CardData,
+    cardInformation: GameData,
 }

@@ -8,12 +8,12 @@
     "titleIndex": "Um Jogador"
   },
   {
-    "valueId": "19",
-    "titleIndex": "Ação"
-  },
-  {
     "valueId": "21",
     "titleIndex": "Aventura"
+  },
+  {
+    "valueId": "19",
+    "titleIndex": "Ação"
   },
   {
     "valueId": "597",
@@ -40,10 +40,6 @@
     "titleIndex": "2D "
   },
   {
-    "valueId": "1756",
-    "titleIndex": "Trilha Sonora Boa"
-  },
-  {
     "valueId": "3859",
     "titleIndex": "Multijogador"
   },
@@ -52,16 +48,16 @@
     "titleIndex": "Boa Trama"
   },
   {
-    "valueId": "3839",
-    "titleIndex": "Primeira Pessoa"
-  },
-  {
-    "valueId": "4136",
-    "titleIndex": "Engraçado"
+    "valueId": "1756",
+    "titleIndex": "Trilha Sonora Boa"
   },
   {
     "valueId": "1695",
     "titleIndex": "Mundo Aberto"
+  },
+  {
+    "valueId": "3839",
+    "titleIndex": "Primeira Pessoa"
   },
   {
     "valueId": "1664",
@@ -76,28 +72,32 @@
     "titleIndex": "Fofo"
   },
   {
-    "valueId": "3834",
-    "titleIndex": "Exploração"
+    "valueId": "4136",
+    "titleIndex": "Engraçado"
   },
   {
-    "valueId": "4085",
-    "titleIndex": "Anime"
+    "valueId": "3834",
+    "titleIndex": "Exploração"
   },
   {
     "valueId": "4026",
     "titleIndex": "Difícil"
   },
   {
-    "valueId": "3964",
-    "titleIndex": "Gráficos Pixelados"
-  },
-  {
-    "valueId": "4305",
-    "titleIndex": "Colorido"
+    "valueId": "4085",
+    "titleIndex": "Anime"
   },
   {
     "valueId": "7208",
     "titleIndex": "Protagonista Mulher"
+  },
+  {
+    "valueId": "1662",
+    "titleIndex": "Sobrevivência "
+  },
+  {
+    "valueId": "3810",
+    "titleIndex": "Faça o que Quiser"
   },
   {
     "valueId": "84",
@@ -210,10 +210,6 @@
   {
     "valueId": "1659",
     "titleIndex": "Zumbi"
-  },
-  {
-    "valueId": "1662",
-    "titleIndex": "Sobrevivência "
   },
   {
     "valueId": "1663",
@@ -436,10 +432,6 @@
     "titleIndex": "Romance Visual"
   },
   {
-    "valueId": "3810",
-    "titleIndex": "Faça o que Quiser"
-  },
-  {
     "valueId": "3813",
     "titleIndex": "Tática em Tempo Real"
   },
@@ -498,6 +490,10 @@
   {
     "valueId": "3959",
     "titleIndex": "Rogue-lite"
+  },
+  {
+    "valueId": "3964",
+    "titleIndex": "Gráficos Pixelados"
   },
   {
     "valueId": "3965",
@@ -646,6 +642,10 @@
   {
     "valueId": "4295",
     "titleIndex": "Futurista"
+  },
+  {
+    "valueId": "4305",
+    "titleIndex": "Colorido"
   },
   {
     "valueId": "4325",

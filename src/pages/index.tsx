@@ -1,14 +1,15 @@
+import axios from 'axios'
 import { GetStaticProps } from 'next'
 import Head from 'next/head'
 import React from 'react'
 import styles from '../../styles/pages/Home.module.css'
 import HighlightedGames from '../components/HighlightedGame'
 import TopSellers from '../components/TopSellers'
-import { CardData, SectionsData } from '../types/types'
+import { GameData, SectionsData } from '../types/types'
 
 type GamePlusInformation = {
-  randomGameToHeader: CardData,
-  gamesData: CardData[],
+  randomGameToHeader: GameData,
+  gamesData: GameData[],
   sectionsGame: SectionsData[]
 }
 
@@ -23,7 +24,7 @@ function Home(props : GamePlusInformation) {
       <HighlightedGames cardInformation={props.randomGameToHeader}/>
       {
       props.sectionsGame.map((filter, index)=>{
-        if (index < 10) {
+        if (index < 9) {
           return(
             <TopSellers key={parseInt(filter.valueId)} cardsData={props.gamesData} filterData={filter}/>
           )
@@ -38,13 +39,14 @@ export const getStaticProps: GetStaticProps = async () => {
   
   const defaltCardsData = await import('../data/gamesWithDiscounts.json')
   const sections = await import('../data/sectionsGame.json')
-  
+  // await axios.get('/api/hello')
   return {
       props: {
           randomGameToHeader: defaltCardsData[Math.floor((Math.random()*defaltCardsData.length))],
           gamesData: defaltCardsData.default,
           sectionsGame: sections.default
       }, 
+      // revalidate: 60*60*12
       revalidate: 120
     }
 }

@@ -3,13 +3,13 @@ import styles from '../../styles/components/TopSellers.module.css'
 import CardComponent from './Card'
 import defaltCardsData from '../../src/data/gamesWithDiscounts.json'
 import { MdOutlineArrowBackIosNew, MdOutlineArrowForwardIos } from "react-icons/md";
-import { CardData, SectionsData } from '../types/types';
+import { GameData, SectionsData } from '../types/types';
 import Slider, { Settings } from 'react-slick';
 //https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Useful_string_methods
 
 interface PropsTopSellers {
     filterData: SectionsData,
-    cardsData: CardData[],
+    cardsData: GameData[],
 }
 export default function TopSellers({
     filterData,
@@ -85,7 +85,7 @@ export default function TopSellers({
         //   />
         );
       }
-    function validaCard(cardsData: CardData[]) {
+    function validaCard(cardsData: GameData[]) {
         const cardsFiltereds = cardsData.filter((card) => {
             if (card.filters.includes(parseInt(filterData.valueId))) {
                 return card

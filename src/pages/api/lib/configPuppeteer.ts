@@ -1,4 +1,3 @@
-import puppeteer from 'puppeteer-core'
 import chrome from 'chrome-aws-lambda'
 // const puppeteer = require('puppeteer-core')
 // const chrome = require('chrome-aws-lambda')
@@ -9,7 +8,7 @@ Primeiro, entre no diretório com :  cd ./src/pages/api/lib/
 Depois execute o arquivo com: node chromium.js
 */
 
-async function getOptions() {
+export async function getOptions() {
   const isDev = !process.env.AWS_REGION
   let options;
 
@@ -39,26 +38,26 @@ async function getOptions() {
   return options
 }
 
-let _page
-export async function getPage() {
-  if (_page) {
-    return _page
-  }
+// let _page
+// export async function getPage() {
+//   if (_page) {
+//     return _page
+//   }
 
-  const options = await getOptions()
-  const browser = await puppeteer.launch(options)
+//   const options = await getOptions()
+//   const browser = await puppeteer.launch(options)
 
-  _page = await browser.newPage()
+//   _page = await browser.newPage()
 
-  return _page
-}
-export async function closeBrowser() {
+//   return _page
+// }
+// export async function closeBrowser() {
   
-  const options = await getOptions()
-  const browser = await puppeteer.launch(options)
+//   const options = await getOptions()
+//   const browser = await puppeteer.launch(options)
 
-  await browser.close()
-}
+//   await browser.close()
+// }
 
 
 /*
