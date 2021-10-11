@@ -1,7 +1,6 @@
-import React, { useState } from 'react'
+import React, { memo } from 'react'
 import styles from '../../styles/components/TopSellers.module.css'
 import CardComponent from './Card'
-import defaltCardsData from '../../src/data/gamesWithDiscounts.json'
 import { MdOutlineArrowBackIosNew, MdOutlineArrowForwardIos } from "react-icons/md";
 import { GameData, SectionsData } from '../types/types';
 import Slider, { Settings } from 'react-slick';
@@ -11,7 +10,7 @@ interface PropsTopSellers {
     filterData: SectionsData,
     cardsData: GameData[],
 }
-export default function TopSellers({
+function TopSellers({
     filterData,
     cardsData
 }: PropsTopSellers) {
@@ -22,8 +21,8 @@ export default function TopSellers({
         slidesToScroll: 1,
         speed: 600,
         autoplay: false,
-        nextArrow: <SampleNextArrow/>,
-        prevArrow: <SamplePrevArrow/>,
+        nextArrow: <SampleNextArrow />,
+        prevArrow: <SamplePrevArrow />,
         responsive: [
             {
                 breakpoint: 1450,
@@ -66,31 +65,30 @@ export default function TopSellers({
         const { className, style, onClick } = props;
         return (
             <MdOutlineArrowForwardIos className={styles.sliderArrowForward} onClick={onClick} />
-            //   <div
-            //     className={className}
-            //     style={{ ...style, display: "block", background: "red" }}
-            //     onClick={onClick}
-            //   />
-            );
-        }
-        
-        function SamplePrevArrow(props) {
-            const { className, style, onClick } = props;
-            return (
-            <MdOutlineArrowBackIosNew className={styles.sliderArrowBack} onClick={onClick} />
-        //   <div
-        //     className={className}
-        //     style={{ ...style, display: "block", background: "green" }}
-        //     onClick={onClick}
-        //   />
         );
-      }
+    }
+
+    function SamplePrevArrow(props) {
+        const { className, style, onClick } = props;
+        return (
+            <MdOutlineArrowBackIosNew className={styles.sliderArrowBack} onClick={onClick} />
+        );
+    }
     function validaCard(cardsData: GameData[]) {
         const cardsFiltereds = cardsData.filter((card) => {
             if (card.filters.includes(parseInt(filterData.valueId))) {
                 return card
             }
         })
+        // if (cardsFiltereds.length < 50) {
+        //     await fetch(`${process.env.URL_LOCAL}/api/updateDataOnFilter`, {
+        //         method: 'POST',
+        //         body: JSON.stringify(filterData),
+        //         headers: {
+        //             'content-type': 'application/json'
+        //         }
+        //     })
+        // }
         return cardsFiltereds
     }
     return (
@@ -98,7 +96,7 @@ export default function TopSellers({
             <h3>Jogos de {filterData.titleIndex}</h3>
             <Slider {...settings}>
                 {
-                    validaCard(cardsData).map((cardData, indice) => {
+                     validaCard(cardsData).map((cardData, indice) => {
                         return (
                             <CardComponent
                                 key={indice}
@@ -108,23 +106,9 @@ export default function TopSellers({
                     })
                 }
             </Slider>
-            {/* <div className={styles.wrapper}>
-                <MdOutlineArrowBackIosNew className={styles.sliderArrowBack} onClick={() => handleClick("left", validaCard(cardsData))} />
-                <div className={styles.cardCarroussel} style={{ transform: `translateX(${scrollX}rem)` }}>
-                    {
-                        validaCard(cardsData).map((cardData, indice) => {
-                            return (
-                                <CardComponent
-                                    key={indice}
-                                    cardInformation={cardData}
-                                />
-                            )
-                        })
-                    }
-
-                </div>
-                <MdOutlineArrowForwardIos className={styles.sliderArrowForward} onClick={() => handleClick("right", validaCard(cardsData))} />
-            </div> */}
         </div>
     )
 }
+
+
+export default memo(TopSellers)

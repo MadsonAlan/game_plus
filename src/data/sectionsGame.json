@@ -20,12 +20,12 @@
     "titleIndex": "Casual"
   },
   {
-    "valueId": "9",
-    "titleIndex": "Estratégia"
-  },
-  {
     "valueId": "599",
     "titleIndex": "Simulação"
+  },
+  {
+    "valueId": "9",
+    "titleIndex": "Estratégia"
   },
   {
     "valueId": "4166",
@@ -52,14 +52,6 @@
     "titleIndex": "Trilha Sonora Boa"
   },
   {
-    "valueId": "1695",
-    "titleIndex": "Mundo Aberto"
-  },
-  {
-    "valueId": "3839",
-    "titleIndex": "Primeira Pessoa"
-  },
-  {
     "valueId": "1664",
     "titleIndex": "Quebra-cabeça"
   },
@@ -68,36 +60,44 @@
     "titleIndex": "Fantasia"
   },
   {
-    "valueId": "4726",
-    "titleIndex": "Fofo"
-  },
-  {
     "valueId": "4136",
     "titleIndex": "Engraçado"
   },
   {
-    "valueId": "3834",
-    "titleIndex": "Exploração"
-  },
-  {
-    "valueId": "4026",
-    "titleIndex": "Difícil"
+    "valueId": "4726",
+    "titleIndex": "Fofo"
   },
   {
     "valueId": "4085",
     "titleIndex": "Anime"
   },
   {
-    "valueId": "7208",
-    "titleIndex": "Protagonista Mulher"
+    "valueId": "1695",
+    "titleIndex": "Mundo Aberto"
   },
   {
-    "valueId": "1662",
-    "titleIndex": "Sobrevivência "
+    "valueId": "3839",
+    "titleIndex": "Primeira Pessoa"
+  },
+  {
+    "valueId": "3834",
+    "titleIndex": "Exploração"
+  },
+  {
+    "valueId": "5350",
+    "titleIndex": "Infantil"
+  },
+  {
+    "valueId": "12472",
+    "titleIndex": "Gerenciamento"
   },
   {
     "valueId": "3810",
     "titleIndex": "Faça o que Quiser"
+  },
+  {
+    "valueId": "7208",
+    "titleIndex": "Protagonista Mulher"
   },
   {
     "valueId": "84",
@@ -210,6 +210,10 @@
   {
     "valueId": "1659",
     "titleIndex": "Zumbi"
+  },
+  {
+    "valueId": "1662",
+    "titleIndex": "Sobrevivência "
   },
   {
     "valueId": "1663",
@@ -522,6 +526,10 @@
   {
     "valueId": "4018",
     "titleIndex": "Vampiro"
+  },
+  {
+    "valueId": "4026",
+    "titleIndex": "Difícil"
   },
   {
     "valueId": "4036",
@@ -858,10 +866,6 @@
   {
     "valueId": "5348",
     "titleIndex": "Mod "
-  },
-  {
-    "valueId": "5350",
-    "titleIndex": "Infantil"
   },
   {
     "valueId": "5363",
@@ -1310,10 +1314,6 @@
   {
     "valueId": "12286",
     "titleIndex": "Warhammer 40K"
-  },
-  {
-    "valueId": "12472",
-    "titleIndex": "Gerenciamento"
   },
   {
     "valueId": "13070",
