@@ -1,6 +1,7 @@
 import { GetStaticProps } from 'next'
 import Head from 'next/head'
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
+import useSWR from 'swr'
 import styles from '../../styles/pages/Home.module.css'
 import SliderHighlightedGame from '../components/SliderHighlightedGame'
 import TopSellers from '../components/TopSellers'
@@ -11,8 +12,40 @@ type GamePlusInformation = {
   gamesData: GameData[],
   sectionsGame: SectionsData[]
 }
+const fetcher = (url) => fetch(url).then((res) => res.json())
+// const updateAddCards = (url, filterData) => fetch(url, {
+//   method: 'POST',
+//   body: JSON.stringify(filterData),
+//   headers: {
+//     'content-type': 'application/json'
+//   }
+// }).then((res) => res.json())
 
 function Home(props: GamePlusInformation) {
+
+  const { data, error } = useSWR('/api/updateData', fetcher)
+
+  for (let index = 0; index < 9; index++) {
+    const filterData: SectionsData = props.sectionsGame[index]
+    const cardsFiltereds = props.gamesData.filter((card) => {
+      if (card.filters.includes(parseInt(filterData.valueId))) {
+        return card
+      }
+    })
+    if (cardsFiltereds.length < 10) {
+      const resp = fetch('/api/updateData', {
+        method: 'POST',
+        body: JSON.stringify(filterData),
+        headers: {
+          'content-type': 'application/json'
+        }
+      }).then((res) => res.json())
+      console.log(resp);
+      
+    }
+  }
+
+  console.log(data);
   const [randomGameToHeader, setRandomGameToHeader] = useState<GameData[]>(props.randomGameToHeader)
   setInterval(() => {
     let randomGamesForHeader: GameData[] = []
@@ -42,9 +75,12 @@ function Home(props: GamePlusInformation) {
 }
 
 export const getStaticProps: GetStaticProps = async () => {
+  // const fetcher = (url) => fetch(url).then((res) => res.json())
+  // const resp = await fetcher('/api/updateData')
+  // console.log(resp);
 
   const defaltCardsData = await import('../data/gamesWithDiscounts.json')
-  await fetch(`${process.env.URL_LOCAL}/api/hello`)
+  // await fetch('/api/updateData')
   const cardsData: GameData[] = defaltCardsData.default
   //Jogos aleatórios para o Header
   const gamesHeaderRandom: GameData[] = []
@@ -56,32 +92,31 @@ export const getStaticProps: GetStaticProps = async () => {
   //seções aleatórias do site
   const sections = await import('../data/sectionsGame.json')
 
-  for (let index = 0; index < 9; index++) {
-    const filterData: SectionsData = sections.default[index]
-    const cardsFiltereds = cardsData.filter((card) => {
-      if (card.filters.includes(parseInt(filterData.valueId))) {
-        return card
-      }
-    })
-    if (cardsFiltereds.length < 10) {
-      await fetch(`${process.env.URL_LOCAL}/api/hello`, {
-        method: 'POST',
-        body: JSON.stringify(filterData),
-        headers: {
-          'content-type': 'application/json'
-        }
-      })
-    }
+  // for (let index = 0; index < 9; index++) {
+  //   const filterData: SectionsData = sections.default[index]
+  //   const cardsFiltereds = cardsData.filter((card) => {
+  //     if (card.filters.includes(parseInt(filterData.valueId))) {
+  //       return card
+  //     }
+  //   })
+  //   if (cardsFiltereds.length < 10) {
+  //     await fetch('/api/updateData', {
+  //       method: 'POST',
+  //       body: JSON.stringify(filterData),
+  //       headers: {
+  //         'content-type': 'application/json'
+  //       }
+  //     })
+  //   }
 
-  }
+  // }
   return {
     props: {
       randomGameToHeader: gamesHeaderRandom,
       gamesData: defaltCardsData.default,
       sectionsGame: sections.default
     },
-    revalidate: 60 * 60 * 12
-    // revalidate: 120
+    revalidate: 120
   }
 }
 
