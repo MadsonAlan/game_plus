@@ -17,3 +17,7 @@ export type SectionsData = {
 export type PropsCard = {
     cardInformation: GameData,
 }
+
+export type PropsHeaderGames = {
+    headerGamesInformation: GameData[]
+}

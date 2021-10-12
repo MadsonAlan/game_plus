@@ -1,75 +1,63 @@
 [
   {
-    "valueId": "492",
-    "titleIndex": "Indie"
-  },
-  {
     "valueId": "4182",
     "titleIndex": "Um Jogador"
   },
   {
-    "valueId": "21",
-    "titleIndex": "Aventura"
+    "valueId": "492",
+    "titleIndex": "Indie"
   },
   {
     "valueId": "19",
     "titleIndex": "Ação"
   },
   {
-    "valueId": "597",
-    "titleIndex": "Casual"
-  },
-  {
-    "valueId": "599",
-    "titleIndex": "Simulação"
+    "valueId": "21",
+    "titleIndex": "Aventura"
   },
   {
     "valueId": "9",
     "titleIndex": "Estratégia"
   },
   {
-    "valueId": "4166",
-    "titleIndex": "Atmosférico"
-  },
-  {
     "valueId": "122",
     "titleIndex": "RPG"
   },
   {
-    "valueId": "3871",
-    "titleIndex": "2D "
+    "valueId": "599",
+    "titleIndex": "Simulação"
   },
   {
-    "valueId": "3859",
-    "titleIndex": "Multijogador"
+    "valueId": "597",
+    "titleIndex": "Casual"
   },
   {
-    "valueId": "1742",
-    "titleIndex": "Boa Trama"
+    "valueId": "4166",
+    "titleIndex": "Atmosférico"
   },
   {
     "valueId": "1756",
     "titleIndex": "Trilha Sonora Boa"
   },
   {
-    "valueId": "1664",
-    "titleIndex": "Quebra-cabeça"
+    "valueId": "3871",
+    "titleIndex": "2D "
   },
   {
-    "valueId": "1684",
-    "titleIndex": "Fantasia"
-  },
-  {
-    "valueId": "4136",
-    "titleIndex": "Engraçado"
-  },
-  {
-    "valueId": "4726",
-    "titleIndex": "Fofo"
+    "valueId": "1742",
+    "titleIndex": "Boa Trama"
   },
   {
     "valueId": "4085",
     "titleIndex": "Anime"
+  },
+  {
+    "valueId": "3859",
+    "titleIndex": "Multijogador"
+  },
+  {
+    "valueId": "1684",
+    "titleIndex": "Fantasia"
   },
   {
     "valueId": "1695",
@@ -80,24 +68,36 @@
     "titleIndex": "Primeira Pessoa"
   },
   {
-    "valueId": "3834",
-    "titleIndex": "Exploração"
+    "valueId": "4726",
+    "titleIndex": "Fofo"
   },
   {
-    "valueId": "5350",
-    "titleIndex": "Infantil"
+    "valueId": "1664",
+    "titleIndex": "Quebra-cabeça"
   },
   {
-    "valueId": "12472",
-    "titleIndex": "Gerenciamento"
-  },
-  {
-    "valueId": "3810",
-    "titleIndex": "Faça o que Quiser"
+    "valueId": "4136",
+    "titleIndex": "Engraçado"
   },
   {
     "valueId": "7208",
     "titleIndex": "Protagonista Mulher"
+  },
+  {
+    "valueId": "3834",
+    "titleIndex": "Exploração"
+  },
+  {
+    "valueId": "3964",
+    "titleIndex": "Gráficos Pixelados"
+  },
+  {
+    "valueId": "4026",
+    "titleIndex": "Difícil"
+  },
+  {
+    "valueId": "6650",
+    "titleIndex": "Nudez"
   },
   {
     "valueId": "84",
@@ -436,6 +436,10 @@
     "titleIndex": "Romance Visual"
   },
   {
+    "valueId": "3810",
+    "titleIndex": "Faça o que Quiser"
+  },
+  {
     "valueId": "3813",
     "titleIndex": "Tática em Tempo Real"
   },
@@ -496,10 +500,6 @@
     "titleIndex": "Rogue-lite"
   },
   {
-    "valueId": "3964",
-    "titleIndex": "Gráficos Pixelados"
-  },
-  {
     "valueId": "3965",
     "titleIndex": "Épico"
   },
@@ -526,10 +526,6 @@
   {
     "valueId": "4018",
     "titleIndex": "Vampiro"
-  },
-  {
-    "valueId": "4026",
-    "titleIndex": "Difícil"
   },
   {
     "valueId": "4036",
@@ -868,6 +864,10 @@
     "titleIndex": "Mod "
   },
   {
+    "valueId": "5350",
+    "titleIndex": "Infantil"
+  },
+  {
     "valueId": "5363",
     "titleIndex": "Destruição"
   },
@@ -1038,10 +1038,6 @@
   {
     "valueId": "6625",
     "titleIndex": "Manipulação de Tempo"
-  },
-  {
-    "valueId": "6650",
-    "titleIndex": "Nudez"
   },
   {
     "valueId": "6691",
@@ -1314,6 +1310,10 @@
   {
     "valueId": "12286",
     "titleIndex": "Warhammer 40K"
+  },
+  {
+    "valueId": "12472",
+    "titleIndex": "Gerenciamento"
   },
   {
     "valueId": "13070",

@@ -80,15 +80,6 @@ function TopSellers({
                 return card
             }
         })
-        // if (cardsFiltereds.length < 50) {
-        //     await fetch(`${process.env.URL_LOCAL}/api/updateDataOnFilter`, {
-        //         method: 'POST',
-        //         body: JSON.stringify(filterData),
-        //         headers: {
-        //             'content-type': 'application/json'
-        //         }
-        //     })
-        // }
         return cardsFiltereds
     }
     return (

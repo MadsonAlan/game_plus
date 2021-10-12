@@ -3,28 +3,32 @@ import Head from 'next/head'
 import React, { useEffect, useState } from 'react'
 import styles from '../../styles/pages/Home.module.css'
 import HighlightedGames from '../components/HighlightedGame'
+import SliderHighlightedGame from '../components/SliderHighlightedGame'
 import TopSellers from '../components/TopSellers'
 import { GameData, SectionsData } from '../types/types'
 
 type GamePlusInformation = {
-  randomGameToHeader: GameData,
+  randomGameToHeader: GameData[],
   gamesData: GameData[],
   sectionsGame: SectionsData[]
 }
 
 function Home(props: GamePlusInformation) {
-  // props.gamesData[Math.floor((Math.random()*props.gamesData.length))]
-  // useState()
-  // useEffect(()=>{
-
-  // })
+  const [randomGameToHeader, setRandomGameToHeader] = useState<GameData[]>(props.randomGameToHeader)
+  setInterval(() => {
+    let randomGamesForHeader: GameData[] = []
+    for (let index = 0; index < 5; index++) {
+      randomGamesForHeader.push(props.gamesData[Math.floor((Math.random() * props.gamesData.length))])
+    }
+    setRandomGameToHeader(randomGamesForHeader)
+  }, 60000 * 7.4)
   return (
     <div className={styles.container}>
       <Head>
         <title>Game Plus</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <HighlightedGames cardInformation={props.randomGameToHeader} />
+      <SliderHighlightedGame headerGamesInformation={randomGameToHeader} />
       {
         props.sectionsGame.map((filter, index) => {
           if (index < 9) {
@@ -41,9 +45,17 @@ function Home(props: GamePlusInformation) {
 export const getStaticProps: GetStaticProps = async () => {
 
   const defaltCardsData = await import('../data/gamesWithDiscounts.json')
-  const sections = await import('../data/sectionsGame.json')
   await fetch(`${process.env.URL_LOCAL}/api/hello`)
   const cardsData: GameData[] = defaltCardsData.default
+  //Jogos aleatórios para o Header
+  const gamesHeaderRandom: GameData[] = []
+
+  for (let index = 0; index < 5; index++) {
+    gamesHeaderRandom.push(cardsData[Math.floor((Math.random() * cardsData.length))])
+  }
+
+  //seções aleatórias do site
+  const sections = await import('../data/sectionsGame.json')
 
   for (let index = 0; index < 9; index++) {
     const filterData: SectionsData = sections.default[index]
@@ -65,6 +77,7 @@ export const getStaticProps: GetStaticProps = async () => {
   }
   return {
     props: {
+      randomGameToHeader: gamesHeaderRandom,
       gamesData: defaltCardsData.default,
       sectionsGame: sections.default
     },
