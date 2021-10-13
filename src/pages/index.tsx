@@ -58,7 +58,7 @@ function Home(props) {
       randomGamesForHeader.push(props.gamesData[Math.floor((Math.random() * props.gamesData.length))])
     }
     setRandomGameToHeader(randomGamesForHeader)
-  }, 60000 * 7.4)
+  }, 60000)
   return (
     <div className={styles.container}>
       <Head>
