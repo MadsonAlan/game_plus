@@ -114,25 +114,6 @@
     ]
   },
   {
-    "gameId": "377160",
-    "urlGameSteam": "https://store.steampowered.com/app/377160/Fallout_4/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/capsule_sm_120.jpg?t=1588615523",
-    "gameName": "Fallout 4",
-    "dataCriacao": " 9/nov/2015  ",
-    "desconto": "-75%",
-    "precAnterior": " R$ 59,99",
-    "precAtual": "R$ 14,99",
-    "filters": [
-      1695,
-      3835,
-      3834,
-      4182,
-      122,
-      4166,
-      21
-    ]
-  },
-  {
     "gameId": "632470",
     "urlGameSteam": "https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/?snr=1_7_7_2300_150_1",
     "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/capsule_sm_120.jpg?t=1633989861",
@@ -149,25 +130,6 @@
       5851,
       4166,
       4182
-    ]
-  },
-  {
-    "gameId": "812140",
-    "urlGameSteam": "https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/812140/capsule_sm_120.jpg?t=1602601042",
-    "gameName": "Assassin's Creed® Odyssey",
-    "dataCriacao": " 5/out/2018  ",
-    "desconto": "-75%",
-    "precAnterior": " R$ 179,99",
-    "precAtual": "R$ 44,99",
-    "filters": [
-      1695,
-      122,
-      4182,
-      4376,
-      19,
-      21,
-      3987
     ]
   },
   {
@@ -190,60 +152,41 @@
     ]
   },
   {
-    "gameId": "787480",
-    "urlGameSteam": "https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/787480/capsule_sm_120.jpg?t=1627454772",
-    "gameName": "Phoenix Wright: Ace Attorney Trilogy",
-    "dataCriacao": " 9/abr/2019  ",
-    "desconto": "-34%",
-    "precAnterior": " R$ 69,99",
-    "precAtual": "R$ 46,19",
-    "filters": [
-      5613,
-      3799,
-      1742,
-      1756,
-      5716,
-      4085,
-      21
-    ]
-  },
-  {
-    "gameId": "1222670",
-    "urlGameSteam": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_sm_120.jpg?t=1633453378",
-    "gameName": "The Sims™ 4",
-    "dataCriacao": " 18/jun/2020  ",
+    "gameId": "377160",
+    "urlGameSteam": "https://store.steampowered.com/app/377160/Fallout_4/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/capsule_sm_120.jpg?t=1588615523",
+    "gameName": "Fallout 4",
+    "dataCriacao": " 9/nov/2015  ",
     "desconto": "-75%",
-    "precAnterior": " R$ 159,00",
-    "precAtual": "R$ 39,75",
-    "filters": [
-      10235,
-      4747,
-      599,
-      1643,
-      12095,
-      597,
-      4182
-    ]
-  },
-  {
-    "gameId": "582160",
-    "urlGameSteam": "https://store.steampowered.com/app/582160/Assassins_Creed_Origins/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/582160/capsule_sm_120.jpg?t=1603213581",
-    "gameName": "Assassin's Creed® Origins",
-    "dataCriacao": " 26/out/2017  ",
-    "desconto": "-80%",
-    "precAnterior": " R$ 179,99",
-    "precAtual": "R$ 35,99",
+    "precAnterior": " R$ 59,99",
+    "precAtual": "R$ 14,99",
     "filters": [
       1695,
+      3835,
+      3834,
+      4182,
+      122,
+      4166,
+      21
+    ]
+  },
+  {
+    "gameId": "812140",
+    "urlGameSteam": "https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/812140/capsule_sm_120.jpg?t=1602601042",
+    "gameName": "Assassin's Creed® Odyssey",
+    "dataCriacao": " 5/out/2018  ",
+    "desconto": "-75%",
+    "precAnterior": " R$ 179,99",
+    "precAtual": "R$ 44,99",
+    "filters": [
+      1695,
+      122,
+      4182,
       4376,
       19,
-      122,
-      1687,
-      4036,
-      21
+      21,
+      3987
     ]
   },
   {
@@ -281,6 +224,63 @@
       1684,
       1742,
       1756,
+      21
+    ]
+  },
+  {
+    "gameId": "1222670",
+    "urlGameSteam": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_sm_120.jpg?t=1633453378",
+    "gameName": "The Sims™ 4",
+    "dataCriacao": " 18/jun/2020  ",
+    "desconto": "-75%",
+    "precAnterior": " R$ 159,00",
+    "precAtual": "R$ 39,75",
+    "filters": [
+      10235,
+      4747,
+      599,
+      1643,
+      12095,
+      597,
+      4182
+    ]
+  },
+  {
+    "gameId": "787480",
+    "urlGameSteam": "https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/787480/capsule_sm_120.jpg?t=1627454772",
+    "gameName": "Phoenix Wright: Ace Attorney Trilogy",
+    "dataCriacao": " 9/abr/2019  ",
+    "desconto": "-34%",
+    "precAnterior": " R$ 69,99",
+    "precAtual": "R$ 46,19",
+    "filters": [
+      5613,
+      3799,
+      1742,
+      1756,
+      5716,
+      4085,
+      21
+    ]
+  },
+  {
+    "gameId": "582160",
+    "urlGameSteam": "https://store.steampowered.com/app/582160/Assassins_Creed_Origins/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/582160/capsule_sm_120.jpg?t=1603213581",
+    "gameName": "Assassin's Creed® Origins",
+    "dataCriacao": " 26/out/2017  ",
+    "desconto": "-80%",
+    "precAnterior": " R$ 179,99",
+    "precAtual": "R$ 35,99",
+    "filters": [
+      1695,
+      4376,
+      19,
+      122,
+      1687,
+      4036,
       21
     ]
   },
@@ -342,82 +342,6 @@
     ]
   },
   {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/10539/FINAL_FANTASY_XV_EPISODE_ARDYN_COMPLETE_EDITION/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/10539/e3w572vjyp47rveh/capsule_sm_120.jpg?t=1555532009",
-    "gameName": "FINAL FANTASY XV EPISODE ARDYN COMPLETE EDITION",
-    "dataCriacao": "   ",
-    "desconto": "-50%",
-    "precAnterior": " R$ 144,99",
-    "precAtual": "R$ 72,49",
-    "filters": [
-      122,
-      4434,
-      4182,
-      1695,
-      19,
-      1684,
-      1742
-    ]
-  },
-  {
-    "gameId": "1113560",
-    "urlGameSteam": "https://store.steampowered.com/app/1113560/NieR_Replicant_ver122474487139/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1113560/capsule_sm_120.jpg?t=1626255600",
-    "gameName": "NieR Replicant™ ver.1.22474487139...",
-    "dataCriacao": " 23/abr/2021  ",
-    "desconto": "-35%",
-    "precAnterior": " R$ 249,90",
-    "precAtual": "R$ 162,43",
-    "filters": [
-      1756,
-      1742,
-      19,
-      122,
-      21,
-      4434,
-      4182
-    ]
-  },
-  {
-    "gameId": "897450",
-    "urlGameSteam": "https://store.steampowered.com/app/897450/The_Survivalists/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/897450/capsule_sm_120.jpg?t=1633706538",
-    "gameName": "The Survivalists",
-    "dataCriacao": " 9/out/2020  ",
-    "desconto": "-66%",
-    "precAnterior": " R$ 59,90",
-    "precAtual": "R$ 20,36",
-    "filters": [
-      1702,
-      21,
-      3843,
-      1662,
-      4182,
-      1100689,
-      7332
-    ]
-  },
-  {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/22658/The_Game_Creators__Mega_Makers_Pack/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/22658/qkiqhve7c5ddnswn/capsule_sm_120.jpg?t=1634054618",
-    "gameName": "The Game Creators - Mega Makers Pack",
-    "dataCriacao": "   ",
-    "desconto": "-96%",
-    "precAnterior": " R$ 841,86",
-    "precAtual": "R$ 37,64",
-    "filters": [
-      84,
-      872,
-      87,
-      13906,
-      1036,
-      19,
-      1445
-    ]
-  },
-  {
     "gameId": "1426450",
     "urlGameSteam": "https://store.steampowered.com/app/1426450/Age_of_Darkness_Final_Stand/?snr=1_7_7_2300_150_1",
     "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426450/capsule_sm_120.jpg?t=1633690756",
@@ -434,152 +358,6 @@
       8945,
       1684,
       9
-    ]
-  },
-  {
-    "gameId": "1235734",
-    "urlGameSteam": "https://store.steampowered.com/app/1235734/The_Sims_4_Ao_Trabalho/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1235734/capsule_sm_120_brazilian.jpg?t=1598618487",
-    "gameName": "The Sims™ 4 Ao Trabalho",
-    "dataCriacao": " 18/jun/2020  ",
-    "desconto": "-50%",
-    "precAnterior": " R$ 199,00",
-    "precAtual": "R$ 99,50",
-    "filters": [
-      599
-    ]
-  },
-  {
-    "gameId": "311560",
-    "urlGameSteam": "https://store.steampowered.com/app/311560/Assassins_Creed_Rogue/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/311560/capsule_sm_120.jpg?t=1602601367",
-    "gameName": "Assassin’s Creed® Rogue",
-    "dataCriacao": " 9/mar/2015  ",
-    "desconto": "-67%",
-    "precAnterior": " R$ 59,99",
-    "precAtual": "R$ 19,79",
-    "filters": [
-      1695,
-      4376,
-      19,
-      4036,
-      1697,
-      1687,
-      21
-    ]
-  },
-  {
-    "gameId": "368500",
-    "urlGameSteam": "https://store.steampowered.com/app/368500/Assassins_Creed_Syndicate/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/368500/capsule_sm_120.jpg?t=1602772802",
-    "gameName": "Assassin's Creed® Syndicate",
-    "dataCriacao": " 18/nov/2015  ",
-    "desconto": "-75%",
-    "precAnterior": " R$ 89,99",
-    "precAtual": "R$ 22,49",
-    "filters": [
-      4376,
-      1695,
-      19,
-      1687,
-      4036,
-      3987,
-      21
-    ]
-  },
-  {
-    "gameId": "1235721",
-    "urlGameSteam": "https://store.steampowered.com/app/1235721/The_Sims_4_Cats__Dogs/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1235721/capsule_sm_120_brazilian.jpg?t=1630858876",
-    "gameName": "The Sims™ 4 Cats & Dogs",
-    "dataCriacao": " 18/jun/2020  ",
-    "desconto": "-50%",
-    "precAnterior": " R$ 199,00",
-    "precAtual": "R$ 99,50",
-    "filters": [
-      599,
-      597,
-      4747,
-      4182,
-      4136,
-      1638,
-      1693
-    ]
-  },
-  {
-    "gameId": "653530",
-    "urlGameSteam": "https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/653530/capsule_sm_120.jpg?t=1624548063",
-    "gameName": "Return of the Obra Dinn",
-    "dataCriacao": " 18/out/2018  ",
-    "desconto": "-35%",
-    "precAnterior": " R$ 37,99",
-    "precAtual": "R$ 24,69",
-    "filters": [
-      5613,
-      5716,
-      1664,
-      1742,
-      4166,
-      4182,
-      492
-    ]
-  },
-  {
-    "gameId": "22370",
-    "urlGameSteam": "https://store.steampowered.com/app/22370/Fallout_3_Game_of_the_Year_Edition/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/22370/capsule_sm_120.jpg?t=1564071894",
-    "gameName": "Fallout 3: Game of the Year Edition",
-    "dataCriacao": " 17/dez/2009  ",
-    "desconto": "-60%",
-    "precAnterior": " R$ 39,99",
-    "precAtual": "R$ 15,99",
-    "filters": [
-      1695,
-      122,
-      3835,
-      4182,
-      1669,
-      3839,
-      3942
-    ]
-  },
-  {
-    "gameId": "22380",
-    "urlGameSteam": "https://store.steampowered.com/app/22380/Fallout_New_Vegas/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/22380/capsule_sm_120.jpg?t=1586905021",
-    "gameName": "Fallout: New Vegas",
-    "dataCriacao": " 19/out/2010  ",
-    "desconto": "-70%",
-    "precAnterior": " R$ 19,99",
-    "precAtual": "R$ 5,99",
-    "filters": [
-      1695,
-      122,
-      3835,
-      4182,
-      1669,
-      3834,
-      3839
-    ]
-  },
-  {
-    "gameId": "1190000",
-    "urlGameSteam": "https://store.steampowered.com/app/1190000/Car_Mechanic_Simulator_2021/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1190000/capsule_sm_120.jpg?t=1634032010",
-    "gameName": "Car Mechanic Simulator 2021",
-    "dataCriacao": " 11/ago/2021  ",
-    "desconto": "-10%",
-    "precAnterior": " R$ 47,49",
-    "precAtual": "R$ 42,74",
-    "filters": [
-      599,
-      1100687,
-      3810,
-      699,
-      9204,
-      4191,
-      4175
     ]
   },
   {
@@ -602,6 +380,245 @@
     ]
   },
   {
+    "gameId": "897450",
+    "urlGameSteam": "https://store.steampowered.com/app/897450/The_Survivalists/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/897450/capsule_sm_120.jpg?t=1633706538",
+    "gameName": "The Survivalists",
+    "dataCriacao": " 9/out/2020  ",
+    "desconto": "-66%",
+    "precAnterior": " R$ 59,90",
+    "precAtual": "R$ 20,36",
+    "filters": [
+      1702,
+      21,
+      3843,
+      1662,
+      4182,
+      1100689,
+      7332
+    ]
+  },
+  {
+    "gameId": "368500",
+    "urlGameSteam": "https://store.steampowered.com/app/368500/Assassins_Creed_Syndicate/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/368500/capsule_sm_120.jpg?t=1602772802",
+    "gameName": "Assassin's Creed® Syndicate",
+    "dataCriacao": " 18/nov/2015  ",
+    "desconto": "-75%",
+    "precAnterior": " R$ 89,99",
+    "precAtual": "R$ 22,49",
+    "filters": [
+      4376,
+      1695,
+      19,
+      1687,
+      4036,
+      3987,
+      21
+    ]
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/10539/FINAL_FANTASY_XV_EPISODE_ARDYN_COMPLETE_EDITION/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/10539/e3w572vjyp47rveh/capsule_sm_120.jpg?t=1555532009",
+    "gameName": "FINAL FANTASY XV EPISODE ARDYN COMPLETE EDITION",
+    "dataCriacao": "   ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 144,99",
+    "precAtual": "R$ 72,49",
+    "filters": [
+      122,
+      4434,
+      4182,
+      1695,
+      19,
+      1684,
+      1742
+    ]
+  },
+  {
+    "gameId": "1235734",
+    "urlGameSteam": "https://store.steampowered.com/app/1235734/The_Sims_4_Ao_Trabalho/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1235734/capsule_sm_120_brazilian.jpg?t=1598618487",
+    "gameName": "The Sims™ 4 Ao Trabalho",
+    "dataCriacao": " 18/jun/2020  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 199,00",
+    "precAtual": "R$ 99,50",
+    "filters": [
+      599
+    ]
+  },
+  {
+    "gameId": "1235733",
+    "urlGameSteam": "https://store.steampowered.com/app/1235733/The_Sims_4_Seasons/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1235733/capsule_sm_120_brazilian.jpg?t=1596992148",
+    "gameName": "The Sims™ 4 Seasons",
+    "dataCriacao": " 18/jun/2020  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 199,00",
+    "precAtual": "R$ 99,50",
+    "filters": [
+      599,
+      4747,
+      4182,
+      4136,
+      1693
+    ]
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/22658/The_Game_Creators__Mega_Makers_Pack/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/22658/qkiqhve7c5ddnswn/capsule_sm_120.jpg?t=1634054618",
+    "gameName": "The Game Creators - Mega Makers Pack",
+    "dataCriacao": "   ",
+    "desconto": "-96%",
+    "precAnterior": " R$ 841,86",
+    "precAtual": "R$ 37,64",
+    "filters": [
+      84,
+      872,
+      87,
+      13906,
+      1036,
+      19,
+      1445
+    ]
+  },
+  {
+    "gameId": "653530",
+    "urlGameSteam": "https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/653530/capsule_sm_120.jpg?t=1624548063",
+    "gameName": "Return of the Obra Dinn",
+    "dataCriacao": " 18/out/2018  ",
+    "desconto": "-35%",
+    "precAnterior": " R$ 37,99",
+    "precAtual": "R$ 24,69",
+    "filters": [
+      5613,
+      5716,
+      1664,
+      1742,
+      4166,
+      4182,
+      492
+    ]
+  },
+  {
+    "gameId": "311560",
+    "urlGameSteam": "https://store.steampowered.com/app/311560/Assassins_Creed_Rogue/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/311560/capsule_sm_120.jpg?t=1602601367",
+    "gameName": "Assassin’s Creed® Rogue",
+    "dataCriacao": " 9/mar/2015  ",
+    "desconto": "-67%",
+    "precAnterior": " R$ 59,99",
+    "precAtual": "R$ 19,79",
+    "filters": [
+      1695,
+      4376,
+      19,
+      4036,
+      1697,
+      1687,
+      21
+    ]
+  },
+  {
+    "gameId": "22370",
+    "urlGameSteam": "https://store.steampowered.com/app/22370/Fallout_3_Game_of_the_Year_Edition/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/22370/capsule_sm_120.jpg?t=1564071894",
+    "gameName": "Fallout 3: Game of the Year Edition",
+    "dataCriacao": " 17/dez/2009  ",
+    "desconto": "-60%",
+    "precAnterior": " R$ 39,99",
+    "precAtual": "R$ 15,99",
+    "filters": [
+      1695,
+      122,
+      3835,
+      4182,
+      1669,
+      3839,
+      3942
+    ]
+  },
+  {
+    "gameId": "1190000",
+    "urlGameSteam": "https://store.steampowered.com/app/1190000/Car_Mechanic_Simulator_2021/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1190000/capsule_sm_120.jpg?t=1634032010",
+    "gameName": "Car Mechanic Simulator 2021",
+    "dataCriacao": " 11/ago/2021  ",
+    "desconto": "-10%",
+    "precAnterior": " R$ 47,49",
+    "precAtual": "R$ 42,74",
+    "filters": [
+      599,
+      1100687,
+      3810,
+      699,
+      9204,
+      4191,
+      4175
+    ]
+  },
+  {
+    "gameId": "641990",
+    "urlGameSteam": "https://store.steampowered.com/app/641990/The_Escapists_2/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/641990/capsule_sm_120.jpg?t=1632240498",
+    "gameName": "The Escapists 2",
+    "dataCriacao": " 21/ago/2017  ",
+    "desconto": "-75%",
+    "precAnterior": " R$ 59,99",
+    "precAtual": "R$ 14,99",
+    "filters": [
+      3859,
+      9,
+      3964,
+      3843,
+      1685,
+      3871,
+      1702
+    ]
+  },
+  {
+    "gameId": "1235721",
+    "urlGameSteam": "https://store.steampowered.com/app/1235721/The_Sims_4_Cats__Dogs/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1235721/capsule_sm_120_brazilian.jpg?t=1630858876",
+    "gameName": "The Sims™ 4 Cats & Dogs",
+    "dataCriacao": " 18/jun/2020  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 199,00",
+    "precAtual": "R$ 99,50",
+    "filters": [
+      599,
+      597,
+      4747,
+      4182,
+      4136,
+      1638,
+      1693
+    ]
+  },
+  {
+    "gameId": "22380",
+    "urlGameSteam": "https://store.steampowered.com/app/22380/Fallout_New_Vegas/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/22380/capsule_sm_120.jpg?t=1586905021",
+    "gameName": "Fallout: New Vegas",
+    "dataCriacao": " 19/out/2010  ",
+    "desconto": "-70%",
+    "precAnterior": " R$ 19,99",
+    "precAtual": "R$ 5,99",
+    "filters": [
+      1695,
+      122,
+      3835,
+      4182,
+      1669,
+      3834,
+      3839
+    ]
+  },
+  {
     "gameId": "33230",
     "urlGameSteam": "https://store.steampowered.com/app/33230/Assassins_Creed_2/?snr=1_7_7_2300_150_1",
     "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/33230/capsule_sm_120.jpg?t=1631289682",
@@ -618,6 +635,101 @@
       1687,
       4376,
       1697
+    ]
+  },
+  {
+    "gameId": "1152340",
+    "urlGameSteam": "https://store.steampowered.com/app/1152340/Book_of_Travels/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1152340/capsule_sm_120.jpg?t=1634038468",
+    "gameName": "Book of Travels",
+    "dataCriacao": " 11/out/2021  ",
+    "desconto": "-10%",
+    "precAnterior": " R$ 57,99",
+    "precAtual": "R$ 52,19",
+    "filters": [
+      493,
+      1754,
+      122,
+      4747,
+      21,
+      4166,
+      1695
+    ]
+  },
+  {
+    "gameId": "1519350",
+    "urlGameSteam": "https://store.steampowered.com/app/1519350/Madden_NFL_22/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1519350/capsule_sm_120.jpg?t=1633981688",
+    "gameName": "Madden NFL 22",
+    "dataCriacao": " 19/ago/2021  ",
+    "desconto": "-35%",
+    "precAnterior": " R$ 249,00",
+    "precAtual": "R$ 161,85",
+    "filters": [
+      701,
+      7226,
+      7481,
+      1775,
+      9204,
+      4175,
+      597
+    ]
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/21321/Hunt_Showdown__DLC_Bundle/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/21321/h8dvjq3eas5jo5m7/capsule_sm_120.jpg?t=1622554750",
+    "gameName": "Hunt: Showdown - DLC Bundle",
+    "dataCriacao": "   ",
+    "desconto": "-61%",
+    "precAnterior": " R$ 162,55",
+    "precAtual": "R$ 64,08",
+    "filters": [
+      19,
+      4345,
+      4667,
+      1774,
+      1659,
+      1647,
+      3859
+    ]
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/16227/Disgaea_Dood_Bundle/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/16227/byka570g3234ulna/capsule_sm_120.jpg?t=1600458402",
+    "gameName": "Disgaea Dood Bundle",
+    "dataCriacao": "   ",
+    "desconto": "-76%",
+    "precAnterior": " R$ 271,72",
+    "precAtual": "R$ 65,82",
+    "filters": [
+      122,
+      9,
+      4434,
+      4085,
+      17305,
+      21725,
+      14139
+    ]
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/16525/The_Sims_4_Digital_Deluxe__Estaes__Bundle/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/16525/phuwfhh99xstequn/capsule_sm_120_brazilian.jpg?t=1603312285",
+    "gameName": "The Sims™ 4 Digital Deluxe + Estações – Bundle",
+    "dataCriacao": "   ",
+    "desconto": "-75%",
+    "precAnterior": " R$ 398,90",
+    "precAtual": "R$ 98,65",
+    "filters": [
+      4747,
+      599,
+      4182,
+      10235,
+      4136,
+      1643,
+      12095
     ]
   },
   {
@@ -641,58 +753,115 @@
   },
   {
     "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/16227/Disgaea_Dood_Bundle/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/16227/byka570g3234ulna/capsule_sm_120.jpg?t=1600458402",
-    "gameName": "Disgaea Dood Bundle",
+    "urlGameSteam": "https://store.steampowered.com/bundle/21788/The_Sims_4_Bundle__Cats__Dogs__Seasons__City_Living__Get_to_Work/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/21788/ln2dricjzcb3a5ju/capsule_sm_120_brazilian.jpg?t=1626368489",
+    "gameName": "The Sims™ 4 Bundle - Cats & Dogs + Seasons + City Living + Get to Work",
     "dataCriacao": "   ",
-    "desconto": "-76%",
-    "precAnterior": " R$ 271,72",
-    "precAtual": "R$ 65,82",
+    "desconto": "-63%",
+    "precAnterior": " R$ 796,00",
+    "precAtual": "R$ 298,48",
     "filters": [
-      122,
-      9,
-      4434,
-      4085,
-      17305,
-      21725,
-      14139
+      599,
+      4747,
+      4182,
+      4136,
+      1693,
+      597,
+      1638
     ]
   },
   {
-    "gameId": "641990",
-    "urlGameSteam": "https://store.steampowered.com/app/641990/The_Escapists_2/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/641990/capsule_sm_120.jpg?t=1632240498",
-    "gameName": "The Escapists 2",
-    "dataCriacao": " 21/ago/2017  ",
-    "desconto": "-75%",
-    "precAnterior": " R$ 59,99",
-    "precAtual": "R$ 14,99",
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/22084/Car_Mechanic_Simulator_2021__Starter_Bundle/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/22084/uz0nfs80u1f2z7td/capsule_sm_120.jpg?t=1628687166",
+    "gameName": "Car Mechanic Simulator 2021 - Starter Bundle",
+    "dataCriacao": "   ",
+    "desconto": "-16%",
+    "precAnterior": " R$ 69,27",
+    "precAtual": "R$ 57,97",
     "filters": [
-      3859,
-      9,
-      3964,
-      3843,
-      1685,
-      3871,
-      1702
+      599,
+      699,
+      492,
+      1100687,
+      3810,
+      9204,
+      4191
     ]
   },
   {
-    "gameId": "579180",
-    "urlGameSteam": "https://store.steampowered.com/app/579180/Ys_VIII_Lacrimosa_of_DANA/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/579180/capsule_sm_120.jpg?t=1598897502",
-    "gameName": "Ys VIII: Lacrimosa of DANA",
-    "dataCriacao": " 16/abr/2018  ",
-    "desconto": "-60%",
-    "precAnterior": " R$ 105,99",
-    "precAtual": "R$ 42,39",
+    "gameId": "1113560",
+    "urlGameSteam": "https://store.steampowered.com/app/1113560/NieR_Replicant_ver122474487139/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1113560/capsule_sm_120.jpg?t=1626255600",
+    "gameName": "NieR Replicant™ ver.1.22474487139...",
+    "dataCriacao": " 23/abr/2021  ",
+    "desconto": "-35%",
+    "precAnterior": " R$ 249,90",
+    "precAtual": "R$ 162,43",
     "filters": [
-      122,
-      4434,
-      19,
-      4085,
       1756,
+      1742,
+      19,
+      122,
       21,
+      4434,
+      4182
+    ]
+  },
+  {
+    "gameId": "924980",
+    "urlGameSteam": "https://store.steampowered.com/app/924980/Trials_of_Mana/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/924980/capsule_sm_120.jpg?t=1628690299",
+    "gameName": "Trials of Mana",
+    "dataCriacao": " 24/abr/2020  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 159,99",
+    "precAtual": "R$ 79,99",
+    "filters": [
+      122,
+      4434,
+      4085,
+      4231,
+      5708,
+      1684,
+      21
+    ]
+  },
+  {
+    "gameId": "578650",
+    "urlGameSteam": "https://store.steampowered.com/app/578650/The_Outer_Worlds/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/578650/capsule_sm_120.jpg?t=1616004214",
+    "gameName": "The Outer Worlds",
+    "dataCriacao": " 23/out/2020  ",
+    "desconto": "-67%",
+    "precAnterior": " R$ 249,90",
+    "precAtual": "R$ 82,46",
+    "filters": [
+      4231,
+      1695,
+      122,
+      3834,
+      1663,
+      21,
+      4182
+    ]
+  },
+  {
+    "gameId": "613830",
+    "urlGameSteam": "https://store.steampowered.com/app/613830/CHRONO_TRIGGER/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/613830/capsule_sm_120.jpg?t=1616080853",
+    "gameName": "CHRONO TRIGGER®",
+    "dataCriacao": " 27/fev/2018  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 49,99",
+    "precAtual": "R$ 24,99",
+    "filters": [
+      122,
+      4434,
+      1693,
+      1742,
+      1756,
+      10679,
       4182
     ]
   },
@@ -716,186 +885,22 @@
     ]
   },
   {
-    "gameId": "578650",
-    "urlGameSteam": "https://store.steampowered.com/app/578650/The_Outer_Worlds/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/578650/capsule_sm_120.jpg?t=1616004214",
-    "gameName": "The Outer Worlds",
-    "dataCriacao": " 23/out/2020  ",
-    "desconto": "-67%",
-    "precAnterior": " R$ 249,90",
-    "precAtual": "R$ 82,46",
-    "filters": [
-      4231,
-      1695,
-      122,
-      3834,
-      1663,
-      21,
-      4182
-    ]
-  },
-  {
-    "gameId": "1519350",
-    "urlGameSteam": "https://store.steampowered.com/app/1519350/Madden_NFL_22/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1519350/capsule_sm_120.jpg?t=1633981688",
-    "gameName": "Madden NFL 22",
-    "dataCriacao": " 19/ago/2021  ",
-    "desconto": "-35%",
-    "precAnterior": " R$ 249,00",
-    "precAtual": "R$ 161,85",
-    "filters": [
-      701,
-      7226,
-      7481,
-      1775,
-      9204,
-      4175,
-      597
-    ]
-  },
-  {
-    "gameId": "1152340",
-    "urlGameSteam": "https://store.steampowered.com/app/1152340/Book_of_Travels/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1152340/capsule_sm_120.jpg?t=1634038468",
-    "gameName": "Book of Travels",
-    "dataCriacao": " 11/out/2021  ",
-    "desconto": "-10%",
-    "precAnterior": " R$ 57,99",
-    "precAtual": "R$ 52,19",
-    "filters": [
-      493,
-      1754,
-      122,
-      4747,
-      21,
-      4166,
-      1695
-    ]
-  },
-  {
-    "gameId": "921570",
-    "urlGameSteam": "https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/921570/capsule_sm_120.jpg?t=1629997522",
-    "gameName": "OCTOPATH TRAVELER™",
-    "dataCriacao": " 7/jun/2019  ",
-    "desconto": "-50%",
-    "precAnterior": " R$ 226,99",
-    "precAtual": "R$ 113,49",
-    "filters": [
-      122,
-      4434,
-      3964,
-      1677,
-      1742,
-      4182,
-      4325
-    ]
-  },
-  {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/21788/The_Sims_4_Bundle__Cats__Dogs__Seasons__City_Living__Get_to_Work/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/21788/ln2dricjzcb3a5ju/capsule_sm_120_brazilian.jpg?t=1626368489",
-    "gameName": "The Sims™ 4 Bundle - Cats & Dogs + Seasons + City Living + Get to Work",
-    "dataCriacao": "   ",
-    "desconto": "-63%",
-    "precAnterior": " R$ 796,00",
-    "precAtual": "R$ 298,48",
-    "filters": [
-      599,
-      4747,
-      4182,
-      4136,
-      1693,
-      597,
-      1638
-    ]
-  },
-  {
-    "gameId": "1770580",
-    "urlGameSteam": "https://store.steampowered.com/app/1770580/DCS_AH64D/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1770580/capsule_sm_120.jpg?t=1633710643",
-    "gameName": "DCS: AH-64D",
-    "dataCriacao": " 1/dez/2021  ",
-    "desconto": "-30%",
-    "precAnterior": " R$ 440,99",
-    "precAtual": "R$ 308,69",
-    "filters": [
-      599,
-      113
-    ]
-  },
-  {
-    "gameId": "1235733",
-    "urlGameSteam": "https://store.steampowered.com/app/1235733/The_Sims_4_Seasons/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1235733/capsule_sm_120_brazilian.jpg?t=1596992148",
-    "gameName": "The Sims™ 4 Seasons",
-    "dataCriacao": " 18/jun/2020  ",
-    "desconto": "-50%",
-    "precAnterior": " R$ 199,00",
-    "precAtual": "R$ 99,50",
-    "filters": [
-      599,
-      4747,
-      4182,
-      4136,
-      1693
-    ]
-  },
-  {
-    "gameId": "606150",
-    "urlGameSteam": "https://store.steampowered.com/app/606150/Moonlighter/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/606150/capsule_sm_120.jpg?t=1631285807",
-    "gameName": "Moonlighter",
-    "dataCriacao": " 29/mai/2018  ",
+    "gameId": "323190",
+    "urlGameSteam": "https://store.steampowered.com/app/323190/Frostpunk/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/323190/capsule_sm_120.jpg?t=1633608246",
+    "gameName": "Frostpunk",
+    "dataCriacao": " 24/abr/2018  ",
     "desconto": "-70%",
-    "precAnterior": " R$ 37,99",
-    "precAtual": "R$ 11,39",
+    "precAnterior": " R$ 57,99",
+    "precAtual": "R$ 17,39",
     "filters": [
-      3959,
-      3964,
-      42804,
-      21,
-      122,
-      492,
-      1720
-    ]
-  },
-  {
-    "gameId": "924980",
-    "urlGameSteam": "https://store.steampowered.com/app/924980/Trials_of_Mana/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/924980/capsule_sm_120.jpg?t=1628690299",
-    "gameName": "Trials of Mana",
-    "dataCriacao": " 24/abr/2020  ",
-    "desconto": "-50%",
-    "precAnterior": " R$ 159,99",
-    "precAtual": "R$ 79,99",
-    "filters": [
-      122,
-      4434,
-      4085,
-      4231,
-      5708,
-      1684,
-      21
-    ]
-  },
-  {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/21056/Disco_Elysium__The_Final_Cut_Bundle/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/21056/sal6elrde3z2phvm/capsule_sm_120.jpg?t=1621319910",
-    "gameName": "Disco Elysium - The Final Cut Bundle",
-    "dataCriacao": "   ",
-    "desconto": "-51%",
-    "precAnterior": " R$ 113,48",
-    "precAtual": "R$ 56,16",
-    "filters": [
-      122,
-      1742,
-      7948,
-      6426,
-      5613,
-      5851,
-      4166
+      1662,
+      4328,
+      9,
+      8945,
+      3835,
+      1777,
+      220585
     ]
   },
   {
@@ -918,17 +923,17 @@
     ]
   },
   {
-    "gameId": "1235730",
-    "urlGameSteam": "https://store.steampowered.com/app/1235730/The_Sims_4_Ilhas_Tropicais/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1235730/capsule_sm_120_brazilian.jpg?t=1596990321",
-    "gameName": "The Sims™ 4 Ilhas Tropicais",
-    "dataCriacao": " 18/jun/2020  ",
-    "desconto": "-50%",
-    "precAnterior": " R$ 199,00",
-    "precAtual": "R$ 99,50",
+    "gameId": "1770580",
+    "urlGameSteam": "https://store.steampowered.com/app/1770580/DCS_AH64D/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1770580/capsule_sm_120.jpg?t=1633710643",
+    "gameName": "DCS: AH-64D",
+    "dataCriacao": " 1/dez/2021  ",
+    "desconto": "-30%",
+    "precAnterior": " R$ 440,99",
+    "precAtual": "R$ 308,69",
     "filters": [
       599,
-      597
+      113
     ]
   }
 ]

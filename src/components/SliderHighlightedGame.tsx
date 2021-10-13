@@ -5,6 +5,7 @@ import Slider, { Settings } from "react-slick";
 import { PropsHeaderGames } from "../types/types";
 import React, { memo } from "react";
 import HighlightedGames from "./HighlightedGame";
+import styles from '../../styles/components/SliderHighlightedGame.module.css'
 
 function SliderHighlightedGame({ headerGamesInformation }: PropsHeaderGames){
     const settings: Settings = {
@@ -17,7 +18,7 @@ function SliderHighlightedGame({ headerGamesInformation }: PropsHeaderGames){
         autoplay: true,        
     };
     return(
-        <Slider {...settings}>
+        <Slider {...settings} className={styles.slider}>
             {
                 headerGamesInformation.map((GameInformation, index)=>{
                     return(

@@ -65,4 +65,6 @@ export async function atualizaPromo(gameURL: string) {
     console.log('well done!');
   })
   await browser.close();
+
+  return dadosJogosComDescontos
 }

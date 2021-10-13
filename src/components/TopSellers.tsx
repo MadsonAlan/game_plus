@@ -4,16 +4,27 @@ import CardComponent from './Card'
 import { MdOutlineArrowBackIosNew, MdOutlineArrowForwardIos } from "react-icons/md";
 import { GameData, SectionsData } from '../types/types';
 import Slider, { Settings } from 'react-slick';
+import useSWR from 'swr';
 //https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Useful_string_methods
 
 interface PropsTopSellers {
     filterData: SectionsData,
     cardsData: GameData[],
 }
+
+const updateAddCards = (url, filterData) => fetch(url, {
+    method: 'POST',
+    body: JSON.stringify(filterData),
+    headers: {
+        'content-type': 'application/json'
+    }
+}).then((res) => res.json())
+
 function TopSellers({
     filterData,
     cardsData
 }: PropsTopSellers) {
+
     const settings: Settings = {
         dots: false,
         infinite: true,
@@ -82,12 +93,13 @@ function TopSellers({
         })
         return cardsFiltereds
     }
+
     return (
         <div className={styles.main}>
-            <h3>Jogos de {filterData.titleIndex}</h3>
+            <h3>{filterData.titleIndex}</h3>
             <Slider {...settings}>
                 {
-                     validaCard(cardsData).map((cardData, indice) => {
+                    validaCard(cardsData).map((cardData, indice) => {
                         return (
                             <CardComponent
                                 key={indice}
@@ -99,6 +111,7 @@ function TopSellers({
             </Slider>
         </div>
     )
+
 }
 
 
