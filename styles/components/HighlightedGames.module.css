@@ -25,7 +25,7 @@
 .featuredName {
     font-size: 2.75rem;
     font-weight: 600;
-    max-width: 40%;
+    max-width: 60%;
 }
 
 .featuredInfo {
@@ -85,4 +85,31 @@
 .featuredBuyButton:hover {
     opacity: 0.9;
     transform: scale(1.02);
+}
+
+
+
+
+@media(max-width: 425px){
+    .featuredName {
+        font-size: 2rem;
+    }
+    .featuredInfo {
+        font-size: 1rem;
+    }
+    .discountPercentage div p {
+        font-size: 0.8rem;
+    }
+    
+    .discountPercentage div span {
+        font-size: 1.5rem;
+    }
+    .featuredBuyButton {
+        font-size: 1.2rem;
+    }
+    .featured {
+        height: 38vh;
+        background-size: cover;
+        background-position: top;
+    }
 }

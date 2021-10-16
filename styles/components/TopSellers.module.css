@@ -1,10 +1,11 @@
 .main {
   margin-top: -8rem;
-  padding: 2rem;
+  padding: 2rem 0;
   margin-bottom: 7rem;
  }
 
 .main h3 {
+  margin-left: 2rem;
   color: rgba(var(--title), 1);
   font-size: 1.3rem;
   margin-bottom: 1.5rem;
@@ -46,6 +47,7 @@
   border-radius: 5px 0px 0px 5px;
   background-color:rgba(220, 221, 224, 0.5);
 }
+
 .sliderArrowForward{
   width: 3rem;
   height: 100%;
@@ -64,4 +66,14 @@
   opacity: 1;
   border-radius: 0px 5px 5px 0px;
   background-color: rgba(220, 221, 224, 0.5);
+}
+
+
+@media(max-width: 425px){
+  .sliderArrowBack {
+    display: none;
+  }
+  .sliderArrowForward{
+    display: none;
+  }
 }

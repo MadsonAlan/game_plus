@@ -8,10 +8,10 @@ function CardComponent({ cardInformation }: PropsCard) {
 
 
     return (
-        <div className={styles.containerCardAplication} style={{ backgroundImage: `linear-gradient( to top, var(--background) 25%, transparent 75%), url('${cardInformation.gameImgURL.replace('capsule_sm_120', 'header')}')` }}>
-            <span>{cardInformation.desconto}</span>
-            <div className={styles.cardAplication} >
-                <a href={cardInformation.urlGameSteam} target="_blank" rel="noreferrer">
+        <a href={cardInformation.urlGameSteam} target="_blank" rel="noreferrer">
+            <div className={styles.containerCardAplication} style={{ backgroundImage: `linear-gradient( to top, var(--background) 25%, transparent 75%), url('${cardInformation.gameImgURL.replace('capsule_sm_120', 'header')}')` }}>
+                {cardInformation.desconto?<span>{cardInformation.desconto}</span>:<></>}
+                <div className={styles.cardAplication} >
                     <div className={styles.informationGame}>
                         <p style={{ fontSize: '0.8rem' }}>{cardInformation.gameName}</p>
                     </div>
@@ -19,9 +19,9 @@ function CardComponent({ cardInformation }: PropsCard) {
                         <span style={{ textDecoration: 'line-through', fontSize: '0.7rem' }}>{cardInformation.precAnterior}</span>
                         <span style={{ fontSize: '1rem' }}>{cardInformation.precAtual}</span>
                     </div>
-                </a>
+                </div>
             </div>
-        </div>
+        </a>
     )
 }
 

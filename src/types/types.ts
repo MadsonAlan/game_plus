@@ -1,12 +1,12 @@
 
 export type GameData = {
     gameId: string,
-    urlGameSteam: string,
+    urlGameSteam?: string,
     gameImgURL: string,
     gameName: string,
-    dataCriacao: string,
-    desconto: string,
-    precAnterior: string,
+    dataCriacao?: string,
+    desconto?: string,
+    precAnterior?: string,
     precAtual?: string,
     filters: number[]
 }

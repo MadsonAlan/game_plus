@@ -1,13 +1,14 @@
 import { getOptions } from "./configPuppeteer";
 import puppeteer from 'puppeteer-core'
 import fs from 'fs'
+import { SectionsData } from "../../../types/types";
 
 export async function atualizaPromo(gameURL: string) {
   const options = await getOptions()
   const browser = await puppeteer.launch(options)
   const page = await browser.newPage()
   await page.goto(gameURL, { waitUntil: 'networkidle2' });
-  const dadosDeFiltros = await page.evaluate(() => {
+  const dadosDeFiltros:SectionsData[] = await page.evaluate(() => {
     const filterArray = []//[...nodeList]
     document.querySelectorAll('#TagFilter_Container .tab_filter_control_include').forEach(filterGame =>{
       filterArray.push({
@@ -53,7 +54,6 @@ export async function atualizaPromo(gameURL: string) {
         }
       }
     })
-    console.log(dadosJogos);
     
     return dadosJogos
   })
@@ -65,6 +65,9 @@ export async function atualizaPromo(gameURL: string) {
     console.log('well done!');
   })
   await browser.close();
-
-  return dadosJogosComDescontos
+ 
+  return  {
+    gamesData: dadosJogosComDescontos,
+    sectionsGame: dadosDeFiltros
+  }
 }

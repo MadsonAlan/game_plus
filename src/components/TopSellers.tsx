@@ -27,7 +27,10 @@ function TopSellers({
 
     const settings: Settings = {
         dots: false,
+        className: "center",
+        centerMode: true,
         infinite: true,
+        centerPadding: "60px",
         slidesToShow: 8,
         slidesToScroll: 1,
         speed: 600,
@@ -65,7 +68,7 @@ function TopSellers({
             {
                 breakpoint: 480,
                 settings: {
-                    slidesToShow: 1,
+                    slidesToShow: 2,
                     slidesToScroll: 1,
                     dots: false
                 }
@@ -85,6 +88,7 @@ function TopSellers({
             <MdOutlineArrowBackIosNew className={styles.sliderArrowBack} onClick={onClick} />
         );
     }
+    
     function validaCard(cardsData: GameData[]) {
         const cardsFiltereds = cardsData.filter((card) => {
             if (card.filters.includes(parseInt(filterData.valueId))) {

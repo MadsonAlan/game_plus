@@ -16,88 +16,88 @@
     "titleIndex": "Aventura"
   },
   {
-    "valueId": "122",
-    "titleIndex": "RPG"
-  },
-  {
     "valueId": "9",
     "titleIndex": "Estratégia"
+  },
+  {
+    "valueId": "122",
+    "titleIndex": "RPG"
   },
   {
     "valueId": "599",
     "titleIndex": "Simulação"
   },
   {
-    "valueId": "597",
-    "titleIndex": "Casual"
-  },
-  {
     "valueId": "4166",
     "titleIndex": "Atmosférico"
   },
   {
-    "valueId": "3871",
-    "titleIndex": "2D "
-  },
-  {
-    "valueId": "1742",
-    "titleIndex": "Boa Trama"
-  },
-  {
-    "valueId": "1756",
-    "titleIndex": "Trilha Sonora Boa"
-  },
-  {
-    "valueId": "4085",
-    "titleIndex": "Anime"
+    "valueId": "597",
+    "titleIndex": "Casual"
   },
   {
     "valueId": "3859",
     "titleIndex": "Multijogador"
   },
   {
-    "valueId": "4726",
-    "titleIndex": "Fofo"
+    "valueId": "3871",
+    "titleIndex": "2D "
+  },
+  {
+    "valueId": "1756",
+    "titleIndex": "Trilha Sonora Boa"
+  },
+  {
+    "valueId": "1742",
+    "titleIndex": "Boa Trama"
   },
   {
     "valueId": "1695",
     "titleIndex": "Mundo Aberto"
   },
   {
-    "valueId": "3839",
-    "titleIndex": "Primeira Pessoa"
-  },
-  {
     "valueId": "1664",
     "titleIndex": "Quebra-cabeça"
   },
   {
-    "valueId": "1684",
-    "titleIndex": "Fantasia"
+    "valueId": "3839",
+    "titleIndex": "Primeira Pessoa"
   },
   {
-    "valueId": "4136",
-    "titleIndex": "Engraçado"
+    "valueId": "1685",
+    "titleIndex": "Cooperativo"
+  },
+  {
+    "valueId": "3810",
+    "titleIndex": "Faça o que Quiser"
   },
   {
     "valueId": "3834",
     "titleIndex": "Exploração"
   },
   {
-    "valueId": "7208",
-    "titleIndex": "Protagonista Mulher"
+    "valueId": "3964",
+    "titleIndex": "Gráficos Pixelados"
   },
   {
     "valueId": "3942",
     "titleIndex": "Ficção Científica"
   },
   {
-    "valueId": "3964",
-    "titleIndex": "Gráficos Pixelados"
+    "valueId": "4026",
+    "titleIndex": "Difícil"
   },
   {
-    "valueId": "3810",
-    "titleIndex": "Faça o que Quiser"
+    "valueId": "4136",
+    "titleIndex": "Engraçado"
+  },
+  {
+    "valueId": "1662",
+    "titleIndex": "Sobrevivência "
+  },
+  {
+    "valueId": "5350",
+    "titleIndex": "Infantil"
   },
   {
     "valueId": "84",
@@ -212,10 +212,6 @@
     "titleIndex": "Zumbi"
   },
   {
-    "valueId": "1662",
-    "titleIndex": "Sobrevivência "
-  },
-  {
     "valueId": "1663",
     "titleIndex": "Tiro em Primeira Pessoa (FPS)"
   },
@@ -276,8 +272,8 @@
     "titleIndex": "Piratas"
   },
   {
-    "valueId": "1685",
-    "titleIndex": "Cooperativo"
+    "valueId": "1684",
+    "titleIndex": "Fantasia"
   },
   {
     "valueId": "1687",
@@ -520,10 +516,6 @@
     "titleIndex": "Vampiro"
   },
   {
-    "valueId": "4026",
-    "titleIndex": "Difícil"
-  },
-  {
     "valueId": "4036",
     "titleIndex": "Parkour"
   },
@@ -538,6 +530,10 @@
   {
     "valueId": "4064",
     "titleIndex": "Thriller"
+  },
+  {
+    "valueId": "4085",
+    "titleIndex": "Anime"
   },
   {
     "valueId": "4094",
@@ -740,6 +736,10 @@
     "titleIndex": "Alta Rejogabilidade"
   },
   {
+    "valueId": "4726",
+    "titleIndex": "Fofo"
+  },
+  {
     "valueId": "4736",
     "titleIndex": "Luta 2D"
   },
@@ -858,10 +858,6 @@
   {
     "valueId": "5348",
     "titleIndex": "Mod "
-  },
-  {
-    "valueId": "5350",
-    "titleIndex": "Infantil"
   },
   {
     "valueId": "5363",
@@ -1094,6 +1090,10 @@
   {
     "valueId": "7178",
     "titleIndex": "Jogo em Grupos"
+  },
+  {
+    "valueId": "7208",
+    "titleIndex": "Protagonista Mulher"
   },
   {
     "valueId": "7226",

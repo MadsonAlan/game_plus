@@ -9,7 +9,7 @@ export default async function updateData(req: NextApiRequest, res: NextApiRespon
       await atualizaPromo('https://store.steampowered.com/search/?specials=1&filter=topsellers')
       const gameData = await import('../../../data/gamesWithDiscounts.json')
       const sections = await import('../../../data/sectionsGame.json')
-      return res.status(200).json({
+      return res.json({
         gamedata:gameData.default,
         sections: sections.default
       })
@@ -24,7 +24,7 @@ export default async function updateData(req: NextApiRequest, res: NextApiRespon
       await gamesForFilter(req.body)
       const gameData = await import('../../../data/gamesWithDiscounts.json')
       const sections = await import('../../../data/sectionsGame.json')
-      return res.status(200).json({gamedata:gameData.default})
+      return res.json({gamedata:gameData.default})
 
     } catch (e) {
 
