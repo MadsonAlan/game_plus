@@ -68,7 +68,7 @@ function Home(props) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <SliderHighlightedGame headerGamesInformation={randomGameToHeader} />
-      <TopSellers cardsData={props.gamesAmazon} filterData={{titleIndex: 'Jogos Grátis da Amazon', valueId: '161966'}}/>
+      {/* <TopSellers cardsData={props.gamesAmazon} filterData={{titleIndex: 'Jogos Grátis da Amazon', valueId: '161966'}}/> */}
       {/* <TopSellers cardsData={props.gamesEpicGames} filterData={{titleIndex: 'Jogos em Promoção na Epic Games', valueId: '253232628'}}/> */}
       {
         props.sectionsGame.map((filter, index) => {
@@ -89,8 +89,14 @@ function Home(props) {
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  const response = await atualizaPromo('https://store.steampowered.com/search/?specials=1&filter=topsellers')
-  const responseAmazon = await jogosGratisAmazon('https://gaming.amazon.com/intro')
+  const games = await import('../data/gamesWithDiscounts.json')
+  const sections = await import('../data/sectionsGame.json')
+  const response = {
+    gamesData: games,
+    sectionsGame: sections
+  }
+  // const response = await atualizaPromo('https://store.steampowered.com/search/?specials=1&filter=topsellers')
+  // const responseAmazon = await jogosGratisAmazon('https://gaming.amazon.com/intro')
   // const responseEpic = await jogosEpicGames('https://www.epicgames.com/store/pt-BR/browse?sortBy=relevancy&sortDir=DESC&priceTier=tierDiscouted&count=200&start=0')
   let randomGamesForHeader: GameData[] = []
   for (let index = 0; index < 5; index++) {
@@ -100,7 +106,7 @@ export const getStaticProps: GetStaticProps = async () => {
     props: {
       randomGamesForHeader,
       // gamesEpicGames: responseEpic.gamesData,
-      gamesAmazon:responseAmazon.gamesData,
+      // gamesAmazon:responseAmazon.gamesData,
       gamesData: response.gamesData,
       sectionsGame: response.sectionsGame
     },
