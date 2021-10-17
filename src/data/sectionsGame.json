@@ -24,12 +24,12 @@
     "titleIndex": "RPG"
   },
   {
-    "valueId": "599",
-    "titleIndex": "Simulação"
-  },
-  {
     "valueId": "4166",
     "titleIndex": "Atmosférico"
+  },
+  {
+    "valueId": "599",
+    "titleIndex": "Simulação"
   },
   {
     "valueId": "597",
@@ -92,12 +92,12 @@
     "titleIndex": "Engraçado"
   },
   {
-    "valueId": "1662",
-    "titleIndex": "Sobrevivência "
-  },
-  {
     "valueId": "5350",
     "titleIndex": "Infantil"
+  },
+  {
+    "valueId": "1774",
+    "titleIndex": "Tiro"
   },
   {
     "valueId": "84",
@@ -210,6 +210,10 @@
   {
     "valueId": "1659",
     "titleIndex": "Zumbi"
+  },
+  {
+    "valueId": "1662",
+    "titleIndex": "Sobrevivência "
   },
   {
     "valueId": "1663",
@@ -406,10 +410,6 @@
   {
     "valueId": "1773",
     "titleIndex": "Arcade"
-  },
-  {
-    "valueId": "1774",
-    "titleIndex": "Tiro"
   },
   {
     "valueId": "1775",
