@@ -5,9 +5,6 @@ import styles from '../../styles/pages/Home.module.css'
 import SliderHighlightedGame from '../components/SliderHighlightedGame'
 import TopSellers from '../components/TopSellers'
 import { GameData } from '../types/types'
-import { jogosEpicGames } from './api/lib/epicGamesData'
-import { atualizaPromo } from './api/lib/initialsData'
-import { jogosGratisAmazon } from './api/lib/primeGameData'
 
 // const updateAddCards = (url, filterData) => fetch(url, {
 //   method: 'POST',
