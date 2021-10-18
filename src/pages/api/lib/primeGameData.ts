@@ -20,7 +20,7 @@ export async function jogosGratisAmazon(gameURL: string) {
 
     const dadosJogos = cardAmazDosJogos.map((img, index) => {
         return {
-          gameId: index,
+          gameId: index.toString(),
           gameImgURL: img.getAttribute('src'),
           gameName: img.getAttribute('alt'),
           desconto: 'Grátis com Prime',
