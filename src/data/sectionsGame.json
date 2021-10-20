@@ -1,11 +1,11 @@
 [
   {
-    "valueId": "4182",
-    "titleIndex": "Um Jogador"
-  },
-  {
     "valueId": "492",
     "titleIndex": "Indie"
+  },
+  {
+    "valueId": "4182",
+    "titleIndex": "Um Jogador"
   },
   {
     "valueId": "19",
@@ -16,8 +16,8 @@
     "titleIndex": "Aventura"
   },
   {
-    "valueId": "9",
-    "titleIndex": "Estratégia"
+    "valueId": "597",
+    "titleIndex": "Casual"
   },
   {
     "valueId": "122",
@@ -32,8 +32,8 @@
     "titleIndex": "Simulação"
   },
   {
-    "valueId": "597",
-    "titleIndex": "Casual"
+    "valueId": "9",
+    "titleIndex": "Estratégia"
   },
   {
     "valueId": "3859",
@@ -44,8 +44,16 @@
     "titleIndex": "2D "
   },
   {
-    "valueId": "1756",
-    "titleIndex": "Trilha Sonora Boa"
+    "valueId": "3839",
+    "titleIndex": "Primeira Pessoa"
+  },
+  {
+    "valueId": "4667",
+    "titleIndex": "Violento"
+  },
+  {
+    "valueId": "4345",
+    "titleIndex": "Violência Detalhada"
   },
   {
     "valueId": "1742",
@@ -56,44 +64,36 @@
     "titleIndex": "Mundo Aberto"
   },
   {
+    "valueId": "3834",
+    "titleIndex": "Exploração"
+  },
+  {
     "valueId": "1664",
     "titleIndex": "Quebra-cabeça"
   },
   {
-    "valueId": "3839",
-    "titleIndex": "Primeira Pessoa"
+    "valueId": "1662",
+    "titleIndex": "Sobrevivência "
+  },
+  {
+    "valueId": "4305",
+    "titleIndex": "Colorido"
+  },
+  {
+    "valueId": "1667",
+    "titleIndex": "Terror"
   },
   {
     "valueId": "1685",
     "titleIndex": "Cooperativo"
   },
   {
-    "valueId": "3810",
-    "titleIndex": "Faça o que Quiser"
-  },
-  {
-    "valueId": "3834",
-    "titleIndex": "Exploração"
-  },
-  {
-    "valueId": "3964",
-    "titleIndex": "Gráficos Pixelados"
-  },
-  {
-    "valueId": "3942",
-    "titleIndex": "Ficção Científica"
-  },
-  {
-    "valueId": "4026",
-    "titleIndex": "Difícil"
+    "valueId": "1756",
+    "titleIndex": "Trilha Sonora Boa"
   },
   {
     "valueId": "4136",
     "titleIndex": "Engraçado"
-  },
-  {
-    "valueId": "5350",
-    "titleIndex": "Infantil"
   },
   {
     "valueId": "1774",
@@ -212,10 +212,6 @@
     "titleIndex": "Zumbi"
   },
   {
-    "valueId": "1662",
-    "titleIndex": "Sobrevivência "
-  },
-  {
     "valueId": "1663",
     "titleIndex": "Tiro em Primeira Pessoa (FPS)"
   },
@@ -226,10 +222,6 @@
   {
     "valueId": "1666",
     "titleIndex": "Cartas"
-  },
-  {
-    "valueId": "1667",
-    "titleIndex": "Terror"
   },
   {
     "valueId": "1669",
@@ -432,6 +424,10 @@
     "titleIndex": "Romance Visual"
   },
   {
+    "valueId": "3810",
+    "titleIndex": "Faça o que Quiser"
+  },
+  {
     "valueId": "3813",
     "titleIndex": "Tática em Tempo Real"
   },
@@ -476,6 +472,10 @@
     "titleIndex": "Imersivo"
   },
   {
+    "valueId": "3942",
+    "titleIndex": "Ficção Científica"
+  },
+  {
     "valueId": "3952",
     "titleIndex": "Gótico"
   },
@@ -486,6 +486,10 @@
   {
     "valueId": "3959",
     "titleIndex": "Rogue-lite"
+  },
+  {
+    "valueId": "3964",
+    "titleIndex": "Gráficos Pixelados"
   },
   {
     "valueId": "3965",
@@ -514,6 +518,10 @@
   {
     "valueId": "4018",
     "titleIndex": "Vampiro"
+  },
+  {
+    "valueId": "4026",
+    "titleIndex": "Difícil"
   },
   {
     "valueId": "4036",
@@ -640,10 +648,6 @@
     "titleIndex": "Futurista"
   },
   {
-    "valueId": "4305",
-    "titleIndex": "Colorido"
-  },
-  {
     "valueId": "4325",
     "titleIndex": "Combate em Turnos"
   },
@@ -654,10 +658,6 @@
   {
     "valueId": "4342",
     "titleIndex": "Sombrio"
-  },
-  {
-    "valueId": "4345",
-    "titleIndex": "Violência Detalhada"
   },
   {
     "valueId": "4364",
@@ -714,10 +714,6 @@
   {
     "valueId": "4637",
     "titleIndex": "SHMUP com visão de cima"
-  },
-  {
-    "valueId": "4667",
-    "titleIndex": "Violento"
   },
   {
     "valueId": "4684",
@@ -858,6 +854,10 @@
   {
     "valueId": "5348",
     "titleIndex": "Mod "
+  },
+  {
+    "valueId": "5350",
+    "titleIndex": "Infantil"
   },
   {
     "valueId": "5363",

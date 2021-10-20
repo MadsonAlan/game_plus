@@ -8,18 +8,20 @@ Primeiro, entre no diretório com :  cd ./src/pages/api/lib/
 Depois execute o arquivo com: node chromium.js
 */
 
+const isDev = !process.env.AWS_REGION
+
+const chromeExecPaths = {
+  // win32: 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
+  win32: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+  linux: '/usr/bin/google-chrome',
+  darwin: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
+}
+
+const exePath = chromeExecPaths[process.platform]
+
 export async function getOptions() {
-  const isDev = !process.env.AWS_REGION
   let options;
 
-  const chromeExecPaths = {
-    // win32: 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
-    win32: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-    linux: '/usr/bin/google-chrome',
-    darwin: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
-  }
-
-  const exePath = chromeExecPaths[process.platform]
 
   if (isDev) {
     options = {
@@ -52,7 +54,7 @@ export async function getOptions() {
 //   return _page
 // }
 // export async function closeBrowser() {
-  
+
 //   const options = await getOptions()
 //   const browser = await puppeteer.launch(options)
 
