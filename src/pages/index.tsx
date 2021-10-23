@@ -23,6 +23,7 @@ interface PropsHome {
   sectionsGame: SectionsData[]
 }
 function Home(props:PropsHome) {
+  
 
   // const { data } = useFetch<ReturnSWR>('/api/updateData')
   // data??console.log(data);
@@ -94,19 +95,23 @@ function Home(props:PropsHome) {
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  // const games = await import('../data/gamesWithDiscounts.json')
-  // const sections = await import('../data/sectionsGame.json')
-  // const response = {
-  //   gamesData: games,
-  //   sectionsGame: sections
-  // }
-  const response:{
-    gamesData:GameData[],
-    sectionsGame: SectionsData[]
-  } = await atualizaPromo('https://store.steampowered.com/search/?specials=1&filter=topsellers')
-  const responseAmazon:{
-    gamesData: GameData[]
-  } = await jogosGratisAmazon('https://gaming.amazon.com/intro')
+  const games = await import('../data/gamesWithDiscounts.json')
+  const sections = await import('../data/sectionsGame.json')
+  const gamesAmazon = await import('../data/gamesAmazon.json')
+  
+  const response = {
+    gamesData: games.default,
+    sectionsGame: sections.default
+  }
+
+  const responseAmazon = { gamesData: gamesAmazon.default}
+  // const response:{
+  //   gamesData:GameData[],
+  //   sectionsGame: SectionsData[]
+  // } = await atualizaPromo('https://store.steampowered.com/search/?specials=1&filter=topsellers')
+  // const responseAmazon:{
+  //   gamesData: GameData[]
+  // } = await jogosGratisAmazon('https://gaming.amazon.com/intro')
   // const responseEpic = await jogosEpicGames('https://www.epicgames.com/store/pt-BR/browse?sortBy=relevancy&sortDir=DESC&priceTier=tierDiscouted&count=200&start=0')
   let randomGamesForHeader: GameData[] = []
   for (let index = 0; index < 5; index++) {
@@ -120,7 +125,7 @@ export const getStaticProps: GetStaticProps = async () => {
       gamesData: response.gamesData,
       sectionsGame: response.sectionsGame
     },
-    revalidate: 60 * 60 * 12
+    // revalidate: 60 * 60 * 12
   }
 }
 

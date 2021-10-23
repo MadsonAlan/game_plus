@@ -32,6 +32,11 @@ export async function jogosGratisAmazon(gameURL: string) {
     return dadosJogos
   })
 
+  fs.writeFile('src/data/gamesAmazon.json', JSON.stringify(dadosJogosAmaz, null, 2), err => {
+    if (err) throw new Error('something went wrong')
+    console.log('well done Amazon Games!');
+  })
+
   await browser.close();
  
   return  {

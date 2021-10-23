@@ -2,17 +2,32 @@
 import { NextApiRequest, NextApiResponse } from 'next'
 import { atualizaPromo } from '../lib/initialsData'
 import { gamesForFilter } from '../lib/gamesForFilters'
+import { jogosGratisAmazon } from '../lib/primeGameData'
+import { GameData } from '../../../types/types'
 
 export default async function updateData(req: NextApiRequest, res: NextApiResponse) {
   if (req.method === 'GET') {
     try {
-      await atualizaPromo('https://store.steampowered.com/search/?specials=1&filter=topsellers')
-      const gameData = await import('../../../data/gamesWithDiscounts.json')
-      const sections = await import('../../../data/sectionsGame.json')
+
+      const gameData = await atualizaPromo('https://store.steampowered.com/search/?specials=1&filter=topsellers')
+      const gameAmazonData = await jogosGratisAmazon('https://gaming.amazon.com/intro')
+      let randomGamesForHeader: GameData[] = []
+      for (let index = 0; index < 5; index++) {
+        randomGamesForHeader.push(gameData.gamesData[Math.floor((Math.random() * gameData.gamesData.length))])
+      }
       return res.json({
-        gamedata:gameData.default,
-        sections: sections.default
+        randomGamesForHeader,
+        gamesAmazon: gameAmazonData.gamesData,
+        gamesData: gameData.gamesData,
+        sectionsGame: gameData.sectionsGame
       })
+      // {
+      //     randomGamesForHeader,
+      //     // gamesEpicGames: responseEpic.gamesData,
+      //     gamesAmazon: responseAmazon.gamesData,
+      //     gamesData: response.gamesData,
+      //     sectionsGame: response.sectionsGame
+      //   }
 
     } catch (e) {
 
@@ -24,7 +39,7 @@ export default async function updateData(req: NextApiRequest, res: NextApiRespon
       await gamesForFilter(req.body)
       const gameData = await import('../../../data/gamesWithDiscounts.json')
       const sections = await import('../../../data/sectionsGame.json')
-      return res.json({gamedata:gameData.default})
+      return res.json({ gamedata: gameData.default })
 
     } catch (e) {
 
