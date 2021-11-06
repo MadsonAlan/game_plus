@@ -8,8 +8,8 @@
     "titleIndex": "Um Jogador"
   },
   {
-    "valueId": "9",
-    "titleIndex": "Estratégia"
+    "valueId": "599",
+    "titleIndex": "Simulação"
   },
   {
     "valueId": "19",
@@ -20,8 +20,8 @@
     "titleIndex": "Aventura"
   },
   {
-    "valueId": "122",
-    "titleIndex": "RPG"
+    "valueId": "4166",
+    "titleIndex": "Atmosférico"
   },
   {
     "valueId": "597",
@@ -32,72 +32,72 @@
     "titleIndex": "Multijogador"
   },
   {
-    "valueId": "4166",
-    "titleIndex": "Atmosférico"
-  },
-  {
-    "valueId": "599",
-    "titleIndex": "Simulação"
-  },
-  {
     "valueId": "3871",
     "titleIndex": "2D "
   },
   {
-    "valueId": "1742",
-    "titleIndex": "Boa Trama"
+    "valueId": "122",
+    "titleIndex": "RPG"
   },
   {
-    "valueId": "1684",
-    "titleIndex": "Fantasia"
-  },
-  {
-    "valueId": "1770",
-    "titleIndex": "Jogo de Tabuleiro"
-  },
-  {
-    "valueId": "1664",
-    "titleIndex": "Quebra-cabeça"
-  },
-  {
-    "valueId": "1685",
-    "titleIndex": "Cooperativo"
-  },
-  {
-    "valueId": "3839",
-    "titleIndex": "Primeira Pessoa"
-  },
-  {
-    "valueId": "4667",
-    "titleIndex": "Violento"
-  },
-  {
-    "valueId": "4345",
-    "titleIndex": "Violência Detalhada"
-  },
-  {
-    "valueId": "1667",
-    "titleIndex": "Terror"
-  },
-  {
-    "valueId": "4305",
-    "titleIndex": "Colorido"
-  },
-  {
-    "valueId": "1666",
-    "titleIndex": "Cartas"
+    "valueId": "9",
+    "titleIndex": "Estratégia"
   },
   {
     "valueId": "1695",
     "titleIndex": "Mundo Aberto"
   },
   {
-    "valueId": "17389",
-    "titleIndex": "Jogos de Mesa"
+    "valueId": "1756",
+    "titleIndex": "Trilha Sonora Boa"
   },
   {
-    "valueId": "1677",
-    "titleIndex": "Em Turnos"
+    "valueId": "1742",
+    "titleIndex": "Boa Trama"
+  },
+  {
+    "valueId": "699",
+    "titleIndex": "Corrida"
+  },
+  {
+    "valueId": "3839",
+    "titleIndex": "Primeira Pessoa"
+  },
+  {
+    "valueId": "1664",
+    "titleIndex": "Quebra-Cabeça"
+  },
+  {
+    "valueId": "4136",
+    "titleIndex": "Engraçado"
+  },
+  {
+    "valueId": "4026",
+    "titleIndex": "Difícil"
+  },
+  {
+    "valueId": "701",
+    "titleIndex": "Esportes"
+  },
+  {
+    "valueId": "3964",
+    "titleIndex": "Gráficos Pixelados"
+  },
+  {
+    "valueId": "1774",
+    "titleIndex": "Tiro"
+  },
+  {
+    "valueId": "1667",
+    "titleIndex": "Terror"
+  },
+  {
+    "valueId": "3834",
+    "titleIndex": "Exploração"
+  },
+  {
+    "valueId": "4175",
+    "titleIndex": "Realístico"
   },
   {
     "valueId": "84",
@@ -118,14 +118,6 @@
   {
     "valueId": "493",
     "titleIndex": "Acesso Antecipado"
-  },
-  {
-    "valueId": "699",
-    "titleIndex": "Corrida"
-  },
-  {
-    "valueId": "701",
-    "titleIndex": "Esportes"
   },
   {
     "valueId": "784",
@@ -224,6 +216,10 @@
     "titleIndex": "Combinar 3"
   },
   {
+    "valueId": "1666",
+    "titleIndex": "Cartas"
+  },
+  {
     "valueId": "1669",
     "titleIndex": "Suporte a Mods"
   },
@@ -248,6 +244,10 @@
     "titleIndex": "Estratégia em Tempo Real (RTS)"
   },
   {
+    "valueId": "1677",
+    "titleIndex": "Em Turnos"
+  },
+  {
     "valueId": "1678",
     "titleIndex": "Guerra"
   },
@@ -262,6 +262,14 @@
   {
     "valueId": "1681",
     "titleIndex": "Piratas"
+  },
+  {
+    "valueId": "1684",
+    "titleIndex": "Fantasia"
+  },
+  {
+    "valueId": "1685",
+    "titleIndex": "Cooperativo"
   },
   {
     "valueId": "1687",
@@ -384,20 +392,16 @@
     "titleIndex": "Espacial"
   },
   {
-    "valueId": "1756",
-    "titleIndex": "Trilha Sonora Boa"
-  },
-  {
     "valueId": "1759",
     "titleIndex": "Morte Permanente"
   },
   {
-    "valueId": "1773",
-    "titleIndex": "Arcade"
+    "valueId": "1770",
+    "titleIndex": "Jogo de Tabuleiro"
   },
   {
-    "valueId": "1774",
-    "titleIndex": "Tiro"
+    "valueId": "1773",
+    "titleIndex": "Arcade"
   },
   {
     "valueId": "1775",
@@ -432,12 +436,8 @@
     "titleIndex": "Tiro em Terceira Pessoa"
   },
   {
-    "valueId": "3834",
-    "titleIndex": "Exploração"
-  },
-  {
     "valueId": "3835",
-    "titleIndex": "Pós-apocalíptico"
+    "titleIndex": "Pós-Apocalíptico"
   },
   {
     "valueId": "3841",
@@ -488,10 +488,6 @@
     "titleIndex": "Rogue-lite"
   },
   {
-    "valueId": "3964",
-    "titleIndex": "Gráficos Pixelados"
-  },
-  {
     "valueId": "3965",
     "titleIndex": "Épico"
   },
@@ -518,10 +514,6 @@
   {
     "valueId": "4018",
     "titleIndex": "Vampiro"
-  },
-  {
-    "valueId": "4026",
-    "titleIndex": "Difícil"
   },
   {
     "valueId": "4036",
@@ -560,10 +552,6 @@
     "titleIndex": "Cyberpunk"
   },
   {
-    "valueId": "4136",
-    "titleIndex": "Engraçado"
-  },
-  {
     "valueId": "4137",
     "titleIndex": "Transumanismo"
   },
@@ -594,10 +582,6 @@
   {
     "valueId": "4172",
     "titleIndex": "Medieval"
-  },
-  {
-    "valueId": "4175",
-    "titleIndex": "Realístico"
   },
   {
     "valueId": "4184",
@@ -652,6 +636,10 @@
     "titleIndex": "Futurista"
   },
   {
+    "valueId": "4305",
+    "titleIndex": "Colorido"
+  },
+  {
     "valueId": "4325",
     "titleIndex": "Combate em Turnos"
   },
@@ -662,6 +650,10 @@
   {
     "valueId": "4342",
     "titleIndex": "Sombrio"
+  },
+  {
+    "valueId": "4345",
+    "titleIndex": "Violência Detalhada"
   },
   {
     "valueId": "4364",
@@ -718,6 +710,10 @@
   {
     "valueId": "4637",
     "titleIndex": "SHMUP com visão de cima"
+  },
+  {
+    "valueId": "4667",
+    "titleIndex": "Violento"
   },
   {
     "valueId": "4684",
@@ -905,7 +901,7 @@
   },
   {
     "valueId": "5537",
-    "titleIndex": "Plataforma com Quebra-cabeça"
+    "titleIndex": "Plataforma com Quebra-Cabeça"
   },
   {
     "valueId": "5547",
@@ -1418,6 +1414,10 @@
   {
     "valueId": "17337",
     "titleIndex": "Lemmings"
+  },
+  {
+    "valueId": "17389",
+    "titleIndex": "Jogos de Mesa"
   },
   {
     "valueId": "17770",

@@ -1,8 +1,8 @@
 [
   {
     "gameId": "0",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41EXGQJsdYL.jpg",
-    "gameName": "Wallace & Gromit: Fright of the Bumblebees",
+    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41DRdSEQBaL.jpg",
+    "gameName": "Demon Hunter 2: New Chapter",
     "desconto": "Grátis com Prime",
     "filters": [
       161966
@@ -10,8 +10,8 @@
   },
   {
     "gameId": "1",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41gp31NRJIL.jpg",
-    "gameName": "Red Wings: Aces of the Sky",
+    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41zyiCcz1hL.jpg",
+    "gameName": "Liberated",
     "desconto": "Grátis com Prime",
     "filters": [
       161966
@@ -19,8 +19,8 @@
   },
   {
     "gameId": "2",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41yBxUVj4tL.jpg",
-    "gameName": "Wallace & Gromit: The Last Resort",
+    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41tTXAZ8GlL.jpg",
+    "gameName": "BAFL - Brakes Are For Losers",
     "desconto": "Grátis com Prime",
     "filters": [
       161966
@@ -28,8 +28,8 @@
   },
   {
     "gameId": "3",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41XVdqyZv9L.jpg",
-    "gameName": "Blue Fire",
+    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/412kSoip3LL.jpg",
+    "gameName": "Secret Files: Sam Peters",
     "desconto": "Grátis com Prime",
     "filters": [
       161966
@@ -37,8 +37,8 @@
   },
   {
     "gameId": "4",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/513hyTSh9mL.jpg",
-    "gameName": "Tiny Robots Recharged",
+    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/51jks9rVXzL.jpg",
+    "gameName": "Rogue Heroes: Ruins of Tasos",
     "desconto": "Grátis com Prime",
     "filters": [
       161966
@@ -46,8 +46,8 @@
   },
   {
     "gameId": "5",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41jD3actQoL.jpg",
-    "gameName": "Song of Horror Complete Edition",
+    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41gCrfJk1CL.jpg",
+    "gameName": "Puzzle Agent 2",
     "desconto": "Grátis com Prime",
     "filters": [
       161966
@@ -55,8 +55,8 @@
   },
   {
     "gameId": "6",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41P3uq+EcML.jpg",
-    "gameName": "Secret Files 3",
+    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/4124c2wKbjL.jpg",
+    "gameName": "Rise of the Tomb Raider - Full Game + Bonus Content on Epic Games Store",
     "desconto": "Grátis com Prime",
     "filters": [
       161966
@@ -64,8 +64,8 @@
   },
   {
     "gameId": "7",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/4103e2g3bjL.jpg",
-    "gameName": "Wallace & Gromit: Muzzled!",
+    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41h7hYaowhL.jpg",
+    "gameName": "Control Ultimate Edition: Full Game for PC on GOG.com",
     "desconto": "Grátis com Prime",
     "filters": [
       161966
@@ -73,44 +73,8 @@
   },
   {
     "gameId": "8",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41mFBIvFgRL.jpg",
-    "gameName": "Wallace & Gromit: The Bogey Man",
-    "desconto": "Grátis com Prime",
-    "filters": [
-      161966
-    ]
-  },
-  {
-    "gameId": "9",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41ZENvW42-L.jpg",
-    "gameName": "Whiskey & Zombies: Great Southern Zombie Escape",
-    "desconto": "Grátis com Prime",
-    "filters": [
-      161966
-    ]
-  },
-  {
-    "gameId": "10",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41KvfYVxBPL.jpg",
-    "gameName": "Alien: Isolation - Full Game on Epic Games Store",
-    "desconto": "Grátis com Prime",
-    "filters": [
-      161966
-    ]
-  },
-  {
-    "gameId": "11",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/414lQk1BPWL.jpg",
-    "gameName": "Ghostrunner: Full Game for PC on GOG.com",
-    "desconto": "Grátis com Prime",
-    "filters": [
-      161966
-    ]
-  },
-  {
-    "gameId": "12",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41YfJKrrCFL.jpg",
-    "gameName": "STAR WARS: Squadrons on Origin",
+    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41fU3WeM61L.jpg",
+    "gameName": "Dragon Age: Inquisition on Origin",
     "desconto": "Grátis com Prime",
     "filters": [
       161966
