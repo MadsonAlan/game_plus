@@ -8,8 +8,8 @@
     "titleIndex": "Um Jogador"
   },
   {
-    "valueId": "599",
-    "titleIndex": "Simulação"
+    "valueId": "597",
+    "titleIndex": "Casual"
   },
   {
     "valueId": "19",
@@ -20,16 +20,16 @@
     "titleIndex": "Aventura"
   },
   {
+    "valueId": "599",
+    "titleIndex": "Simulação"
+  },
+  {
     "valueId": "4166",
     "titleIndex": "Atmosférico"
   },
   {
-    "valueId": "597",
-    "titleIndex": "Casual"
-  },
-  {
-    "valueId": "3859",
-    "titleIndex": "Multijogador"
+    "valueId": "9",
+    "titleIndex": "Estratégia"
   },
   {
     "valueId": "3871",
@@ -40,64 +40,64 @@
     "titleIndex": "RPG"
   },
   {
-    "valueId": "9",
-    "titleIndex": "Estratégia"
-  },
-  {
-    "valueId": "1695",
-    "titleIndex": "Mundo Aberto"
-  },
-  {
-    "valueId": "1756",
-    "titleIndex": "Trilha Sonora Boa"
+    "valueId": "1664",
+    "titleIndex": "Quebra-Cabeça"
   },
   {
     "valueId": "1742",
     "titleIndex": "Boa Trama"
   },
   {
-    "valueId": "699",
-    "titleIndex": "Corrida"
+    "valueId": "3859",
+    "titleIndex": "Multijogador"
+  },
+  {
+    "valueId": "1756",
+    "titleIndex": "Trilha Sonora Boa"
+  },
+  {
+    "valueId": "1684",
+    "titleIndex": "Fantasia"
+  },
+  {
+    "valueId": "1695",
+    "titleIndex": "Mundo Aberto"
   },
   {
     "valueId": "3839",
     "titleIndex": "Primeira Pessoa"
   },
   {
-    "valueId": "1664",
-    "titleIndex": "Quebra-Cabeça"
-  },
-  {
-    "valueId": "4136",
-    "titleIndex": "Engraçado"
-  },
-  {
-    "valueId": "4026",
-    "titleIndex": "Difícil"
-  },
-  {
-    "valueId": "701",
-    "titleIndex": "Esportes"
-  },
-  {
-    "valueId": "3964",
-    "titleIndex": "Gráficos Pixelados"
-  },
-  {
-    "valueId": "1774",
-    "titleIndex": "Tiro"
-  },
-  {
-    "valueId": "1667",
-    "titleIndex": "Terror"
+    "valueId": "1685",
+    "titleIndex": "Cooperativo"
   },
   {
     "valueId": "3834",
     "titleIndex": "Exploração"
   },
   {
-    "valueId": "4175",
-    "titleIndex": "Realístico"
+    "valueId": "4026",
+    "titleIndex": "Difícil"
+  },
+  {
+    "valueId": "4305",
+    "titleIndex": "Colorido"
+  },
+  {
+    "valueId": "4136",
+    "titleIndex": "Engraçado"
+  },
+  {
+    "valueId": "1667",
+    "titleIndex": "Terror"
+  },
+  {
+    "valueId": "1662",
+    "titleIndex": "Sobrevivência "
+  },
+  {
+    "valueId": "3964",
+    "titleIndex": "Gráficos Pixelados"
   },
   {
     "valueId": "84",
@@ -118,6 +118,14 @@
   {
     "valueId": "493",
     "titleIndex": "Acesso Antecipado"
+  },
+  {
+    "valueId": "699",
+    "titleIndex": "Corrida"
+  },
+  {
+    "valueId": "701",
+    "titleIndex": "Esportes"
   },
   {
     "valueId": "784",
@@ -204,10 +212,6 @@
     "titleIndex": "Zumbi"
   },
   {
-    "valueId": "1662",
-    "titleIndex": "Sobrevivência "
-  },
-  {
     "valueId": "1663",
     "titleIndex": "Tiro em Primeira Pessoa (FPS)"
   },
@@ -262,14 +266,6 @@
   {
     "valueId": "1681",
     "titleIndex": "Piratas"
-  },
-  {
-    "valueId": "1684",
-    "titleIndex": "Fantasia"
-  },
-  {
-    "valueId": "1685",
-    "titleIndex": "Cooperativo"
   },
   {
     "valueId": "1687",
@@ -402,6 +398,10 @@
   {
     "valueId": "1773",
     "titleIndex": "Arcade"
+  },
+  {
+    "valueId": "1774",
+    "titleIndex": "Tiro"
   },
   {
     "valueId": "1775",
@@ -584,6 +584,10 @@
     "titleIndex": "Medieval"
   },
   {
+    "valueId": "4175",
+    "titleIndex": "Realístico"
+  },
+  {
     "valueId": "4184",
     "titleIndex": "Xadrez"
   },
@@ -634,10 +638,6 @@
   {
     "valueId": "4295",
     "titleIndex": "Futurista"
-  },
-  {
-    "valueId": "4305",
-    "titleIndex": "Colorido"
   },
   {
     "valueId": "4325",
