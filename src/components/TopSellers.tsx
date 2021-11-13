@@ -4,7 +4,7 @@ import CardComponent from './Card'
 import { MdOutlineArrowBackIosNew, MdOutlineArrowForwardIos } from "react-icons/md";
 import { GameData, SectionsData } from '../types/types';
 import Slider, { Settings } from 'react-slick';
-import useSWR from 'swr';
+
 //https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Useful_string_methods
 
 interface PropsTopSellers {
@@ -88,7 +88,7 @@ function TopSellers({
             <MdOutlineArrowBackIosNew className={styles.sliderArrowBack} onClick={onClick} />
         );
     }
-    
+
     function validaCard(cardsData: GameData[]) {
         const cardsFiltereds = cardsData.filter((card) => {
             if (card.filters.includes(parseInt(filterData.valueId))) {
@@ -100,6 +100,7 @@ function TopSellers({
 
     return (
         <div className={styles.main}>
+
             <h3>{filterData.titleIndex}</h3>
             <Slider {...settings}>
                 {

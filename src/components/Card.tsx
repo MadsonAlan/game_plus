@@ -9,7 +9,7 @@ function CardComponent({ cardInformation }: PropsCard) {
 
     return (
         <a href={cardInformation.urlGameSteam} target="_blank" rel="noreferrer">
-            <div className={styles.containerCardAplication} style={{ backgroundImage: `linear-gradient( to top, var(--background) 25%, transparent 75%), url('${cardInformation.gameImgURL.replace('capsule_sm_120', 'header')}')` }}>
+            <div className={styles.containerCardAplication} style={{ backgroundImage: `linear-gradient( to top, var(--background) 25%, transparent 75%), url('${cardInformation.gameImgURL?.replace('capsule_sm_120', 'header')}')` }}>
                 {cardInformation.desconto?<span>{cardInformation.desconto}</span>:<></>}
                 <div className={styles.cardAplication} >
                     <div className={styles.informationGame}>

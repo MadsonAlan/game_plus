@@ -1,4 +1,5 @@
 import puppeteer from 'puppeteer'
+import fs from 'fs'
 
 export async function jogosEpicGames(gameURL: string) {
     try {
@@ -8,7 +9,7 @@ export async function jogosEpicGames(gameURL: string) {
         })
         const page = await browser.newPage()
         await page.goto(gameURL, { waitUntil: 'networkidle2' });
-        await page.waitForSelector('.css-lrwy1y')
+        await page.waitForTimeout(7000)
 
         //informações sobre os jogos gratis
         const dadosJogosEpic = await page.evaluate(() => {
@@ -30,23 +31,27 @@ export async function jogosEpicGames(gameURL: string) {
             document.querySelectorAll('.css-1vm3ks .css-1x8w2lj span').forEach(atupriceGame => {
                 atuPrice.push(atupriceGame)
             })
-            document.querySelectorAll('.css-13vabc5').forEach(titleGame => {
-                imgCard.push(titleGame)
+            document.querySelectorAll('.css-13vabc5').forEach(imageGame => {
+                imgCard.push({
+                    alt: imageGame.getAttribute('alt'),
+                    src: imageGame.getAttribute('src')
+                })
             })
             document.querySelectorAll('.css-1jx3eyg').forEach(a => {
                 linkCard.push(a)
             })
-            console.log(imgCard);
+
 
             const dadosJogos = titlecardEpic.map((title, index) => {
+
                 return {
                     gameId: index,
                     urlGameSteam: linkCard[index].href,
-                    gameImgURL: imgCard[index].alt == title.text ?? imgCard[index].src,
-                    gameName: title.text,
-                    desconto: discount[index].text,
-                    precAnterior: antPrice[index].text,
-                    precAtual: atuPrice[index].text,
+                    gameImgURL: imgCard[index].alt ? (imgCard[index].alt == title.textContent ? imgCard[index].src : '#') : '#',
+                    gameName: title.textContent,
+                    desconto: discount[index].textContent,
+                    precAnterior: antPrice[index].textContent,
+                    precAtual: atuPrice[index].textContent,
                     filters: [253232628]
                 }
 
@@ -54,6 +59,12 @@ export async function jogosEpicGames(gameURL: string) {
 
 
             return dadosJogos
+        })
+
+
+        fs.writeFile('src/data/gamesEpicGames.json', JSON.stringify(dadosJogosEpic, null, 2), err => {
+            if (err) throw new Error('something went wrong')
+            console.log('well done Epic Games!');
         })
 
         await browser.close();
