@@ -8,12 +8,12 @@
     "titleIndex": "Um Jogador"
   },
   {
-    "valueId": "597",
-    "titleIndex": "Casual"
-  },
-  {
     "valueId": "19",
     "titleIndex": "Ação"
+  },
+  {
+    "valueId": "597",
+    "titleIndex": "Casual"
   },
   {
     "valueId": "21",
@@ -40,20 +40,24 @@
     "titleIndex": "RPG"
   },
   {
-    "valueId": "1664",
-    "titleIndex": "Quebra-Cabeça"
+    "valueId": "3859",
+    "titleIndex": "Multijogador"
   },
   {
     "valueId": "1742",
     "titleIndex": "Boa Trama"
   },
   {
-    "valueId": "3859",
-    "titleIndex": "Multijogador"
+    "valueId": "1664",
+    "titleIndex": "Quebra-Cabeça"
   },
   {
     "valueId": "1756",
     "titleIndex": "Trilha Sonora Boa"
+  },
+  {
+    "valueId": "3839",
+    "titleIndex": "Primeira Pessoa"
   },
   {
     "valueId": "1684",
@@ -64,40 +68,36 @@
     "titleIndex": "Mundo Aberto"
   },
   {
-    "valueId": "3839",
-    "titleIndex": "Primeira Pessoa"
-  },
-  {
-    "valueId": "1685",
-    "titleIndex": "Cooperativo"
+    "valueId": "4026",
+    "titleIndex": "Difícil"
   },
   {
     "valueId": "3834",
     "titleIndex": "Exploração"
   },
   {
-    "valueId": "4026",
-    "titleIndex": "Difícil"
-  },
-  {
-    "valueId": "4305",
-    "titleIndex": "Colorido"
+    "valueId": "1667",
+    "titleIndex": "Terror"
   },
   {
     "valueId": "4136",
     "titleIndex": "Engraçado"
   },
   {
-    "valueId": "1667",
-    "titleIndex": "Terror"
+    "valueId": "1774",
+    "titleIndex": "Tiro"
+  },
+  {
+    "valueId": "1685",
+    "titleIndex": "Cooperativo"
   },
   {
     "valueId": "1662",
     "titleIndex": "Sobrevivência "
   },
   {
-    "valueId": "3964",
-    "titleIndex": "Gráficos Pixelados"
+    "valueId": "1773",
+    "titleIndex": "Arcade"
   },
   {
     "valueId": "84",
@@ -396,14 +396,6 @@
     "titleIndex": "Jogo de Tabuleiro"
   },
   {
-    "valueId": "1773",
-    "titleIndex": "Arcade"
-  },
-  {
-    "valueId": "1774",
-    "titleIndex": "Tiro"
-  },
-  {
     "valueId": "1775",
     "titleIndex": "Jogador x Jogador (PvP)"
   },
@@ -486,6 +478,10 @@
   {
     "valueId": "3959",
     "titleIndex": "Rogue-lite"
+  },
+  {
+    "valueId": "3964",
+    "titleIndex": "Gráficos Pixelados"
   },
   {
     "valueId": "3965",
@@ -638,6 +634,10 @@
   {
     "valueId": "4295",
     "titleIndex": "Futurista"
+  },
+  {
+    "valueId": "4305",
+    "titleIndex": "Colorido"
   },
   {
     "valueId": "4325",

@@ -2,11 +2,12 @@
   {
     "gameId": "1174180",
     "urlGameSteam": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_sm_120.jpg?t=1618851907",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/capsule_sm_120.jpg?t=1618851907",
     "gameName": "Red Dead Redemption 2",
-    "dataCriacao": "-33%",
-    "desconto": " R$ 239,00",
-    "precAnterior": "R$ 160,13",
+    "dataCriacao": " 5/dez/2019  ",
+    "desconto": "-33%",
+    "precAnterior": " R$ 239,00",
+    "precAtual": "R$ 160,13",
     "filters": [
       1695,
       21,
@@ -20,11 +21,12 @@
   {
     "gameId": "1030840,1030830,360430",
     "urlGameSteam": "https://store.steampowered.com/sub/465030/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/subs/465030/capsule_sm_120.jpg?t=1600988420",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/subs/465030/capsule_sm_120.jpg?t=1600988420",
     "gameName": "Mafia Trilogy",
-    "dataCriacao": "-50%",
-    "desconto": " R$ 279,90",
-    "precAnterior": "R$ 139,95",
+    "dataCriacao": " 24/set/2020  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 279,90",
+    "precAtual": "R$ 139,95",
     "filters": [
       19,
       1695,
@@ -38,11 +40,12 @@
   {
     "gameId": "1089090",
     "urlGameSteam": "https://store.steampowered.com/app/1089090/ONE_PIECE_PIRATE_WARRIORS_4/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1089090/capsule_sm_120.jpg?t=1608167185",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1089090/capsule_sm_120.jpg?t=1608167185",
     "gameName": "ONE PIECE: PIRATE WARRIORS 4",
-    "dataCriacao": "-70%",
-    "desconto": " R$ 159,90",
-    "precAnterior": "R$ 47,97",
+    "dataCriacao": " 26/mar/2020  ",
+    "desconto": "-70%",
+    "precAnterior": " R$ 159,90",
+    "precAtual": "R$ 47,97",
     "filters": [
       1646,
       4085,
@@ -54,31 +57,33 @@
     ]
   },
   {
-    "gameId": "548430",
-    "urlGameSteam": "https://store.steampowered.com/app/548430/Deep_Rock_Galactic/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/capsule_sm_120.jpg?t=1636489070",
-    "gameName": "Deep Rock Galactic",
-    "dataCriacao": "-50%",
-    "desconto": " R$ 57,99",
-    "precAnterior": "R$ 28,99",
+    "gameId": "1089090",
+    "urlGameSteam": "https://store.steampowered.com/app/1089090/ONE_PIECE_PIRATE_WARRIORS_4/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1089090/capsule_sm_120.jpg?t=1608167185",
+    "gameName": "ONE PIECE: PIRATE WARRIORS 4",
+    "dataCriacao": " 26/mar/2020  ",
+    "desconto": "-70%",
+    "precAnterior": " R$ 159,90",
+    "precAtual": "R$ 47,97",
     "filters": [
-      353880,
-      4236,
-      1685,
-      1667,
-      6730,
-      1663,
-      3834
+      1646,
+      4085,
+      4158,
+      1681,
+      1743,
+      1773,
+      1775
     ]
   },
   {
     "gameId": "409710,409720,525720,8870,214933,2028850",
     "urlGameSteam": "https://store.steampowered.com/sub/127633/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/subs/127633/capsule_sm_120.jpg?t=1534899024",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/subs/127633/capsule_sm_120.jpg?t=1534899024",
     "gameName": "BioShock: The Collection",
-    "dataCriacao": "-80%",
-    "desconto": " R$ 119,00",
-    "precAnterior": "R$ 23,80",
+    "dataCriacao": " 16/set/2016  ",
+    "desconto": "-80%",
+    "precAnterior": " R$ 119,00",
+    "precAtual": "R$ 23,80",
     "filters": [
       19,
       1663,
@@ -90,85 +95,52 @@
     ]
   },
   {
-    "gameId": "1089090",
-    "urlGameSteam": "https://store.steampowered.com/app/1089090/ONE_PIECE_PIRATE_WARRIORS_4/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1089090/capsule_sm_120.jpg?t=1608167185",
-    "gameName": "ONE PIECE: PIRATE WARRIORS 4",
-    "dataCriacao": "-70%",
-    "desconto": " R$ 159,90",
-    "precAnterior": "R$ 47,97",
+    "gameId": "548430",
+    "urlGameSteam": "https://store.steampowered.com/app/548430/Deep_Rock_Galactic/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/548430/capsule_sm_120.jpg?t=1636489070",
+    "gameName": "Deep Rock Galactic",
+    "dataCriacao": " 13/mai/2020  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 57,99",
+    "precAtual": "R$ 28,99",
     "filters": [
-      1646,
-      4085,
-      4158,
-      1681,
-      1743,
-      1773,
-      1775
+      353880,
+      4236,
+      1685,
+      1667,
+      6730,
+      1663,
+      3834
     ]
   },
   {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/23487/Prince_Of_Persia_Franchise/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/23487/j2lerm6ln1mb2aqb/capsule_sm_120.jpg?t=1636397743",
-    "gameName": "Prince Of Persia Franchise",
-    "dataCriacao": "-82%",
-    "desconto": " R$ 149,95",
-    "precAnterior": "R$ 26,95",
+    "gameId": "815370",
+    "urlGameSteam": "https://store.steampowered.com/app/815370/Green_Hell/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/815370/capsule_sm_120.jpg?t=1634313205",
+    "gameName": "Green Hell",
+    "dataCriacao": " 5/set/2019  ",
+    "desconto": "-30%",
+    "precAnterior": " R$ 47,49",
+    "precAtual": "R$ 33,24",
     "filters": [
-      19,
-      21,
-      4036,
-      1625,
-      1697,
-      4182,
-      1684
-    ]
-  },
-  {
-    "gameId": "755500",
-    "urlGameSteam": "https://store.steampowered.com/app/755500/ONE_PIECE_World_Seeker/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/755500/capsule_sm_120.jpg?t=1597878292",
-    "gameName": "ONE PIECE World Seeker",
-    "dataCriacao": "-75%",
-    "desconto": " R$ 249,90",
-    "precAnterior": "R$ 62,47",
-    "filters": [
-      19,
-      21,
-      4085,
+      1662,
+      1100689,
       1695,
-      4182,
-      1681,
-      1743
-    ]
-  },
-  {
-    "gameId": "1222140",
-    "urlGameSteam": "https://store.steampowered.com/app/1222140/Detroit_Become_Human/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/capsule_sm_120.jpg?t=1625648054",
-    "gameName": "Detroit: Become Human",
-    "dataCriacao": "-50%",
-    "desconto": " R$ 134,99",
-    "precAnterior": "R$ 67,49",
-    "filters": [
-      6426,
-      1742,
-      6971,
-      4145,
-      4182,
-      5608,
-      21
+      3843,
+      1702,
+      599,
+      4182
     ]
   },
   {
     "gameId": "602960",
     "urlGameSteam": "https://store.steampowered.com/app/602960/Barotrauma/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/602960/capsule_sm_120_alt_assets_14.jpg?t=1636652761",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/602960/capsule_sm_120_alt_assets_14.jpg?t=1636652761",
     "gameName": "Barotrauma",
-    "dataCriacao": "-75%",
-    "desconto": " R$ 57,99",
-    "precAnterior": "R$ 14,49",
+    "dataCriacao": " 5/jun/2019  ",
+    "desconto": "-75%",
+    "precAnterior": " R$ 57,99",
+    "precAtual": "R$ 14,49",
     "filters": [
       3859,
       1662,
@@ -180,13 +152,147 @@
     ]
   },
   {
+    "gameId": "1404210",
+    "urlGameSteam": "https://store.steampowered.com/app/1404210/Red_Dead_Online/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1404210/capsule_sm_120.jpg?t=1618851879",
+    "gameName": "Red Dead Online",
+    "dataCriacao": " 1/dez/2020  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 111,99",
+    "precAtual": "R$ 55,99",
+    "filters": [
+      19,
+      21,
+      1695,
+      3859,
+      1647,
+      1774,
+      6041
+    ]
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/23487/Prince_Of_Persia_Franchise/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/bundles/23487/j2lerm6ln1mb2aqb/capsule_sm_120.jpg?t=1636397743",
+    "gameName": "Prince Of Persia Franchise",
+    "dataCriacao": "   ",
+    "desconto": "-82%",
+    "precAnterior": " R$ 149,95",
+    "precAtual": "R$ 26,95",
+    "filters": [
+      19,
+      21,
+      4036,
+      1625,
+      1697,
+      4182,
+      1684
+    ]
+  },
+  {
+    "gameId": "477160",
+    "urlGameSteam": "https://store.steampowered.com/app/477160/Human_Fall_Flat/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/477160/capsule_sm_120.jpg?t=1636482668",
+    "gameName": "Human: Fall Flat",
+    "dataCriacao": " 22/jul/2016  ",
+    "desconto": "-66%",
+    "precAnterior": " R$ 37,99",
+    "precAtual": "R$ 12,91",
+    "filters": [
+      1685,
+      21,
+      1664,
+      4136,
+      19,
+      3968,
+      3810
+    ]
+  },
+  {
+    "gameId": "755500",
+    "urlGameSteam": "https://store.steampowered.com/app/755500/ONE_PIECE_World_Seeker/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/755500/capsule_sm_120.jpg?t=1597878292",
+    "gameName": "ONE PIECE World Seeker",
+    "dataCriacao": " 14/mar/2019  ",
+    "desconto": "-75%",
+    "precAnterior": " R$ 249,90",
+    "precAtual": "R$ 62,47",
+    "filters": [
+      19,
+      21,
+      4085,
+      1695,
+      4182,
+      1681,
+      1743
+    ]
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/11883/Dead_by_Daylight__Stranger_Things_Edition/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/bundles/11883/88yv09e85pr5xu8e/capsule_sm_120.jpg?t=1634654433",
+    "gameName": "Dead by Daylight - Stranger Things Edition",
+    "dataCriacao": "   ",
+    "desconto": "-58%",
+    "precAnterior": " R$ 71,17",
+    "precAtual": "R$ 29,79",
+    "filters": [
+      1667,
+      3978,
+      3859,
+      19,
+      4345,
+      4667,
+      3843
+    ]
+  },
+  {
+    "gameId": "1203220",
+    "urlGameSteam": "https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1203220/capsule_sm_120.jpg?t=1636734716",
+    "gameName": "NARAKA: BLADEPOINT",
+    "dataCriacao": " 11/ago/2021  ",
+    "desconto": "-30%",
+    "precAnterior": " R$ 80,00",
+    "precAtual": "R$ 56,00",
+    "filters": [
+      176981,
+      3859,
+      6915,
+      1662,
+      12095,
+      1775,
+      1646
+    ]
+  },
+  {
+    "gameId": "945360",
+    "urlGameSteam": "https://store.steampowered.com/app/945360/Among_Us/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/945360/capsule_sm_120_alt_assets_2.jpg?t=1636485325",
+    "gameName": "Among Us",
+    "dataCriacao": " 16/nov/2018  ",
+    "desconto": "-25%",
+    "precAnterior": " R$ 10,89",
+    "precAtual": "R$ 8,16",
+    "filters": [
+      3859,
+      3843,
+      745697,
+      1755,
+      1662,
+      3871,
+      4136
+    ]
+  },
+  {
     "gameId": "1522820",
     "urlGameSteam": "https://store.steampowered.com/app/1522820/Orcs_Must_Die_3/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1522820/capsule_sm_120.jpg?t=1636662824",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1522820/capsule_sm_120.jpg?t=1636662824",
     "gameName": "Orcs Must Die! 3",
-    "dataCriacao": "-25%",
-    "desconto": " R$ 57,99",
-    "precAnterior": "R$ 43,49",
+    "dataCriacao": " 23/jul/2021  ",
+    "desconto": "-25%",
+    "precAnterior": " R$ 57,99",
+    "precAtual": "R$ 43,49",
     "filters": [
       1645,
       9,
@@ -199,263 +305,51 @@
   },
   {
     "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/11883/Dead_by_Daylight__Stranger_Things_Edition/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/11883/88yv09e85pr5xu8e/capsule_sm_120.jpg?t=1634654433",
-    "gameName": "Dead by Daylight - Stranger Things Edition",
-    "dataCriacao": "-58%",
-    "desconto": " R$ 71,17",
-    "precAnterior": "R$ 29,79",
-    "filters": [
-      1667,
-      3978,
-      3859,
-      19,
-      4345,
-      4667,
-      3843
-    ]
-  },
-  {
-    "gameId": "945360",
-    "urlGameSteam": "https://store.steampowered.com/app/945360/Among_Us/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/capsule_sm_120_alt_assets_2.jpg?t=1636485325",
-    "gameName": "Among Us",
-    "dataCriacao": "-25%",
-    "desconto": " R$ 10,89",
-    "precAnterior": "R$ 8,16",
-    "filters": [
-      3859,
-      3843,
-      745697,
-      1755,
-      1662,
-      3871,
-      4136
-    ]
-  },
-  {
-    "gameId": "477160",
-    "urlGameSteam": "https://store.steampowered.com/app/477160/Human_Fall_Flat/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/477160/capsule_sm_120.jpg?t=1636482668",
-    "gameName": "Human: Fall Flat",
-    "dataCriacao": "-66%",
-    "desconto": " R$ 37,99",
-    "precAnterior": "R$ 12,91",
-    "filters": [
-      1685,
-      21,
-      1664,
-      4136,
-      19,
-      3968,
-      3810
-    ]
-  },
-  {
-    "gameId": "632470",
-    "urlGameSteam": "https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/capsule_sm_120.jpg?t=1636394488",
-    "gameName": "Disco Elysium - The Final Cut",
-    "dataCriacao": "-45%",
-    "desconto": " R$ 75,49",
-    "precAnterior": "R$ 41,51",
-    "filters": [
-      122,
-      1742,
-      6426,
-      5613,
-      5851,
-      4166,
-      4182
-    ]
-  },
-  {
-    "gameId": "701160",
-    "urlGameSteam": "https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/701160/capsule_sm_120_alt_assets_5.jpg?t=1636733648",
-    "gameName": "Kingdom Two Crowns",
-    "dataCriacao": "-60%",
-    "desconto": " R$ 37,99",
-    "precAnterior": "R$ 15,19",
+    "urlGameSteam": "https://store.steampowered.com/bundle/21432/Sid_Meiers_Civilization_VI_Anthology/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/bundles/21432/djvtj4go7ymkt5lv/capsule_sm_120.jpg?t=1623446315",
+    "gameName": "Sid Meier’s Civilization® VI Anthology",
+    "dataCriacao": "   ",
+    "desconto": "-73%",
+    "precAnterior": " R$ 592,23",
+    "precAtual": "R$ 161,66",
     "filters": [
       9,
-      21,
-      492,
-      3964,
-      599,
-      220585,
-      1685
-    ]
-  },
-  {
-    "gameId": "815370",
-    "urlGameSteam": "https://store.steampowered.com/app/815370/Green_Hell/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/815370/capsule_sm_120.jpg?t=1634313205",
-    "gameName": "Green Hell",
-    "dataCriacao": "-30%",
-    "desconto": " R$ 47,49",
-    "precAnterior": "R$ 33,24",
-    "filters": [
-      1662,
-      1100689,
-      1695,
-      3843,
-      1702,
-      599,
-      4182
-    ]
-  },
-  {
-    "gameId": "425220",
-    "urlGameSteam": "https://store.steampowered.com/app/425220/One_Piece_Burning_Blood/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/425220/capsule_sm_120.jpg?t=1580312234",
-    "gameName": "One Piece Burning Blood",
-    "dataCriacao": "-85%",
-    "desconto": " R$ 129,99",
-    "precAnterior": "R$ 19,49",
-    "filters": [
-      4085,
-      19,
-      1743,
-      3859,
-      1681,
-      4182,
-      7368
-    ]
-  },
-  {
-    "gameId": "1404210",
-    "urlGameSteam": "https://store.steampowered.com/app/1404210/Red_Dead_Online/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1404210/capsule_sm_120.jpg?t=1618851879",
-    "gameName": "Red Dead Online",
-    "dataCriacao": "-50%",
-    "desconto": " R$ 111,99",
-    "precAnterior": "R$ 55,99",
-    "filters": [
-      19,
-      21,
-      1695,
-      1647,
-      3859,
-      1774,
-      6041
-    ]
-  },
-  {
-    "gameId": "1135280",
-    "urlGameSteam": "https://store.steampowered.com/app/1135280/Dead_by_Daylight__Stranger_Things_Chapter/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1135280/capsule_sm_120.jpg?t=1634653232",
-    "gameName": "Dead by Daylight - Stranger Things Chapter",
-    "dataCriacao": "-60%",
-    "desconto": " R$ 24,89",
-    "precAnterior": "R$ 9,95",
-    "filters": [
-      19,
-      4345,
-      4667,
-      1667,
-      3859,
-      3978
-    ]
-  },
-  {
-    "gameId": "1149620",
-    "urlGameSteam": "https://store.steampowered.com/app/1149620/Gas_Station_Simulator/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1149620/capsule_sm_120.jpg?t=1636623035",
-    "gameName": "Gas Station Simulator",
-    "dataCriacao": "-10%",
-    "desconto": " R$ 37,99",
-    "precAnterior": "R$ 34,19",
-    "filters": [
-      599,
-      492,
-      1643,
-      4695,
-      7332,
-      4182,
-      4175
-    ]
-  },
-  {
-    "gameId": "289070",
-    "urlGameSteam": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/capsule_sm_120.jpg?t=1636653176",
-    "gameName": "Sid Meier’s Civilization® VI",
-    "dataCriacao": "-85%",
-    "desconto": " R$ 129,00",
-    "precAnterior": "R$ 19,35",
-    "filters": [
-      9,
-      1741,
-      3987,
-      3859,
-      4182,
       1677,
+      3859,
+      1741,
+      1670,
+      4182,
       4364
     ]
   },
   {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/22376/Farming_Simulator_22__Year_1_Bundle/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/22376/b3svfxvgozh9rzw7/capsule_sm_120.jpg?t=1636034926",
-    "gameName": "Farming Simulator 22 - Year 1 Bundle",
-    "dataCriacao": "-3%",
-    "desconto": " R$ 318,00",
-    "precAnterior": "R$ 310,05",
+    "gameId": "1222140",
+    "urlGameSteam": "https://store.steampowered.com/app/1222140/Detroit_Become_Human/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1222140/capsule_sm_120.jpg?t=1625648054",
+    "gameName": "Detroit: Become Human",
+    "dataCriacao": " 18/jun/2020  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 134,99",
+    "precAtual": "R$ 67,49",
     "filters": [
-      599,
-      87918,
-      12472,
-      1669,
-      22602,
-      9204,
-      1685
-    ]
-  },
-  {
-    "gameId": "1030840",
-    "urlGameSteam": "https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030840/capsule_sm_120.jpg?t=1632420251",
-    "gameName": "Mafia: Definitive Edition",
-    "dataCriacao": "-50%",
-    "desconto": " R$ 229,90",
-    "precAnterior": "R$ 114,95",
-    "filters": [
-      19,
-      1695,
+      6426,
       1742,
-      6378,
-      21,
+      6971,
+      4145,
       4182,
-      5708
-    ]
-  },
-  {
-    "gameId": "13530",
-    "urlGameSteam": "https://store.steampowered.com/app/13530/Prince_of_Persia_The_Two_Thrones/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/13530/capsule_sm_120.jpg?t=1447351264",
-    "gameName": "Prince of Persia: The Two Thrones™",
-    "dataCriacao": "-80%",
-    "desconto": " R$ 29,99",
-    "precAnterior": "R$ 5,99",
-    "filters": [
-      19,
-      21,
-      1625,
-      4036,
-      1697,
-      4182,
-      1646
+      5608,
+      21
     ]
   },
   {
     "gameId": "979690",
     "urlGameSteam": "https://store.steampowered.com/app/979690/The_Ascent/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/979690/capsule_sm_120.jpg?t=1636653727",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/979690/capsule_sm_120.jpg?t=1636653727",
     "gameName": "The Ascent",
-    "dataCriacao": "-25%",
-    "desconto": " R$ 99,00",
-    "precAnterior": "R$ 74,25",
+    "dataCriacao": " 29/jul/2021  ",
+    "desconto": "-25%",
+    "precAnterior": " R$ 99,00",
+    "precAtual": "R$ 74,25",
     "filters": [
       4637,
       4115,
@@ -467,13 +361,260 @@
     ]
   },
   {
+    "gameId": "632470",
+    "urlGameSteam": "https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/632470/capsule_sm_120.jpg?t=1636394488",
+    "gameName": "Disco Elysium - The Final Cut",
+    "dataCriacao": " 15/out/2019  ",
+    "desconto": "-45%",
+    "precAnterior": " R$ 75,49",
+    "precAtual": "R$ 41,51",
+    "filters": [
+      122,
+      1742,
+      6426,
+      5613,
+      5851,
+      4166,
+      4182
+    ]
+  },
+  {
+    "gameId": "425220",
+    "urlGameSteam": "https://store.steampowered.com/app/425220/One_Piece_Burning_Blood/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/425220/capsule_sm_120.jpg?t=1580312234",
+    "gameName": "One Piece Burning Blood",
+    "dataCriacao": " 1/set/2016  ",
+    "desconto": "-85%",
+    "precAnterior": " R$ 129,99",
+    "precAtual": "R$ 19,49",
+    "filters": [
+      4085,
+      19,
+      1743,
+      3859,
+      1681,
+      4182,
+      7368
+    ]
+  },
+  {
+    "gameId": "1135280",
+    "urlGameSteam": "https://store.steampowered.com/app/1135280/Dead_by_Daylight__Stranger_Things_Chapter/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1135280/capsule_sm_120.jpg?t=1634653232",
+    "gameName": "Dead by Daylight - Stranger Things Chapter",
+    "dataCriacao": " 17/set/2019  ",
+    "desconto": "-60%",
+    "precAnterior": " R$ 24,89",
+    "precAtual": "R$ 9,95",
+    "filters": [
+      19,
+      4345,
+      4667,
+      1667,
+      3859,
+      3978
+    ]
+  },
+  {
+    "gameId": "701160",
+    "urlGameSteam": "https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/701160/capsule_sm_120_alt_assets_5.jpg?t=1636733648",
+    "gameName": "Kingdom Two Crowns",
+    "dataCriacao": " 11/dez/2018  ",
+    "desconto": "-60%",
+    "precAnterior": " R$ 37,99",
+    "precAtual": "R$ 15,19",
+    "filters": [
+      9,
+      21,
+      492,
+      3964,
+      599,
+      220585,
+      1685
+    ]
+  },
+  {
+    "gameId": "1030840",
+    "urlGameSteam": "https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1030840/capsule_sm_120.jpg?t=1632420251",
+    "gameName": "Mafia: Definitive Edition",
+    "dataCriacao": " 24/set/2020  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 229,90",
+    "precAtual": "R$ 114,95",
+    "filters": [
+      19,
+      1695,
+      1742,
+      6378,
+      21,
+      4182,
+      5708
+    ]
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/12690/Barotrauma_Supporter_Bundle/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/bundles/12690/f4fa4x2l92wiz2xs/capsule_sm_120.jpg?t=1574358227",
+    "gameName": "Barotrauma Supporter Bundle",
+    "dataCriacao": "   ",
+    "desconto": "-76%",
+    "precAnterior": " R$ 69,98",
+    "precAtual": "R$ 16,59",
+    "filters": [
+      599,
+      3859,
+      19,
+      1662,
+      492,
+      1685,
+      9
+    ]
+  },
+  {
+    "gameId": "1149620",
+    "urlGameSteam": "https://store.steampowered.com/app/1149620/Gas_Station_Simulator/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1149620/capsule_sm_120.jpg?t=1636789651",
+    "gameName": "Gas Station Simulator",
+    "dataCriacao": " 15/set/2021  ",
+    "desconto": "-10%",
+    "precAnterior": " R$ 37,99",
+    "precAtual": "R$ 34,19",
+    "filters": [
+      599,
+      492,
+      1643,
+      4695,
+      7332,
+      4182,
+      4175
+    ]
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/22376/Farming_Simulator_22__Year_1_Bundle/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/bundles/22376/b3svfxvgozh9rzw7/capsule_sm_120.jpg?t=1636034926",
+    "gameName": "Farming Simulator 22 - Year 1 Bundle",
+    "dataCriacao": "   ",
+    "desconto": "-3%",
+    "precAnterior": " R$ 318,00",
+    "precAtual": "R$ 310,05",
+    "filters": [
+      599,
+      87918,
+      12472,
+      1669,
+      22602,
+      9204,
+      1685
+    ]
+  },
+  {
+    "gameId": "755500",
+    "urlGameSteam": "https://store.steampowered.com/app/755500/ONE_PIECE_World_Seeker/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/755500/capsule_sm_120.jpg?t=1597878292",
+    "gameName": "ONE PIECE World Seeker",
+    "dataCriacao": " 14/mar/2019  ",
+    "desconto": "-75%",
+    "precAnterior": " R$ 249,90",
+    "precAtual": "R$ 62,47",
+    "filters": [
+      19,
+      21,
+      4085,
+      1695,
+      4182,
+      1681,
+      1743
+    ]
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/18768/Hunt_Showdown__Deluxe_Edition/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/bundles/18768/1253eu7chrfv7moq/capsule_sm_120.jpg?t=1631200451",
+    "gameName": "Hunt: Showdown - Deluxe Edition",
+    "dataCriacao": "   ",
+    "desconto": "-55%",
+    "precAnterior": " R$ 145,96",
+    "precAtual": "R$ 65,02",
+    "filters": [
+      19,
+      4345,
+      4667,
+      1647,
+      1659,
+      1663,
+      5228
+    ]
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/12218/Sid_Meiers_Civilization_VI__Platinum_Edition/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/bundles/12218/7cg856d5iyp2m6b2/capsule_sm_120.jpg?t=1570208553",
+    "gameName": "Sid Meier's Civilization VI : Platinum Edition",
+    "dataCriacao": "   ",
+    "desconto": "-85%",
+    "precAnterior": " R$ 358,29",
+    "precAtual": "R$ 54,06",
+    "filters": [
+      9,
+      1677,
+      3859,
+      1741,
+      1670,
+      4182,
+      4364
+    ]
+  },
+  {
+    "gameId": "574720",
+    "urlGameSteam": "https://store.steampowered.com/app/574720/Little_Big_Workshop/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/574720/capsule_sm_120.jpg?t=1619009132",
+    "gameName": "Little Big Workshop",
+    "dataCriacao": " 17/out/2019  ",
+    "desconto": "-60%",
+    "precAnterior": " R$ 54,99",
+    "precAtual": "R$ 21,99",
+    "filters": [
+      599,
+      9,
+      12472,
+      1643,
+      8945,
+      3810,
+      4695
+    ]
+  },
+  {
+    "gameId": "536270",
+    "urlGameSteam": "https://store.steampowered.com/app/536270/Ancestors_The_Humankind_Odyssey/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/536270/capsule_sm_120.jpg?t=1627497373",
+    "gameName": "Ancestors: The Humankind Odyssey",
+    "dataCriacao": " 27/ago/2020  ",
+    "desconto": "-60%",
+    "precAnterior": " R$ 149,90",
+    "precAtual": "R$ 59,96",
+    "filters": [
+      1100689,
+      3834,
+      1695,
+      1662,
+      21,
+      4182,
+      1702
+    ]
+  },
+  {
     "gameId": "13500",
     "urlGameSteam": "https://store.steampowered.com/app/13500/Prince_of_Persia_Warrior_Within/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/13500/capsule_sm_120.jpg?t=1447351266",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/13500/capsule_sm_120.jpg?t=1447351266",
     "gameName": "Prince of Persia: Warrior Within™",
-    "dataCriacao": "-80%",
-    "desconto": " R$ 29,99",
-    "precAnterior": "R$ 5,99",
+    "dataCriacao": " 21/nov/2008  ",
+    "desconto": "-80%",
+    "precAnterior": " R$ 29,99",
+    "precAtual": "R$ 5,99",
     "filters": [
       19,
       21,
@@ -485,13 +626,147 @@
     ]
   },
   {
+    "gameId": "246620",
+    "urlGameSteam": "https://store.steampowered.com/app/246620/Plague_Inc_Evolved/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/246620/capsule_sm_120.jpg?t=1611835557",
+    "gameName": "Plague Inc: Evolved",
+    "dataCriacao": " 18/fev/2016  ",
+    "desconto": "-66%",
+    "precAnterior": " R$ 27,99",
+    "precAtual": "R$ 9,51",
+    "filters": [
+      9,
+      599,
+      1100686,
+      492,
+      4182,
+      3859,
+      1659
+    ]
+  },
+  {
+    "gameId": "221680",
+    "urlGameSteam": "https://store.steampowered.com/app/221680/Rocksmith_2014_Edition__Remastered/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/221680/capsule_sm_120.jpg?t=1576502446",
+    "gameName": "Rocksmith® 2014 Edition - Remastered",
+    "dataCriacao": " 4/out/2016  ",
+    "desconto": "-70%",
+    "precAnterior": " R$ 89,99",
+    "precAtual": "R$ 26,99",
+    "filters": [
+      1621,
+      1036,
+      599,
+      1752,
+      1756,
+      597,
+      3841
+    ]
+  },
+  {
+    "gameId": "13600",
+    "urlGameSteam": "https://store.steampowered.com/app/13600/Prince_of_Persia_The_Sands_of_Time/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/13600/capsule_sm_120.jpg?t=1447351278",
+    "gameName": "Prince of Persia®: The Sands of Time",
+    "dataCriacao": " 21/nov/2008  ",
+    "desconto": "-80%",
+    "precAnterior": " R$ 29,99",
+    "precAtual": "R$ 5,99",
+    "filters": [
+      19,
+      21,
+      4036,
+      1625,
+      1697,
+      1693,
+      4182
+    ]
+  },
+  {
+    "gameId": "13530",
+    "urlGameSteam": "https://store.steampowered.com/app/13530/Prince_of_Persia_The_Two_Thrones/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/13530/capsule_sm_120.jpg?t=1447351264",
+    "gameName": "Prince of Persia: The Two Thrones™",
+    "dataCriacao": " 21/nov/2008  ",
+    "desconto": "-80%",
+    "precAnterior": " R$ 29,99",
+    "precAtual": "R$ 5,99",
+    "filters": [
+      19,
+      21,
+      1625,
+      4036,
+      1697,
+      4182,
+      1646
+    ]
+  },
+  {
+    "gameId": "19980",
+    "urlGameSteam": "https://store.steampowered.com/app/19980/Prince_of_Persia/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/19980/capsule_sm_120.jpg?t=1451472861",
+    "gameName": "Prince of Persia®",
+    "dataCriacao": " 10/dez/2008  ",
+    "desconto": "-80%",
+    "precAnterior": " R$ 29,99",
+    "precAtual": "R$ 5,99",
+    "filters": [
+      19,
+      21,
+      4036,
+      1625,
+      1697,
+      4182,
+      1684
+    ]
+  },
+  {
+    "gameId": null,
+    "urlGameSteam": "https://store.steampowered.com/bundle/23495/Orcs_Must_Die_Franchise_Bundle/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/bundles/23495/3k6z5fzq4kzah7zr/capsule_sm_120.jpg?t=1636137445",
+    "gameName": "Orcs Must Die! Franchise Bundle",
+    "dataCriacao": "   ",
+    "desconto": "-55%",
+    "precAnterior": " R$ 167,91",
+    "precAtual": "R$ 75,09",
+    "filters": [
+      9,
+      19,
+      492,
+      1645,
+      1685,
+      1697,
+      21
+    ]
+  },
+  {
+    "gameId": "289070",
+    "urlGameSteam": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/289070/capsule_sm_120.jpg?t=1636653176",
+    "gameName": "Sid Meier’s Civilization® VI",
+    "dataCriacao": " 20/out/2016  ",
+    "desconto": "-85%",
+    "precAnterior": " R$ 129,00",
+    "precAtual": "R$ 19,35",
+    "filters": [
+      9,
+      1741,
+      3987,
+      3859,
+      4182,
+      1677,
+      4364
+    ]
+  },
+  {
     "gameId": "33320",
     "urlGameSteam": "https://store.steampowered.com/app/33320/Prince_of_Persia_The_Forgotten_Sands/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/33320/capsule_sm_120.jpg?t=1452182006",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/33320/capsule_sm_120.jpg?t=1452182006",
     "gameName": "Prince of Persia: The Forgotten Sands™",
-    "dataCriacao": "-80%",
-    "desconto": " R$ 29,99",
-    "precAnterior": "R$ 5,99",
+    "dataCriacao": " 8/jun/2010  ",
+    "desconto": "-80%",
+    "precAnterior": " R$ 29,99",
+    "precAtual": "R$ 5,99",
     "filters": [
       19,
       21,
@@ -505,11 +780,12 @@
   {
     "gameId": "331600",
     "urlGameSteam": "https://store.steampowered.com/app/331600/One_Piece_Pirate_Warriors_3/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/331600/capsule_sm_120.jpg?t=1580311856",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/331600/capsule_sm_120.jpg?t=1580311856",
     "gameName": "One Piece Pirate Warriors 3",
-    "dataCriacao": "-85%",
-    "desconto": " R$ 79,99",
-    "precAnterior": "R$ 11,99",
+    "dataCriacao": " 27/ago/2015  ",
+    "desconto": "-85%",
+    "precAnterior": " R$ 79,99",
+    "precAtual": "R$ 11,99",
     "filters": [
       4085,
       19,
@@ -521,157 +797,14 @@
     ]
   },
   {
-    "gameId": "19980",
-    "urlGameSteam": "https://store.steampowered.com/app/19980/Prince_of_Persia/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/19980/capsule_sm_120.jpg?t=1451472861",
-    "gameName": "Prince of Persia®",
-    "dataCriacao": "-80%",
-    "desconto": " R$ 29,99",
-    "precAnterior": "R$ 5,99",
-    "filters": [
-      19,
-      21,
-      4036,
-      1625,
-      1697,
-      4182,
-      1684
-    ]
-  },
-  {
-    "gameId": "574720",
-    "urlGameSteam": "https://store.steampowered.com/app/574720/Little_Big_Workshop/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/574720/capsule_sm_120.jpg?t=1619009132",
-    "gameName": "Little Big Workshop",
-    "dataCriacao": "-60%",
-    "desconto": " R$ 54,99",
-    "precAnterior": "R$ 21,99",
-    "filters": [
-      599,
-      9,
-      12472,
-      1643,
-      8945,
-      3810,
-      4695
-    ]
-  },
-  {
-    "gameId": "13600",
-    "urlGameSteam": "https://store.steampowered.com/app/13600/Prince_of_Persia_The_Sands_of_Time/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/13600/capsule_sm_120.jpg?t=1447351278",
-    "gameName": "Prince of Persia®: The Sands of Time",
-    "dataCriacao": "-80%",
-    "desconto": " R$ 29,99",
-    "precAnterior": "R$ 5,99",
-    "filters": [
-      19,
-      21,
-      4036,
-      1625,
-      1697,
-      1693,
-      4182
-    ]
-  },
-  {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/22085/Europa_Universalis_IV_Ultimate_Bundle/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/22085/d4xy64k2mi7dkk36/capsule_sm_120.jpg?t=1628784334",
-    "gameName": "Europa Universalis IV: Ultimate Bundle",
-    "dataCriacao": "-56%",
-    "desconto": " R$ 805,19",
-    "precAnterior": "R$ 352,24",
-    "filters": [
-      599,
-      9,
-      4364,
-      3987,
-      1695,
-      4598,
-      21
-    ]
-  },
-  {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/18768/Hunt_Showdown__Deluxe_Edition/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/18768/1253eu7chrfv7moq/capsule_sm_120.jpg?t=1631200451",
-    "gameName": "Hunt: Showdown - Deluxe Edition",
-    "dataCriacao": "-55%",
-    "desconto": " R$ 145,96",
-    "precAnterior": "R$ 65,02",
-    "filters": [
-      19,
-      4345,
-      4667,
-      1647,
-      1659,
-      1663,
-      5228
-    ]
-  },
-  {
-    "gameId": "536270",
-    "urlGameSteam": "https://store.steampowered.com/app/536270/Ancestors_The_Humankind_Odyssey/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/536270/capsule_sm_120.jpg?t=1627497373",
-    "gameName": "Ancestors: The Humankind Odyssey",
-    "dataCriacao": "-60%",
-    "desconto": " R$ 149,90",
-    "precAnterior": "R$ 59,96",
-    "filters": [
-      1100689,
-      3834,
-      1695,
-      1662,
-      21,
-      4182,
-      1702
-    ]
-  },
-  {
-    "gameId": "1203220",
-    "urlGameSteam": "https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1203220/capsule_sm_120.jpg?t=1636734716",
-    "gameName": "NARAKA: BLADEPOINT",
-    "dataCriacao": "-30%",
-    "desconto": " R$ 80,00",
-    "precAnterior": "R$ 56,00",
-    "filters": [
-      176981,
-      3859,
-      6915,
-      1662,
-      12095,
-      1775,
-      1646
-    ]
-  },
-  {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/12218/Sid_Meiers_Civilization_VI__Platinum_Edition/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/12218/7cg856d5iyp2m6b2/capsule_sm_120.jpg?t=1570208553",
-    "gameName": "Sid Meier's Civilization VI : Platinum Edition",
-    "dataCriacao": "-85%",
-    "desconto": " R$ 358,29",
-    "precAnterior": "R$ 54,06",
-    "filters": [
-      9,
-      1677,
-      3859,
-      1741,
-      1670,
-      4182,
-      4364
-    ]
-  },
-  {
     "gameId": "1731910",
     "urlGameSteam": "https://store.steampowered.com/app/1731910/Farming_Simulator_22__Year_1_Season_Pass/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1731910/capsule_sm_120.jpg?t=1636034679",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1731910/capsule_sm_120.jpg?t=1636034679",
     "gameName": "Farming Simulator 22 - Year 1 Season Pass",
-    "dataCriacao": "-5%",
-    "desconto": " R$ 159,00",
-    "precAnterior": "R$ 151,05",
+    "dataCriacao": " 22/nov/2021  ",
+    "desconto": "-5%",
+    "precAnterior": " R$ 159,00",
+    "precAtual": "R$ 151,05",
     "filters": [
       599,
       87918,
@@ -684,120 +817,13 @@
   },
   {
     "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/6306/Deep_Rock_Galactic_Dwarven_Legacy/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/6306/jyan1qxyq9etd2y9/capsule_sm_120.jpg?t=1636025544",
-    "gameName": "Deep Rock Galactic: Dwarven Legacy",
-    "dataCriacao": "-57%",
-    "desconto": " R$ 190,62",
-    "precAnterior": "R$ 82,84",
-    "filters": [
-      19,
-      492,
-      4236,
-      1774,
-      353880,
-      1685,
-      7948
-    ]
-  },
-  {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/18769/Hunt_Showdown__Gold_Edition/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/18769/2mzf9unaqpxnwcgj/capsule_sm_120.jpg?t=1631278307",
-    "gameName": "Hunt: Showdown - Gold Edition",
-    "dataCriacao": "-60%",
-    "desconto": " R$ 216,31",
-    "precAnterior": "R$ 85,55",
-    "filters": [
-      19,
-      4667,
-      4345,
-      1774,
-      1647,
-      1659,
-      1663
-    ]
-  },
-  {
-    "gameId": "221680",
-    "urlGameSteam": "https://store.steampowered.com/app/221680/Rocksmith_2014_Edition__Remastered/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/221680/capsule_sm_120.jpg?t=1576502446",
-    "gameName": "Rocksmith® 2014 Edition - Remastered",
-    "dataCriacao": "-70%",
-    "desconto": " R$ 89,99",
-    "precAnterior": "R$ 26,99",
-    "filters": [
-      1621,
-      1036,
-      599,
-      1752,
-      1756,
-      597,
-      3841
-    ]
-  },
-  {
-    "gameId": "246620",
-    "urlGameSteam": "https://store.steampowered.com/app/246620/Plague_Inc_Evolved/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/246620/capsule_sm_120.jpg?t=1611835557",
-    "gameName": "Plague Inc: Evolved",
-    "dataCriacao": "-66%",
-    "desconto": " R$ 27,99",
-    "precAnterior": "R$ 9,51",
-    "filters": [
-      9,
-      599,
-      1100686,
-      492,
-      4182,
-      3859,
-      1659
-    ]
-  },
-  {
-    "gameId": "571720",
-    "urlGameSteam": "https://store.steampowered.com/app/571720/One_Piece_Unlimited_World_Red__Deluxe_Edition/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/571720/capsule_sm_120.jpg?t=1557821295",
-    "gameName": "One Piece: Unlimited World Red - Deluxe Edition",
-    "dataCriacao": "-85%",
-    "desconto": " R$ 199,90",
-    "precAnterior": "R$ 29,98",
-    "filters": [
-      21,
-      19,
-      4085,
-      4182,
-      1743,
-      1681,
-      1695
-    ]
-  },
-  {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/12690/Barotrauma_Supporter_Bundle/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/12690/f4fa4x2l92wiz2xs/capsule_sm_120.jpg?t=1574358227",
-    "gameName": "Barotrauma Supporter Bundle",
-    "dataCriacao": "-76%",
-    "desconto": " R$ 69,98",
-    "precAnterior": "R$ 16,59",
-    "filters": [
-      599,
-      3859,
-      19,
-      1662,
-      492,
-      1685,
-      9
-    ]
-  },
-  {
-    "gameId": null,
     "urlGameSteam": "https://store.steampowered.com/bundle/23491/Horizon_Chase_Turbo__Ayrton_Senna_Edition/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/23491/4tt6n3lamu251x8z/capsule_sm_120_brazilian.jpg?t=1636035175",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/bundles/23491/4tt6n3lamu251x8z/capsule_sm_120_brazilian.jpg?t=1636035175",
     "gameName": "Horizon Chase Turbo - Ayrton Senna Edition",
-    "dataCriacao": "-33%",
-    "desconto": " R$ 78,89",
-    "precAnterior": "R$ 53,00",
+    "dataCriacao": "   ",
+    "desconto": "-33%",
+    "precAnterior": " R$ 78,89",
+    "precAtual": "R$ 53,00",
     "filters": [
       597,
       701,
@@ -810,30 +836,51 @@
   },
   {
     "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/23495/Orcs_Must_Die_Franchise_Bundle/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/23495/3k6z5fzq4kzah7zr/capsule_sm_120.jpg?t=1636137445",
-    "gameName": "Orcs Must Die! Franchise Bundle",
-    "dataCriacao": "-55%",
-    "desconto": " R$ 167,91",
-    "precAnterior": "R$ 75,09",
+    "urlGameSteam": "https://store.steampowered.com/bundle/23679/Football_Tactics__Glory_TREBLE_DELUXE_EDITION/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/bundles/23679/8iy0ygpdby45cxa8/capsule_sm_120.jpg?t=1636588969",
+    "gameName": "Football, Tactics & Glory TREBLE DELUXE EDITION",
+    "dataCriacao": "   ",
+    "desconto": "-58%",
+    "precAnterior": " R$ 105,47",
+    "precAtual": "R$ 44,59",
     "filters": [
+      701,
+      599,
       9,
-      19,
+      12472,
       492,
-      1645,
-      1685,
+      1679,
+      4325
+    ]
+  },
+  {
+    "gameId": "360430",
+    "urlGameSteam": "https://store.steampowered.com/app/360430/Mafia_III_Definitive_Edition/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/360430/capsule_sm_120.jpg?t=1602775991",
+    "gameName": "Mafia III: Definitive Edition",
+    "dataCriacao": " 19/mai/2020  ",
+    "desconto": "-67%",
+    "precAnterior": " R$ 169,99",
+    "precAtual": "R$ 56,09",
+    "filters": [
+      6378,
+      1695,
+      19,
+      1742,
+      4182,
       1697,
-      21
+      4667
     ]
   },
   {
     "gameId": "389140",
     "urlGameSteam": "https://store.steampowered.com/app/389140/Horizon_Chase_Turbo/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/389140/capsule_sm_120.jpg?t=1636137433",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/389140/capsule_sm_120.jpg?t=1636137433",
     "gameName": "Horizon Chase Turbo",
-    "dataCriacao": "-40%",
-    "desconto": " R$ 49,99",
-    "precAnterior": "R$ 29,99",
+    "dataCriacao": " 15/mai/2018  ",
+    "desconto": "-40%",
+    "precAnterior": " R$ 49,99",
+    "precAtual": "R$ 29,99",
     "filters": [
       699,
       597,
@@ -845,13 +892,28 @@
     ]
   },
   {
+    "gameId": "1308090",
+    "urlGameSteam": "https://store.steampowered.com/app/1308090/Sid_Meiers_Civilization_VI_New_Frontier_Pass/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1308090/capsule_sm_120.jpg?t=1616687858",
+    "gameName": "Sid Meier's Civilization® VI: New Frontier Pass",
+    "dataCriacao": " 20/mai/2020  ",
+    "desconto": "-50%",
+    "precAnterior": " R$ 229,90",
+    "precAtual": "R$ 114,95",
+    "filters": [
+      9,
+      1670
+    ]
+  },
+  {
     "gameId": "365590",
     "urlGameSteam": "https://store.steampowered.com/app/365590/Tom_Clancys_The_Division/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/365590/capsule_sm_120.jpg?t=1602605518",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/365590/capsule_sm_120.jpg?t=1602605518",
     "gameName": "Tom Clancy’s The Division™",
-    "dataCriacao": "-67%",
-    "desconto": " R$ 89,99",
-    "precAnterior": "R$ 29,69",
+    "dataCriacao": " 7/mar/2016  ",
+    "desconto": "-67%",
+    "precAnterior": " R$ 89,99",
+    "precAtual": "R$ 29,69",
     "filters": [
       1695,
       3859,
@@ -863,39 +925,22 @@
     ]
   },
   {
-    "gameId": null,
-    "urlGameSteam": "https://store.steampowered.com/bundle/21432/Sid_Meiers_Civilization_VI_Anthology/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/bundles/21432/djvtj4go7ymkt5lv/capsule_sm_120.jpg?t=1623446315",
-    "gameName": "Sid Meier’s Civilization® VI Anthology",
-    "dataCriacao": "-73%",
-    "desconto": " R$ 592,23",
-    "precAnterior": "R$ 161,66",
+    "gameId": "1244630",
+    "urlGameSteam": "https://store.steampowered.com/app/1244630/House_Builder/?snr=1_7_7_2300_150_1",
+    "gameImgURL": "https://cdn.akamai.steamstatic.com/steam/apps/1244630/capsule_sm_120.jpg?t=1636833397",
+    "gameName": "House Builder",
+    "dataCriacao": " 11/nov/2021  ",
+    "desconto": "-10%",
+    "precAnterior": " R$ 28,99",
+    "precAtual": "R$ 26,09",
     "filters": [
-      9,
-      1677,
-      3859,
-      1741,
-      1670,
-      4182,
-      4364
-    ]
-  },
-  {
-    "gameId": "750290",
-    "urlGameSteam": "https://store.steampowered.com/app/750290/Slice_of_Sea/?snr=1_7_7_2300_150_1",
-    "gameImgURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/750290/capsule_sm_120.jpg?t=1636703180",
-    "gameName": "Slice of Sea",
-    "dataCriacao": "-10%",
-    "desconto": " R$ 47,49",
-    "precAnterior": "R$ 42,74",
-    "filters": [
-      21,
-      1664,
-      3834,
-      6815,
-      3871,
-      4252,
-      6129
+      493,
+      599,
+      597,
+      492,
+      7332,
+      1643,
+      3810
     ]
   }
 ]
