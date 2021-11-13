@@ -11,9 +11,8 @@
   "dependencies": {
     "@types/react-slick": "^0.23.6",
     "axios": "^0.21.1",
-    "chrome-aws-lambda": "^10.1.0",
     "next": "^11.1.2",
-    "puppeteer-core": "^10.4.0",
+    "puppeteer": "^11.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-icons": "^4.3.1",
@@ -23,7 +22,6 @@
   },
   "devDependencies": {
     "@types/node": "^16.7.4",
-    "@types/puppeteer": "^5.4.4",
     "@types/react": "^17.0.19",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",

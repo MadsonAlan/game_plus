@@ -1,16 +1,14 @@
-import { getOptions } from "./configPuppeteer";
-import puppeteer from 'puppeteer-core'
+import puppeteer from 'puppeteer'
 import fs from 'fs'
 import { SectionsData } from "../../../types/types";
 
 export async function atualizaPromo(gameURL: string) {
-  const options = await getOptions()
-  const browser = await puppeteer.launch(options)
+  const browser = await puppeteer.launch()
   const page = await browser.newPage()
   await page.goto(gameURL, { waitUntil: 'networkidle2' });
-  const dadosDeFiltros:SectionsData[] = await page.evaluate(() => {
+  const dadosDeFiltros: SectionsData[] = await page.evaluate(() => {
     const filterArray = []//[...nodeList]
-    document.querySelectorAll('#TagFilter_Container .tab_filter_control_include').forEach(filterGame =>{
+    document.querySelectorAll('#TagFilter_Container .tab_filter_control_include').forEach(filterGame => {
       filterArray.push({
         valueId: filterGame.getAttribute('data-value'),
         titleIndex: filterGame.getAttribute('data-loc')
@@ -29,11 +27,10 @@ export async function atualizaPromo(gameURL: string) {
   const dadosJogos = await page.evaluate(() => {
     const dadosDosJogos = []//[...nodeList] 
     const imgDosJogos = []//[...nodeListImg] 
-    const nodeList = document.querySelectorAll('#search_resultsRows a').forEach(tagA =>
-      {
-        dadosDosJogos.push(tagA)
-      })
-    const nodeListImg = document.querySelectorAll('#search_resultsRows a div img').forEach(tagImg =>{
+    const nodeList = document.querySelectorAll('#search_resultsRows a').forEach(tagA => {
+      dadosDosJogos.push(tagA)
+    })
+    const nodeListImg = document.querySelectorAll('#search_resultsRows a div img').forEach(tagImg => {
       imgDosJogos.push(tagImg)
     })
     // const nodeListComent = document.querySelectorAll('#search_resultsRows a div div span')
@@ -54,7 +51,7 @@ export async function atualizaPromo(gameURL: string) {
         }
       }
     })
-    
+
     return dadosJogos
   })
 
@@ -65,8 +62,8 @@ export async function atualizaPromo(gameURL: string) {
     console.log('well done!');
   })
   await browser.close();
- 
-  return  {
+
+  return {
     gamesData: dadosJogosComDescontos,
     sectionsGame: dadosDeFiltros
   }

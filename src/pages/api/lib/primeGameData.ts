@@ -1,11 +1,9 @@
-import { getOptions } from "./configPuppeteer";
-import puppeteer from 'puppeteer-core'
+import puppeteer from 'puppeteer'
 import fs from 'fs'
 import { SectionsData } from "../../../types/types";
 
 export async function jogosGratisAmazon(gameURL: string) {
-  const options = await getOptions()
-  const browser = await puppeteer.launch(options)
+  const browser = await puppeteer.launch()
   const page = await browser.newPage()
   await page.goto(gameURL, { waitUntil: 'networkidle2' });
 
@@ -13,22 +11,21 @@ export async function jogosGratisAmazon(gameURL: string) {
   //informações sobre os jogos gratis
   const dadosJogosAmaz = await page.evaluate(() => {
     const cardAmazDosJogos = []//[...nodeListImg] 
-    document.querySelectorAll('.needs-scroll-left img').forEach(tagImg =>
-      {
-        cardAmazDosJogos.push(tagImg)
-      })
+    document.querySelectorAll('.needs-scroll-left img').forEach(tagImg => {
+      cardAmazDosJogos.push(tagImg)
+    })
 
     const dadosJogos = cardAmazDosJogos.map((img, index) => {
-        return {
-          gameId: index.toString(),
-          gameImgURL: img.getAttribute('src'),
-          gameName: img.getAttribute('alt'),
-          desconto: 'Grátis com Prime',
-          filters: [161966]
-        }
-      
+      return {
+        gameId: index.toString(),
+        gameImgURL: img.getAttribute('src'),
+        gameName: img.getAttribute('alt'),
+        desconto: 'Grátis com Prime',
+        filters: [161966]
+      }
+
     })
-    
+
     return dadosJogos
   })
 
@@ -38,8 +35,8 @@ export async function jogosGratisAmazon(gameURL: string) {
   })
 
   await browser.close();
- 
-  return  {
+
+  return {
     gamesData: dadosJogosAmaz
   }
 }

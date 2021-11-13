@@ -1,9 +1,7 @@
-import { getOptions } from "./configPuppeteer";
-import puppeteer from 'puppeteer-core'
+import puppeteer from 'puppeteer'
 
 export async function jogosEpicGames(gameURL: string) {
-    const options = await getOptions()
-    const browser = await puppeteer.launch(options)
+    const browser = await puppeteer.launch()
     const page = await browser.newPage()
     await page.goto(gameURL, { waitUntil: 'networkidle2' });
     await page.waitForSelector('.css-lrwy1y')
@@ -35,22 +33,22 @@ export async function jogosEpicGames(gameURL: string) {
             linkCard.push(a)
         })
         console.log(imgCard);
-        
+
         const dadosJogos = titlecardEpic.map((title, index) => {
             return {
                 gameId: index,
                 urlGameSteam: linkCard[index].href,
-                gameImgURL: imgCard[index].alt == title.text??imgCard[index].src,
+                gameImgURL: imgCard[index].alt == title.text ?? imgCard[index].src,
                 gameName: title.text,
                 desconto: discount[index].text,
                 precAnterior: antPrice[index].text,
                 precAtual: atuPrice[index].text,
                 filters: [253232628]
-              }
+            }
 
         })
 
-        
+
         return dadosJogos
     })
 
