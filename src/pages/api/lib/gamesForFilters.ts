@@ -5,7 +5,10 @@ import gamesArray from '../../../data/gamesWithDiscounts.json'
 
 export async function gamesForFilter(filterId: SectionsData) {
     let jogosEncontrados: GameData[] = gamesArray
-    const browser = await puppeteer.launch()
+    const browser = await puppeteer.launch({
+        headless: true,
+        args: ["--no-sandbox"]
+    })
     const page = await browser.newPage()
     await page.goto(`https://store.steampowered.com/search/?tags=${filterId.valueId}&specials=1&filter=topsellers`, { waitUntil: 'networkidle2' });
     //informações sobre os jogos com descontos

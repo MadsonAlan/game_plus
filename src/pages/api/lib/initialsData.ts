@@ -3,7 +3,10 @@ import fs from 'fs'
 import { SectionsData } from "../../../types/types";
 
 export async function atualizaPromo(gameURL: string) {
-  const browser = await puppeteer.launch()
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ["--no-sandbox"]
+  })
   const page = await browser.newPage()
   await page.goto(gameURL, { waitUntil: 'networkidle2' });
   const dadosDeFiltros: SectionsData[] = await page.evaluate(() => {

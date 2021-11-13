@@ -1,7 +1,10 @@
 import puppeteer from 'puppeteer'
 
 export async function jogosEpicGames(gameURL: string) {
-    const browser = await puppeteer.launch()
+    const browser = await puppeteer.launch({
+        headless: true,
+        args: ["--no-sandbox"]
+    })
     const page = await browser.newPage()
     await page.goto(gameURL, { waitUntil: 'networkidle2' });
     await page.waitForSelector('.css-lrwy1y')
