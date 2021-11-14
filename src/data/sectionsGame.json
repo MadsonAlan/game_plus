@@ -12,16 +12,16 @@
     "titleIndex": "Ação"
   },
   {
-    "valueId": "21",
-    "titleIndex": "Aventura"
-  },
-  {
     "valueId": "597",
     "titleIndex": "Casual"
   },
   {
     "valueId": "599",
     "titleIndex": "Simulação"
+  },
+  {
+    "valueId": "21",
+    "titleIndex": "Aventura"
   },
   {
     "valueId": "4166",
@@ -44,12 +44,12 @@
     "titleIndex": "Multijogador"
   },
   {
-    "valueId": "1742",
-    "titleIndex": "Boa Trama"
-  },
-  {
     "valueId": "1664",
     "titleIndex": "Quebra-Cabeça"
+  },
+  {
+    "valueId": "1742",
+    "titleIndex": "Boa Trama"
   },
   {
     "valueId": "1756",
@@ -60,20 +60,12 @@
     "titleIndex": "Primeira Pessoa"
   },
   {
-    "valueId": "1684",
-    "titleIndex": "Fantasia"
-  },
-  {
     "valueId": "1695",
     "titleIndex": "Mundo Aberto"
   },
   {
-    "valueId": "3834",
-    "titleIndex": "Exploração"
-  },
-  {
-    "valueId": "1667",
-    "titleIndex": "Terror"
+    "valueId": "1684",
+    "titleIndex": "Fantasia"
   },
   {
     "valueId": "1774",
@@ -84,16 +76,24 @@
     "titleIndex": "Difícil"
   },
   {
+    "valueId": "1667",
+    "titleIndex": "Terror"
+  },
+  {
+    "valueId": "3834",
+    "titleIndex": "Exploração"
+  },
+  {
+    "valueId": "1662",
+    "titleIndex": "Sobrevivência "
+  },
+  {
     "valueId": "1685",
     "titleIndex": "Cooperativo"
   },
   {
     "valueId": "4136",
     "titleIndex": "Engraçado"
-  },
-  {
-    "valueId": "1697",
-    "titleIndex": "Terceira Pessoa"
   },
   {
     "valueId": "1773",
@@ -212,10 +212,6 @@
     "titleIndex": "Zumbi"
   },
   {
-    "valueId": "1662",
-    "titleIndex": "Sobrevivência "
-  },
-  {
     "valueId": "1663",
     "titleIndex": "Tiro em Primeira Pessoa (FPS)"
   },
@@ -282,6 +278,10 @@
   {
     "valueId": "1693",
     "titleIndex": "Clássico"
+  },
+  {
+    "valueId": "1697",
+    "titleIndex": "Terceira Pessoa"
   },
   {
     "valueId": "1698",

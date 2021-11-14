@@ -3,13 +3,15 @@ import Head from 'next/head'
 import React, { useEffect, useState } from 'react'
 import styles from '../../styles/pages/Home.module.css'
 import SliderHighlightedGame from '../components/SliderHighlightedGame'
-import TopSellers from '../components/TopSellers'
+import TopSellers from '../components/Steam/TopSellersSteam'
 import { GameData, SectionsData } from '../types/types'
 import { jogosEpicGames } from './api/lib/epicGamesData'
 import { atualizaPromo } from './api/lib/initialsData'
 import { jogosGratisAmazon } from './api/lib/primeGameData'
 import SteamLogo from '../../public/steam-1.svg'
 import EpicLogo from '../../public/epic-games-2.svg'
+import CardCarrousselEpic from '../components/EpicGames/CardCarrousselEpic'
+import TopSellersSteam from '../components/Steam/TopSellersSteam'
 
 
 interface PropsHome {
@@ -39,8 +41,8 @@ function Home(props: PropsHome) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <SliderHighlightedGame headerGamesInformation={randomGameToHeader} />
-      <TopSellers cardsData={props.gamesAmazon} filterData={{ titleIndex: 'Jogos Grátis da Amazon', valueId: '161966' }} />
-      <TopSellers cardsData={props.gamesEpicGames} filterData={{ titleIndex: 'Jogos em Promoção na Epic Games', valueId: '253232628' }} />
+      <TopSellers cardsData={props.gamesAmazon} filterData={{ titleIndex: 'PRIME GAMING DO MÊS', valueId: '161966' }} />
+      <CardCarrousselEpic cardsData={props.gamesEpicGames} filterData={{ titleIndex: 'EM PROMOÇÃO NA EPIC GAMES', valueId: '253232628' }} />
       {
         props.sectionsGame.map((filter, index) => {
           let cardsFiltereds: GameData[] = props.gamesData.filter((card) => {
@@ -50,7 +52,7 @@ function Home(props: PropsHome) {
           })
           if (cardsFiltereds.length > 7) {
             return (
-              <TopSellers key={parseInt(filter.valueId)} cardsData={props.gamesData} filterData={filter} />
+              <TopSellersSteam key={parseInt(filter.valueId)} cardsData={props.gamesData} filterData={filter} />
             )
           }
         })

@@ -1,22 +1,25 @@
 .featured {
-    height: 60vh;
+    width: 95%;
+    height: 50vh;   
+    border-radius: 1.5rem;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
 }
 
 .featuredVertical {
-    width: inherit;
-    height: inherit;
-    background: linear-gradient(to top, var(--background) 10%, transparent 90%);
+    width: 100%;
+    height: 100%;
+    /* background: linear-gradient(to top, var(--background) 5%, transparent 95%); */
 }
 
 .featuredHorizontal {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     width: inherit;
     height: inherit;
+    border-radius: 1.5rem;
     background: linear-gradient(to right, rgba(16, 18, 21, 0.7) 30%, transparent 70%);
     padding-left: 2rem;
     padding-bottom: 4rem;
@@ -26,6 +29,7 @@
     font-size: 2.75rem;
     font-weight: 600;
     max-width: 60%;
+    margin-top: 4rem;
 }
 
 .featuredInfo {
@@ -55,18 +59,20 @@
 .discountPercentage div {
     display: flex;
     flex: 1;
-    flex-direction: column;
-    align-items: flex-start;
+    /* flex-direction: column; */
+    align-items: center;
 }
 
 .discountPercentage div p {
     font-size: 1rem;
     text-decoration: line-through;
     color: var(--text);
+    font-weight: lighter;
 }
 
 .discountPercentage div span {
     font-size: 2rem;
+    margin-right: 0.5rem;
     color: var(--tittle);
 }
 
@@ -91,23 +97,32 @@
 
 
 @media(max-width: 425px){
+    .featuredHorizontal {
+        padding-left: 1rem;
+    }
     .featuredName {
-        font-size: 2rem;
+        font-size: 1.3rem;
+        max-width: 100%;        
+        margin-top: 1rem;
     }
     .featuredInfo {
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
     .discountPercentage div p {
         font-size: 0.8rem;
     }
     
     .discountPercentage div span {
-        font-size: 1.5rem;
+        font-size: 1rem;       
+        margin: 0rem;
     }
     .featuredBuyButton {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
-    .featured {
+    .featured {        
+        width: 95%;
+        height: 20vh; 
+        border-radius: 1rem;
         background-size: cover;
         background-position: top;
     }

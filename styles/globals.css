@@ -10,7 +10,8 @@ body {
 
 :root {
   --white: #fff;
-  --background: #101215;
+  --background: #232426;
+  --black: #1c1c1c;
   --gray-line: #DCDDE0;
   --text: #ffffff;
   --text-highlight: #B3B9FF;

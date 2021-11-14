@@ -55,15 +55,6 @@
   },
   {
     "gameId": "6",
-    "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/4124c2wKbjL.jpg",
-    "gameName": "Rise of the Tomb Raider - Full Game + Bonus Content on Epic Games Store",
-    "desconto": "Grátis com Prime",
-    "filters": [
-      161966
-    ]
-  },
-  {
-    "gameId": "7",
     "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41h7hYaowhL.jpg",
     "gameName": "Control Ultimate Edition: Full Game for PC on GOG.com",
     "desconto": "Grátis com Prime",
@@ -72,7 +63,7 @@
     ]
   },
   {
-    "gameId": "8",
+    "gameId": "7",
     "gameImgURL": "https://images-na.ssl-images-amazon.com/images/I/41fU3WeM61L.jpg",
     "gameName": "Dragon Age: Inquisition on Origin",
     "desconto": "Grátis com Prime",

@@ -1,34 +1,35 @@
 import styles from '../../styles/components/HighlightedGames.module.css'
-import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { PropsCard } from '../types/types'
 
 function HighlightedGames({ cardInformation }: PropsCard) {
 
     return (
-        <section className={styles.featured} style={{ backgroundImage: `linear-gradient( to top, rgba(var(--primary-purple), 1), transparent), url('${cardInformation.gameImgURL.replace('capsule_sm_120', 'header')}')` }}>
-        {/* // <section className={styles.featured} style={{ backgroundImage: `linear-gradient( to top, rgba(var(--primary-purple), 1), transparent), url('https://cdn.akamai.steamstatic.com/steam/apps/${cardInformation.gameId}/page_bg_generated_v6b.jpg')` }}> */}
+        <section className={styles.featured} style={{ backgroundImage: `url('${cardInformation.gameImgURL.replace('capsule_sm_120', 'header')}')` }}>
+            {/* // <section className={styles.featured} style={{ backgroundImage: `linear-gradient( to top, rgba(var(--primary-purple), 1), transparent), url('https://cdn.akamai.steamstatic.com/steam/apps/${cardInformation.gameId}/page_bg_generated_v6b.jpg')` }}> */}
             <div className={styles.featuredVertical}>
                 <div className={styles.featuredHorizontal}>
                     <div className={styles.featuredName}>
 
                         {cardInformation.gameName}
-                    </div>
-                    <div className={styles.featuredInfo}>
-                        <div className={styles.featuredLauch}>Lançado em: {cardInformation.dataCriacao}</div>
-                        <div className={styles.discountPercentage}>
-                            <span>
-                                {cardInformation.desconto}
-                            </span>
-                            <div>
-                                <p>
-                                    {cardInformation.precAnterior}
-                                </p>
+                        <div className={styles.featuredInfo}>
+                            <div className={styles.featuredLauch}>Lançado em: {cardInformation.dataCriacao}</div>
+                            <div className={styles.discountPercentage}>
                                 <span>
-                                    {cardInformation.precAtual}
+                                    {cardInformation.desconto}
                                 </span>
+                                <div>
+                                    <span>
+                                        {cardInformation.precAtual}
+                                    </span>
+                                    <p>
+                                        {cardInformation.precAnterior}
+                                    </p>
+                                </div>
                             </div>
                         </div>
+
 
 
                     </div>

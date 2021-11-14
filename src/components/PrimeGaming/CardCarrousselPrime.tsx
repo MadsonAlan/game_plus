@@ -1,9 +1,10 @@
 import React, { memo } from 'react'
-import styles from '../../styles/components/TopSellers.module.css'
-import CardComponent from './Card'
+import styles from '../../styles/components/CardCarrousselPrime.module.css'
+import CardComponent from './CardPrime'
 import { MdOutlineArrowBackIosNew, MdOutlineArrowForwardIos } from "react-icons/md";
-import { GameData, SectionsData } from '../types/types';
+import { GameData, SectionsData } from '../../types/types';
 import Slider, { Settings } from 'react-slick';
+import CardEpic from './CardPrime';
 
 //https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Useful_string_methods
 
@@ -20,7 +21,7 @@ const updateAddCards = (url, filterData) => fetch(url, {
     }
 }).then((res) => res.json())
 
-function TopSellers({
+function CardCarrousselPrime({
     filterData,
     cardsData
 }: PropsTopSellers) {
@@ -68,7 +69,7 @@ function TopSellers({
             {
                 breakpoint: 480,
                 settings: {
-                    slidesToShow: 1,
+                    slidesToShow: 2,
                     slidesToScroll: 1,
                     dots: false
                 }
@@ -101,12 +102,12 @@ function TopSellers({
     return (
         <div className={styles.main}>
 
-            <h3>{filterData.titleIndex}</h3>
+            <h3>{filterData.titleIndex.toUpperCase()}</h3>
             <Slider {...settings}>
                 {
                     validaCard(cardsData).map((cardData, indice) => {
                         return (
-                            <CardComponent
+                            <CardEpic
                                 key={indice}
                                 cardInformation={cardData}
                             />
@@ -120,4 +121,4 @@ function TopSellers({
 }
 
 
-export default memo(TopSellers)
+export default memo(CardCarrousselPrime)

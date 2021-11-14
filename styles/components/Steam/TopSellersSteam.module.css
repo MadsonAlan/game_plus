@@ -1,0 +1,79 @@
+.main {
+  /* margin-top: -8rem; */
+  padding: 2rem 0;
+  margin-bottom: 2rem;
+ }
+
+.main h3 {
+  margin-left: 2rem;
+  color: rgba(var(--title), 1);
+  font-size: 1.3rem;
+  margin-bottom: 1.5rem;
+}
+.wrapper{
+ position: relative;
+}
+.cardCarroussel {
+  margin-top: 1rem;
+  display: flex;
+  width: max-content;
+  transition: all ease 0.8s;
+}
+
+.cardNew {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: rgba(var(--secondary-purple), 1);
+  background-color: var(--white);
+}
+
+
+.sliderArrowBack{
+  width: 3rem;
+  height: 100%;
+  color: var(--title);
+  position: absolute;
+  left: 0;
+  z-index: 99;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  cursor: pointer;
+  opacity: 0.8;
+  transition: all 250ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;
+}
+.sliderArrowBack:hover{
+  opacity: 1;
+  border-radius: 5px 0px 0px 5px;
+  background-color:rgba(220, 221, 224, 0.5);
+}
+
+.sliderArrowForward{
+  width: 3rem;
+  height: 100%;
+  color: var(--title);
+  position: absolute;
+  right: 0;
+  z-index: 99;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  cursor: pointer;
+  opacity: 0.8;
+  transition: all 250ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s;
+}
+.sliderArrowForward:hover{
+  opacity: 1;
+  border-radius: 0px 5px 5px 0px;
+  background-color: rgba(220, 221, 224, 0.5);
+}
+
+
+@media(max-width: 425px){
+  .sliderArrowBack {
+    display: none;
+  }
+  .sliderArrowForward{
+    display: none;
+  }
+}
