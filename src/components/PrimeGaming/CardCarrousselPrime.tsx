@@ -1,10 +1,9 @@
 import React, { memo } from 'react'
-import styles from '../../styles/components/CardCarrousselPrime.module.css'
-import CardComponent from './CardPrime'
+import styles from '../../../styles/components/PrimeGaming/CardCarrousselPrime.module.css'
 import { MdOutlineArrowBackIosNew, MdOutlineArrowForwardIos } from "react-icons/md";
 import { GameData, SectionsData } from '../../types/types';
 import Slider, { Settings } from 'react-slick';
-import CardEpic from './CardPrime';
+import CardPrime from './CardPrime';
 
 //https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Useful_string_methods
 
@@ -51,7 +50,7 @@ function CardCarrousselPrime({
             {
                 breakpoint: 1024,
                 settings: {
-                    slidesToShow: 3,
+                    slidesToShow: 4,
                     slidesToScroll: 1,
                     infinite: true,
                     dots: false
@@ -60,7 +59,7 @@ function CardCarrousselPrime({
             {
                 breakpoint: 800,
                 settings: {
-                    slidesToShow: 2,
+                    slidesToShow: 3,
                     slidesToScroll: 1,
                     initialSlide: 2,
                     dots: false
@@ -107,7 +106,7 @@ function CardCarrousselPrime({
                 {
                     validaCard(cardsData).map((cardData, indice) => {
                         return (
-                            <CardEpic
+                            <CardPrime
                                 key={indice}
                                 cardInformation={cardData}
                             />

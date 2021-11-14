@@ -1,6 +1,6 @@
 .featured {
     width: 95%;
-    height: 50vh;   
+    height: 50vh;
     border-radius: 1.5rem;
     background-repeat: no-repeat;
     background-size: cover;
@@ -19,7 +19,7 @@
     justify-content: space-between;
     width: inherit;
     height: inherit;
-    border-radius: 1.5rem;
+    border-radius: 1rem;
     background: linear-gradient(to right, rgba(16, 18, 21, 0.7) 30%, transparent 70%);
     padding-left: 2rem;
     padding-bottom: 4rem;
@@ -93,16 +93,21 @@
     transform: scale(1.02);
 }
 
+@media(max-width: 1450px) {
+    .featured {
+        width: 100%;
+    }
+}
 
-
-
-@media(max-width: 425px){
+@media(max-width: 425px) {
     .featuredHorizontal {
         padding-left: 1rem;
+        border-radius: 0;
+        padding-bottom: 1rem;
     }
     .featuredName {
         font-size: 1.3rem;
-        max-width: 100%;        
+        max-width: 100%;
         margin-top: 1rem;
     }
     .featuredInfo {
@@ -111,18 +116,17 @@
     .discountPercentage div p {
         font-size: 0.8rem;
     }
-    
     .discountPercentage div span {
-        font-size: 1rem;       
+        font-size: 1rem;
         margin: 0rem;
     }
     .featuredBuyButton {
         font-size: 1rem;
     }
-    .featured {        
-        width: 95%;
-        height: 20vh; 
-        border-radius: 1rem;
+    .featured {
+        width: 100%;
+        height: 35vh;
+        border-radius: 0;
         background-size: cover;
         background-position: top;
     }

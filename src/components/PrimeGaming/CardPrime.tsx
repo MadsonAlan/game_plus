@@ -1,6 +1,6 @@
 import React, { memo } from 'react'
 import { PropsCard } from '../../types/types'
-import styles from '../../styles/components/CardPrime.module.css'
+import styles from '../../../styles/components/PrimeGaming/CardPrime.module.css'
 
 
 function CardPrime({ cardInformation }: PropsCard) {

@@ -1,3 +1,10 @@
-.slider{
-    z-index: -99;
-}
+    .slider {
+        margin-top: 5rem;
+        z-index: -99;
+    }
+    
+    @media(max-width: 425px) {
+        .slider {
+            margin-top: 3rem;
+        }
+    }

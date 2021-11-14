@@ -1,6 +1,6 @@
 import React, { memo } from 'react'
 import { PropsCard } from '../../types/types'
-import styles from '../../styles/components/Card.module.css'
+import styles from '../../../styles/components/Steam/CardSteam.module.css'
 
 
 function CardSteam({ cardInformation }: PropsCard) {

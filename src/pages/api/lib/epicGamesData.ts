@@ -15,34 +15,39 @@ export async function jogosEpicGames(gameURL: string) {
         const dadosJogosEpic = await page.evaluate(() => {
             const titlecardEpic = []//[...nodeListImg] 
             const discount = []
-            const antPrice = []
-            const atuPrice = []
             const imgCard = []
             const linkCard = []
+            const pricesGame = []
+
+            //rolar pro final da página
+            var heightPage = document.body.scrollHeight;
+            window.scrollTo(0, heightPage);
+
+            document.querySelectorAll('.css-1vm3ks').forEach(priceGame => {
+                // console.log(titleGame);
+                pricesGame.push(priceGame)
+            })
             document.querySelectorAll('.css-2ucwu div').forEach(titleGame => {
                 titlecardEpic.push(titleGame)
             })
             document.querySelectorAll('.css-b0xoos').forEach(discountGame => {
+
                 discount.push(discountGame)
             })
-            document.querySelectorAll('.css-1rcj98u').forEach(antPriceGame => {
-                antPrice.push(antPriceGame)
-            })
-            document.querySelectorAll('.css-1vm3ks .css-1x8w2lj span').forEach(atupriceGame => {
-                atuPrice.push(atupriceGame)
-            })
-            document.querySelectorAll('.css-13vabc5').forEach(imageGame => {
+            document.querySelectorAll('.css-1lozana img').forEach(imageGame => {
+                console.log(imageGame);
+
                 imgCard.push({
                     alt: imageGame.getAttribute('alt'),
-                    src: imageGame.getAttribute('src')
+                    src: imageGame.getAttribute('data-image')
                 })
             })
             document.querySelectorAll('.css-1jx3eyg').forEach(a => {
                 linkCard.push(a)
             })
 
-
             const dadosJogos = titlecardEpic.map((title, index) => {
+                const separarPrecos = pricesGame[index].innerText.split(`\n`)
 
                 return {
                     gameId: index,
@@ -50,8 +55,8 @@ export async function jogosEpicGames(gameURL: string) {
                     gameImgURL: imgCard[index].alt ? (imgCard[index].alt == title.textContent ? imgCard[index].src : '#') : '#',
                     gameName: title.textContent,
                     desconto: discount[index].textContent,
-                    precAnterior: antPrice[index].textContent,
-                    precAtual: atuPrice[index].textContent,
+                    precAnterior: separarPrecos[0],
+                    precAtual: separarPrecos[1],
                     filters: [253232628]
                 }
 

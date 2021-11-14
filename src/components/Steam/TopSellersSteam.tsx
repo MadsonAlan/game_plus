@@ -1,5 +1,5 @@
 import React, { memo } from 'react'
-import styles from '../../styles/components/TopSellers.module.css'
+import styles from '../../../styles/components/Steam/TopSellersSteam.module.css'
 import { MdOutlineArrowBackIosNew, MdOutlineArrowForwardIos } from "react-icons/md";
 import { GameData, SectionsData } from '../../types/types';
 import Slider, { Settings } from 'react-slick';
@@ -8,7 +8,10 @@ import CardSteam from './CardSteam';
 //https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Useful_string_methods
 
 interface PropsTopSellers {
-    filterData: SectionsData,
+    filterData: {
+        valueId: string;
+        titleIndex?: string;
+    },
     cardsData: GameData[],
 }
 
@@ -96,7 +99,14 @@ function TopSellersSteam({
             <h3>{filterData.titleIndex.toUpperCase()}</h3>
             <Slider {...settings}>
                 {
-                    validaCard(cardsData).map((cardData, indice) => {
+                    filterData.valueId ? validaCard(cardsData).map((cardData, indice) => {
+                        return (
+                            <CardSteam
+                                key={indice}
+                                cardInformation={cardData}
+                            />
+                        )
+                    }) : cardsData.map((cardData, indice) => {
                         return (
                             <CardSteam
                                 key={indice}
@@ -104,6 +114,7 @@ function TopSellersSteam({
                             />
                         )
                     })
+
                 }
             </Slider>
         </div>

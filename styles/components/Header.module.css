@@ -1,0 +1,31 @@
+    .header {
+        position: fixed;
+        z-index: 999;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 5rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 2rem;
+        background: var(--black);
+    }
+    
+    .tittleHeader {
+        font-weight: 400;
+        margin: 1rem 0;
+        text-align: center;
+        color: var(--red);
+    }
+    
+    .tittleHeader strong {
+        font-weight: 600;
+        color: var(--white);
+    }
+    
+    @media(max-width: 425px) {
+        .header {
+            height: 4rem;
+        }
+    }

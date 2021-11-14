@@ -1,106 +1,94 @@
 [
   {
     "gameId": 0,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/redrawn-the-painted-tower-collectors-edition-dfbc54",
-    "gameImgURL": "https://cdn1.epicgames.com/spt-assets/7f9eb6da51f64f49b14850f053252774/download-redrawn--the-painted-tower-collectors-edition-offer-mbeyh.jpg?h=854&resize=1&w=640",
-    "gameName": "ReDrawn - The Painted Tower Collectors Edition",
-    "desconto": "-10%",
-    "precAnterior": "R$ 26,99",
-    "precAtual": "R$ 26,99",
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
+    "gameImgURL": "https://cdn1.epicgames.com/offer/d98b6c292e224a59b359372f4f5152df/EGS_TinyTinasAssaultonDragonKeepAWonderlandsOneshotAdventure_GearboxSoftwareStrayKiteStudios_S2_1200x1600-a827863daf5091ebb8481ea7ee54c729?h=854&resize=1&w=640",
+    "gameName": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+    "desconto": "-100%",
+    "precAnterior": "R$ 53,90",
+    "precAtual": "Gratuito",
     "filters": [
       253232628
     ]
   },
   {
     "gameId": 1,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
-    "gameImgURL": "https://cdn1.epicgames.com/offer/d98b6c292e224a59b359372f4f5152df/EGS_TinyTinasAssaultonDragonKeepAWonderlandsOneshotAdventure_GearboxSoftwareStrayKiteStudios_S2_1200x1600-a827863daf5091ebb8481ea7ee54c729?h=854&resize=1&w=640",
-    "gameName": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
-    "desconto": "-100%",
-    "precAnterior": "R$ 53,90",
-    "precAtual": "R$ 24,29",
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/the-town-of-light",
+    "gameImgURL": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheTownofLight_LKA_S2_1200x1600-1f7f7172b74adc9544f504c47dc5bb26?h=854&resize=1&w=640",
+    "gameName": "The Town of Light",
+    "desconto": "-85%",
+    "precAnterior": "R$ 37,99",
+    "precAtual": "R$ 5,69",
     "filters": [
       253232628
     ]
   },
   {
     "gameId": 2,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/chromagun",
-    "gameImgURL": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ChromaGun_PixelManiacs_S2_1200x1600-08050de046d806741411675a7ca51eb6?h=854&resize=1&w=640",
-    "gameName": "ChromaGun",
-    "desconto": "-20%",
-    "precAnterior": "R$ 25,99",
-    "precAtual": "R$ 53,90",
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-2",
+    "gameImgURL": "https://cdn1.epicgames.com/a0b8d4482f3d4f939f35f87a3f367865/offer/FC_FC2_Store_Portrait_1200x1600-1200x1600-8e5fc0a55113b7eaa91781c61563ccd1.jpg?h=854&resize=1&w=640",
+    "gameName": "Far Cry 2: Fortune's Edition",
+    "desconto": "-70%",
+    "precAnterior": "R$ 29,99",
+    "precAtual": "R$ 8,99",
     "filters": [
       253232628
     ]
   },
   {
     "gameId": 3,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/those-who-remain",
-    "gameImgURL": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_ThoseWhoRemain_Camel101_S2_1200x1600-f811a4615bc0cc5f81b90d2a1d2257b6?h=854&resize=1&w=640",
-    "gameName": "Those Who Remain",
-    "desconto": "-52%",
-    "precAnterior": "R$ 37,99",
-    "precAtual": "Gratuito",
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry",
+    "gameImgURL": "https://cdn1.epicgames.com/71f938f91f0a4ccfaba0be708a930e8a/offer/GameName_Store_Portrait_1200x1600-1200x1600-cecdc41b252a33e1b1bc357863a5a1a1.jpg?h=854&resize=1&w=640",
+    "gameName": "Far Cry",
+    "desconto": "-70%",
+    "precAnterior": "R$ 29,99",
+    "precAtual": "R$ 8,99",
     "filters": [
       253232628
     ]
   },
   {
     "gameId": 4,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/deliver-us-the-moon",
-    "gameImgURL": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DeliverUsTheMoon_KeokenInteractive_S2_1200x1600-71c5c41a910f1f1d639e964bc3b44430?h=854&resize=1&w=640",
-    "gameName": "Deliver Us The Moon",
-    "desconto": "-42%",
-    "precAnterior": "R$ 47,99",
-    "precAtual": "Gratuito",
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-3-blood-dragon",
+    "gameImgURL": "https://cdn1.epicgames.com/epic/offer/FC3DB Portrait-1280x1440-787bce84c08e424e3d8dd75bef1e7053.png?h=854&resize=1&w=640",
+    "gameName": "Far Cry 3: Sangue de Dragão",
+    "desconto": "-70%",
+    "precAnterior": "R$ 44,99",
+    "precAtual": "R$ 13,49",
     "filters": [
       253232628
     ]
   },
   {
     "gameId": 5,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/the-town-of-light",
-    "gameImgURL": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheTownofLight_LKA_S2_1200x1600-1f7f7172b74adc9544f504c47dc5bb26?h=854&resize=1&w=640",
-    "gameName": "The Town of Light",
-    "desconto": "-85%",
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/close-to-the-sun",
+    "gameImgURL": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg?h=854&resize=1&w=640",
+    "gameName": "Close To The Sun",
+    "desconto": "-62%",
     "precAnterior": "R$ 37,99",
-    "precAtual": "R$ 25,99",
+    "precAtual": "R$ 14,43",
     "filters": [
       253232628
     ]
   },
   {
     "gameId": 6,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/tandem-a-tale-of-shadows-c3f55e",
-    "gameImgURL": "https://cdn1.epicgames.com/spt/da66527c-f465-4e49-8faa-08aa69db17da/download-tandem-a-tale-of-shadows-offer-eae909e.jpg?h=854&resize=1&w=640",
-    "gameName": "Tandem: A Tale of Shadows",
-    "desconto": "-30%",
-    "precAnterior": "R$ 47,99",
-    "precAtual": "R$ 20,79",
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-3",
+    "gameImgURL": "https://cdn1.epicgames.com/undefined/offer/S2-FAR-CRY-3-1280x1440-e6b5b5e28005a93a580179c7e4342247.jpg?h=854&resize=1&w=640",
+    "gameName": "Far Cry®3 Edição Standard",
+    "desconto": "-70%",
+    "precAnterior": "R$ 59,99",
+    "precAtual": "R$ 17,99",
     "filters": [
       253232628
     ]
   },
   {
     "gameId": 7,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/europa-universalis-iv",
-    "gameImgURL": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S4_1200x1600-381fe4bad2c0951566b465ab1a46726d?h=854&resize=1&w=640",
-    "gameName": "Europa Universalis IV",
-    "desconto": "-75%",
-    "precAnterior": "R$ 75,99",
-    "precAtual": "R$ 37,99",
-    "filters": [
-      253232628
-    ]
-  },
-  {
-    "gameId": 8,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/the-falconeer",
-    "gameImgURL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
-    "gameName": "The Falconeer: Standard Edition",
-    "desconto": "-25%",
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/those-who-remain",
+    "gameImgURL": "#",
+    "gameName": "Those Who Remain",
+    "desconto": "-52%",
     "precAnterior": "R$ 37,99",
     "precAtual": "R$ 18,23",
     "filters": [
@@ -108,109 +96,121 @@
     ]
   },
   {
-    "gameId": 9,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-2",
-    "gameImgURL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
-    "gameName": "Far Cry 2: Fortune's Edition",
-    "desconto": "-70%",
-    "precAnterior": "R$ 29,99",
-    "precAtual": "R$ 47,99",
-    "filters": [
-      253232628
-    ]
-  },
-  {
-    "gameId": 10,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry",
-    "gameImgURL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
-    "gameName": "Far Cry",
-    "desconto": "-70%",
-    "precAnterior": "R$ 29,99",
-    "precAtual": "R$ 27,83",
-    "filters": [
-      253232628
-    ]
-  },
-  {
-    "gameId": 11,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-3-blood-dragon",
-    "gameImgURL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
-    "gameName": "Far Cry 3: Sangue de Dragão",
-    "desconto": "-70%",
-    "precAnterior": "R$ 44,99",
-    "precAtual": "R$ 37,99",
-    "filters": [
-      253232628
-    ]
-  },
-  {
-    "gameId": 12,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-new-dawn",
-    "gameImgURL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
-    "gameName": "Far Cry New Dawn Edição Standard",
+    "gameId": 8,
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/europa-universalis-iv",
+    "gameImgURL": "#",
+    "gameName": "Europa Universalis IV",
     "desconto": "-75%",
-    "precAnterior": "R$ 119,99",
-    "precAtual": "R$ 5,69",
-    "filters": [
-      253232628
-    ]
-  },
-  {
-    "gameId": 13,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-3",
-    "gameImgURL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
-    "gameName": "Far Cry®3 Edição Standard",
-    "desconto": "-70%",
-    "precAnterior": "R$ 59,99",
-    "precAtual": "R$ 47,99",
-    "filters": [
-      253232628
-    ]
-  },
-  {
-    "gameId": 14,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-5",
-    "gameImgURL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
-    "gameName": "Far Cry 5 Edição Standard",
-    "desconto": "-85%",
-    "precAnterior": "R$ 179,99",
-    "precAtual": "R$ 33,59",
-    "filters": [
-      253232628
-    ]
-  },
-  {
-    "gameId": 15,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-4",
-    "gameImgURL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
-    "gameName": "FAR CRY 4",
-    "desconto": "-70%",
-    "precAnterior": "R$ 89,99",
-    "precAtual": "R$ 75,99",
-    "filters": [
-      253232628
-    ]
-  },
-  {
-    "gameId": 16,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-primal",
-    "gameImgURL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
-    "gameName": "Far Cry Primal Edição Standard",
-    "desconto": "-75%",
-    "precAnterior": "R$ 99,99",
+    "precAnterior": "R$ 75,99",
     "precAtual": "R$ 18,99",
     "filters": [
       253232628
     ]
   },
   {
-    "gameId": 17,
-    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/close-to-the-sun",
-    "gameImgURL": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
-    "gameName": "Close To The Sun",
-    "desconto": "-62%",
+    "gameId": 9,
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/chromagun",
+    "gameImgURL": "#",
+    "gameName": "ChromaGun",
+    "desconto": "-20%",
+    "precAnterior": "R$ 25,99",
+    "precAtual": "R$ 20,79",
+    "filters": [
+      253232628
+    ]
+  },
+  {
+    "gameId": 10,
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/redrawn-the-painted-tower-collectors-edition-dfbc54",
+    "gameImgURL": "#",
+    "gameName": "ReDrawn - The Painted Tower Collectors Edition",
+    "desconto": "-10%",
+    "precAnterior": "R$ 26,99",
+    "precAtual": "R$ 24,29",
+    "filters": [
+      253232628
+    ]
+  },
+  {
+    "gameId": 11,
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-primal",
+    "gameImgURL": "#",
+    "gameName": "Far Cry Primal Edição Standard",
+    "desconto": "-75%",
+    "precAnterior": "R$ 99,99",
+    "precAtual": "R$ 24,99",
+    "filters": [
+      253232628
+    ]
+  },
+  {
+    "gameId": 12,
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-5",
+    "gameImgURL": "#",
+    "gameName": "Far Cry 5 Edição Standard",
+    "desconto": "-85%",
+    "precAnterior": "R$ 179,99",
+    "precAtual": "R$ 26,99",
+    "filters": [
+      253232628
+    ]
+  },
+  {
+    "gameId": 13,
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-4",
+    "gameImgURL": "#",
+    "gameName": "FAR CRY 4",
+    "desconto": "-70%",
+    "precAnterior": "R$ 89,99",
+    "precAtual": "R$ 26,99",
+    "filters": [
+      253232628
+    ]
+  },
+  {
+    "gameId": 14,
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/deliver-us-the-moon",
+    "gameImgURL": "#",
+    "gameName": "Deliver Us The Moon",
+    "desconto": "-42%",
+    "precAnterior": "R$ 47,99",
+    "precAtual": "R$ 27,83",
+    "filters": [
+      253232628
+    ]
+  },
+  {
+    "gameId": 15,
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/the-falconeer",
+    "gameImgURL": "#",
+    "gameName": "The Falconeer: Standard Edition",
+    "desconto": "-25%",
     "precAnterior": "R$ 37,99",
-    "precAtual": "R$ 37,99",
+    "precAtual": "R$ 28,49",
+    "filters": [
+      253232628
+    ]
+  },
+  {
+    "gameId": 16,
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/far-cry-new-dawn",
+    "gameImgURL": "#",
+    "gameName": "Far Cry New Dawn Edição Standard",
+    "desconto": "-75%",
+    "precAnterior": "R$ 119,99",
+    "precAtual": "R$ 29,99",
+    "filters": [
+      253232628
+    ]
+  },
+  {
+    "gameId": 17,
+    "urlGameSteam": "https://www.epicgames.com/store/pt-BR/p/tandem-a-tale-of-shadows-c3f55e",
+    "gameImgURL": "#",
+    "gameName": "Tandem: A Tale of Shadows",
+    "desconto": "-30%",
+    "precAnterior": "R$ 47,99",
+    "precAtual": "R$ 33,59",
     "filters": [
       253232628
     ]

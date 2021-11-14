@@ -1,6 +1,5 @@
 import React, { memo } from 'react'
-import styles from '../../styles/components/CardCarrousselEpic.module.css'
-import CardComponent from './CardEpic'
+import styles from '../../../styles/components/EpicGames/CardCarrousselEpic.module.css'
 import { MdOutlineArrowBackIosNew, MdOutlineArrowForwardIos } from "react-icons/md";
 import { GameData, SectionsData } from '../../types/types';
 import Slider, { Settings } from 'react-slick';
@@ -31,7 +30,6 @@ function CardCarrousselEpic({
         className: "center",
         centerMode: true,
         infinite: true,
-        centerPadding: "60px",
         slidesToShow: 8,
         slidesToScroll: 1,
         speed: 600,
@@ -51,7 +49,7 @@ function CardCarrousselEpic({
             {
                 breakpoint: 1024,
                 settings: {
-                    slidesToShow: 3,
+                    slidesToShow: 4,
                     slidesToScroll: 1,
                     infinite: true,
                     dots: false
@@ -60,7 +58,7 @@ function CardCarrousselEpic({
             {
                 breakpoint: 800,
                 settings: {
-                    slidesToShow: 2,
+                    slidesToShow: 4,
                     slidesToScroll: 1,
                     initialSlide: 2,
                     dots: false

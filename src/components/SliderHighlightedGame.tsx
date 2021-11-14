@@ -14,16 +14,17 @@ function SliderHighlightedGame({ headerGamesInformation }: PropsHeaderGames) {
         centerMode: true,
         infinite: true,
         centerPadding: "60px",
-        // fade: true,
+        fade: false,
         slidesToShow: 2,
         slidesToScroll: 1,
         speed: 5000,
-        autoplay: false,
+        autoplay: true,
         responsive: [
             {
                 breakpoint: 1450,
                 settings: {
                     slidesToShow: 1,
+                    fade: true,
                     slidesToScroll: 1,
                     infinite: true,
                     dots: false
@@ -34,6 +35,7 @@ function SliderHighlightedGame({ headerGamesInformation }: PropsHeaderGames) {
                 settings: {
                     slidesToShow: 1,
                     slidesToScroll: 1,
+                    fade: true,
                     infinite: true,
                     dots: false
                 }
@@ -43,6 +45,7 @@ function SliderHighlightedGame({ headerGamesInformation }: PropsHeaderGames) {
                 settings: {
                     slidesToShow: 1,
                     slidesToScroll: 1,
+                    fade: true,
                     initialSlide: 2,
                     dots: false
                 }
@@ -50,8 +53,10 @@ function SliderHighlightedGame({ headerGamesInformation }: PropsHeaderGames) {
             {
                 breakpoint: 480,
                 settings: {
+                    centerPadding: '0',
                     slidesToShow: 1,
                     slidesToScroll: 1,
+                    fade: true,
                     dots: false
                 }
             }

@@ -1,6 +1,6 @@
 import React, { memo } from 'react'
 import { PropsCard } from '../../types/types'
-import styles from '../../styles/components/CardEpic.module.css'
+import styles from '../../../styles/components/EpicGames/CardEpic.module.css'
 
 
 function CardEpic({ cardInformation }: PropsCard) {

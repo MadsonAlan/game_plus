@@ -41,7 +41,7 @@ export async function atualizaPromo(gameURL: string) {
 
       const dadosJogos = dadosDosJogos.map((a, index) => {
         const validarDesconto = a.innerText.split(`\n`)
-        console.log(validarDesconto);
+        // console.log(validarDesconto);
 
         if (validarDesconto.length > 4) {
           return {

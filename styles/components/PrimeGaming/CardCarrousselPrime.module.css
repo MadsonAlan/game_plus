@@ -5,6 +5,9 @@
  }
 
 .main h3 {
+  border-left: ridge;
+  border-color: var(--green);
+  padding-left: 1rem;
   margin-left: 2rem;
   color: rgba(var(--title), 1);
   font-size: 1.3rem;
@@ -70,6 +73,14 @@
 
 
 @media(max-width: 425px){
+  .main {
+  /* margin-top: -8rem; */
+  padding: 1rem 0;
+  margin-bottom: 1rem;
+ }
+ .main h3 {
+  font-size: 1rem;
+}
   .sliderArrowBack {
     display: none;
   }
